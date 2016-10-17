@@ -1,0 +1,9 @@
+CREATE TABLE `followers` (
+  `Follower_id` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
+  `Public_id` smallint(5) NOT NULL,
+  `SocialN_id` smallint(5) NOT NULL,
+  `Preference` varchar(30) NOT NULL,
+  `Status` varchar(15) NOT NULL,
+  `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`Follower_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=201 DEFAULT CHARSET=utf8;
