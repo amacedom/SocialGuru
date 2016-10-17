@@ -1,0 +1,12 @@
+INSERT INTO `socialguru1.0`.`publicfigure`
+(`Public_id`,
+`descr`,
+`name`,
+`genre`)
+VALUES
+('1',
+'Franco Escamilla',
+'Franco Escamilla',
+'Comedia');
+
+select * from publicfigure
