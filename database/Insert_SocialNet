@@ -1,0 +1,14 @@
+INSERT INTO `socialguru1.0`.`socialnet`
+(`Network_Id`,
+`Follower_id`,
+`Public_id`,
+`Preference`,
+`Status`)
+VALUES
+('1',
+'1',
+'1',
+'Facebook',
+'100000');
+
+select * from socialnet
