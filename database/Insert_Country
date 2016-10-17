@@ -1,0 +1,9 @@
+INSERT INTO `socialguru1.0`.`country`
+(`country_id`,
+`descr`)
+VALUES
+(1,
+'Mexico'
+);
+
+select * from country 
