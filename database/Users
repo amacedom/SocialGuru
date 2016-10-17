@@ -1,0 +1,12 @@
+CREATE TABLE `users` (
+  `user_id` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
+  `descr` varchar(45) NOT NULL,
+  `pass` varchar(30) NOT NULL,
+  `name` varchar(30) NOT NULL,
+  `last_name` varchar(30) NOT NULL,
+  `add1` varchar(45) NOT NULL,
+  `zip_code` smallint(6) DEFAULT NULL,
+  `country_id` smallint(6) NOT NULL DEFAULT '0',
+  `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`user_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=201 DEFAULT CHARSET=utf8;
