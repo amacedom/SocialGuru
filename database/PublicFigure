@@ -1,0 +1,8 @@
+CREATE TABLE `publicfigure` (
+  `Public_id` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
+  `descr` varchar(45) NOT NULL,
+  `name` varchar(30) NOT NULL,
+  `genre` varchar(30) NOT NULL,
+  `last_update` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`Public_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=201 DEFAULT CHARSET=utf8;
