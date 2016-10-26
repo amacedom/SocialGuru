@@ -57,12 +57,12 @@ class PFHandler:
         Output: jSON format file containing the general information about the given public figure:
         Name, ID, about, fan_count, likes, app links (if any), etc... 
         """
-        profile = self.graph.get_object('belindapop')
+        profile = self.graph.get_object(fbpf)
         posts = self.graph.get_connections(profile['id'], 'posts')
         profile_data = self.graph.get_connections(profile['id'],'?fields=id,name,fan_count,feed')
         #print profile_data
         #print profile_data['fan_count']
-        return profile_data['fan_count']
+        return profile_data
 
   
 print "PFHandler.__doc__:", PFHandler.__doc__
