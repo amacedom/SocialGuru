@@ -1,0 +1,332 @@
+{
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "MTcwODc2MzI1NjAxNzk5NwZDZD", 
+                "before": "MTAyOTk3NjU3Mzc4MjQxOAZDZD"
+            }
+        }, 
+        "data": [
+            {
+                "id": "1029976573782418", 
+                "start_time": "2016-12-10T22:00:00+0100", 
+                "place": {
+                    "id": "532025910327665", 
+                    "name": "Atlantico Live", 
+                    "location": {
+                        "city": "Rome", 
+                        "zip": "00144", 
+                        "country": "Italy", 
+                        "longitude": 12.47186, 
+                        "street": "Via dell'Oceano Atlantico", 
+                        "latitude": 41.82015
+                    }
+                }, 
+                "end_time": "2016-12-11T01:00:00+0100", 
+                "name": "Atlantico, Rome (ITA)"
+            }, 
+            {
+                "id": "1624218861209673", 
+                "start_time": "2016-11-25T22:00:00-0600", 
+                "place": {
+                    "id": "583427605032892", 
+                    "name": "Los Fuertes Puebla", 
+                    "location": {
+                        "city": "Puebla", 
+                        "zip": "72260", 
+                        "country": "Mexico", 
+                        "longitude": -98.181969829121, 
+                        "street": "Unidad C\u00edvica y Cultural 5 de Mayo, Puebla,Puebla", 
+                        "latitude": 19.05727287363
+                    }
+                }, 
+                "end_time": "2016-11-26T01:00:00-0600", 
+                "name": "Daydream Festival, Puebla (MEX)"
+            }, 
+            {
+                "id": "1220920827971243", 
+                "start_time": "2016-11-19T22:00:00+0100", 
+                "place": {
+                    "id": "1444116732539015", 
+                    "name": "STORY", 
+                    "location": {
+                        "city": "Santa Giustina in Colle", 
+                        "zip": "35010", 
+                        "country": "Italy", 
+                        "longitude": 11.894352436066, 
+                        "street": "Via Tremarende 35", 
+                        "latitude": 45.574368582707
+                    }
+                }, 
+                "end_time": "2016-11-20T01:00:00+0100", 
+                "name": "TUJAMO 19 November STORY (Ita)"
+            }, 
+            {
+                "id": "354118694923877", 
+                "start_time": "2016-11-18T22:00:00+0100", 
+                "description": "Przed nami ostatnia ods\u0142ona projektu We Are The Future w tym roku! 18 listopada w Capitol Warsaw wyst\u0105pi \u015bwiatowej s\u0142awy DJ oraz producent, tw\u00f3rca klubowych hit\u00f3w - \u201eBoneless\u201d, \u201eDrop That Low\u201d, Booty Bounce\u201d, \u201eWho\u201d, \u201eKeep Pushin\u2019\u201d, \u201eBOOM!\u201d czy \u201eNova\u201d - TUJAMO! To b\u0119dzie jego jedyny wyst\u0119p w Warszawie! Ponadto na scenie pojawi\u0105 si\u0119 - DJ KUBA & NEITAN, Dirty Rush & Gregor Es, 3rd Prototype, Thomas Cloud oraz Andriy Khomitskyy. Ca\u0142\u0105 imprez\u0119 poprowadzi MC Jolly Good.\n\nSteve Aoki, Chris Lake & TUJAMO - \"Boneless\"\nhttps://www.youtube.com/watch?v=gl2p4G3CUrI\n\nTUJAMO - \"Drop That Low (When I Dip)\"\nhttps://www.youtube.com/watch?v=souJM4aCk6w\n\nTUJAMO - \"Booty Bounce\"\nhttps://www.youtube.com/watch?v=gofJrNfBSbo\n\nTUJAMO & Plastik Funk - \"WHO\"\nhttps://www.youtube.com/watch?v=i7OaDY8gFk8\n\nTUJAMO & Inaya Day - \"Keep Pushin'\"\nhttps://www.youtube.com/watch?v=9W8Q9FvH1XA\n\nTUJAMO - \"BOOM!\"\nhttps://www.youtube.com/watch?v=JxfzRNA2_8M\n\nDimitri Vegas and Like Mike Vs. TUJAMO & Felguk - \"Nova\"\nhttps://www.youtube.com/watch?v=o7Oibcmr81Y\n\nLine-up:\n- TUJAMO\n- DJ KUBA & NEITAN\n- Dirty Rush & Gregor Es\n- 3rd Prototype\n- Thomas Cloud\n- Andriy Khomitskyy\n\nHost - MC Jolly Good\n\nCeny bilet\u00f3w:\nI Pula - 60 PLN (wyprzedane)\nII Pula - 75 PLN\nIII Pula - 89 PLN\nVIP - 199 PLN\n\nW dniu imprezy - 100 PLN\n(bilety VIP dost\u0119pne tylko w sprzeda\u017cy internetowej)\n\nBilety dost\u0119pne do nabycia pod adresem www.wearethefuture.pl\n\nPatroni medialni:\nRadio ESKA\n4Clubbers.pl\nEssential Music\nDJ's Magazine", 
+                "name": "We Are The Future pres. Tujamo", 
+                "end_time": "2016-11-19T05:00:00+0100"
+            }, 
+            {
+                "id": "282198288840116", 
+                "start_time": "2016-11-12T22:00:00+0100", 
+                "place": {
+                    "id": "110664898961620", 
+                    "name": "Ume\u00e5, Provincia de V\u00e4sterbotten, Suecia", 
+                    "location": {
+                        "latitude": 63.8333, 
+                        "city": "Ume\u00e5", 
+                        "longitude": 20.25, 
+                        "country": "Sweden"
+                    }
+                }, 
+                "end_time": "2016-11-13T01:00:00+0100", 
+                "name": "H\u00f6styran, Umea (SWE)"
+            }, 
+            {
+                "id": "103351256797785", 
+                "start_time": "2016-11-05T22:00:00+0100", 
+                "place": {
+                    "id": "779248538844146", 
+                    "name": "Studio One Dresden", 
+                    "location": {
+                        "city": "Dresden", 
+                        "zip": "01097", 
+                        "country": "Germany", 
+                        "longitude": 13.76455, 
+                        "street": "Hermann Mende Stra\u00dfe 1", 
+                        "latitude": 51.08707
+                    }
+                }, 
+                "end_time": "2016-11-06T00:00:00+0100", 
+                "name": "Studio One, Dresden (GER)"
+            }, 
+            {
+                "id": "1599338293704399", 
+                "start_time": "2016-11-04T22:00:00+0100", 
+                "place": {
+                    "id": "114928278523318", 
+                    "name": "Coblenza, Rheinland-Pfalz, Alemania", 
+                    "location": {
+                        "latitude": 50.3597, 
+                        "city": "Koblenz", 
+                        "longitude": 7.5978, 
+                        "country": "Germany"
+                    }
+                }, 
+                "end_time": "2016-11-05T01:00:00+0100", 
+                "name": "Electric City, Koblenz (GER)"
+            }, 
+            {
+                "id": "1787647678143309", 
+                "start_time": "2016-10-28T22:00:00-0700", 
+                "place": {
+                    "id": "129072313773779", 
+                    "name": "Exchange LA", 
+                    "location": {
+                        "city": "Los Angeles", 
+                        "zip": "90014", 
+                        "country": "United States", 
+                        "longitude": -118.25113, 
+                        "state": "CA", 
+                        "street": "618 S Spring St", 
+                        "latitude": 34.04527
+                    }
+                }, 
+                "end_time": "2016-10-29T01:00:00-0700", 
+                "name": "Super You & Me at Exchange, Los Angeles (USA)"
+            }, 
+            {
+                "id": "949719818486945", 
+                "start_time": "2016-10-22T22:00:00+0200", 
+                "place": {
+                    "id": "326881752939", 
+                    "name": "Retro Music Hall", 
+                    "location": {
+                        "city": "Prague", 
+                        "zip": "120 00", 
+                        "country": "Czech Republic", 
+                        "longitude": 14.43778, 
+                        "street": "Francouzsk\u00e1 4, Praha 2", 
+                        "latitude": 50.07448
+                    }
+                }, 
+                "end_time": "2016-10-23T01:00:00+0200", 
+                "name": "Retro Music Hall, Prague (CZE)"
+            }, 
+            {
+                "id": "365625373826900", 
+                "start_time": "2016-10-21T21:00:00+0300", 
+                "place": {
+                    "id": "592228780882027", 
+                    "name": "Sala Polivalent\u0103 Cluj-Napoca", 
+                    "location": {
+                        "city": "Cluj-Napoca", 
+                        "zip": "400375", 
+                        "country": "Romania", 
+                        "longitude": 23.570651038209, 
+                        "street": "Strada Uzinei Electrice", 
+                        "latitude": 46.767099059091
+                    }
+                }, 
+                "end_time": "2016-10-22T05:00:00+0300", 
+                "name": "Sala Polivalenta, Cluj-Napoca (ROM)"
+            }, 
+            {
+                "id": "937446119716482", 
+                "start_time": "2016-10-19T22:00:00+0200", 
+                "place": {
+                    "id": "109020085791036", 
+                    "name": "AIR Amsterdam", 
+                    "location": {
+                        "city": "Amsterdam", 
+                        "zip": "1017 DA", 
+                        "country": "Netherlands", 
+                        "longitude": 4.89945, 
+                        "street": "Amstelstraat 24", 
+                        "latitude": 52.36611
+                    }
+                }, 
+                "end_time": "2016-10-20T01:00:00+0200", 
+                "name": "Spinnin' Sessions - AIR, Amsterdam (NLD)"
+            }, 
+            {
+                "id": "784194115057166", 
+                "start_time": "2016-10-01T22:00:00+0900", 
+                "end_time": "2016-10-02T01:00:00+0900", 
+                "name": "AgeHa, Tokyo (JAP)"
+            }, 
+            {
+                "id": "1456008067749090", 
+                "start_time": "2016-09-29T22:00:00+0900", 
+                "place": {
+                    "id": "435072619969807", 
+                    "name": "Chevalosaka", 
+                    "location": {
+                        "city": "Osaka", 
+                        "zip": "542-0085", 
+                        "country": "Japan", 
+                        "longitude": 135.50200897932, 
+                        "state": "Osaka", 
+                        "street": "\u4e2d\u592e\u533a\u5fc3\u658e\u6a4b\u7b4b 1-5-30 \u30b8\u30fb\u30a2\u30c8\u30ea\u30a6\u30e0B1-B2", 
+                        "latitude": 34.672535374267
+                    }
+                }, 
+                "end_time": "2016-09-30T01:00:00+0900", 
+                "name": "Cheval, Osaka (JAP)"
+            }, 
+            {
+                "id": "1594636337496894", 
+                "start_time": "2016-09-24T22:00:00+0800", 
+                "place": {
+                    "id": "108161842545076", 
+                    "name": "Guiyang, Guizhou, Rep\u00fablica Popular China", 
+                    "location": {
+                        "latitude": 26.5833, 
+                        "city": "Guiyang", 
+                        "zip": "550000", 
+                        "longitude": 106.717, 
+                        "country": "China"
+                    }
+                }, 
+                "end_time": "2016-09-25T01:00:00+0800", 
+                "name": "Play House, Guiyang (CHN)"
+            }, 
+            {
+                "id": "1309348199075205", 
+                "start_time": "2016-09-23T22:00:00+0800", 
+                "place": {
+                    "id": "361474980718212", 
+                    "name": "Shanghai Fusion Club", 
+                    "location": {
+                        "latitude": 31.221166075714, 
+                        "city": "Shanghai", 
+                        "street": "\u5174\u4e1a\u8def123\u53f76\u53f7\u697c5\u697c,  \u8fd1\u9a6c\u5f53\u8def", 
+                        "longitude": 121.47038867857, 
+                        "country": "China"
+                    }
+                }, 
+                "end_time": "2016-09-24T01:00:00+0800", 
+                "name": "Fusion, Shanghai (CHN)"
+            }, 
+            {
+                "id": "1607162652917160", 
+                "start_time": "2016-09-22T22:00:00+0800", 
+                "place": {
+                    "id": "108083615886387", 
+                    "name": "Foshan, Provincia de Cant\u00f3n, Rep\u00fablica Popular China", 
+                    "location": {
+                        "latitude": 23.0167, 
+                        "city": "Foshan", 
+                        "zip": "528000", 
+                        "longitude": 113.117, 
+                        "country": "China"
+                    }
+                }, 
+                "end_time": "2016-09-23T01:00:00+0800", 
+                "name": "Grammy Club, Foshan (CHN)"
+            }, 
+            {
+                "description": "DANNY AVILA + TUJAMO pres. CREAM\nSET Nightclub | Wednesday | March 16\n\nTickets [set.wantickets.com/miamicream]\n\nLINE UP (in alphabetical order)\nDanny Avila\nTujamo\nDeniz Koyu\nJewelz & Sparks\n+ special guests\n\nSET Nightclub\n320 Lincoln Rd - Miami Beach - FL 33139\nDoors open: 11pm - 5am | Minimum Age 21+\nVIP Contact: Arturo (305) 531 2800 | Arturo@setmiami.com\n\nMiami Music Week can add another incredible event to the agenda. Presented by DANNY AVILA + TUJAMO, CREAM is their latest step in establishing themselves as an integral part of the dance scene after releasing the correspondent track \u2018Cream\u2019 end of last year. The event is hosted at the exclusive SET Nightclub in South Beach on Wednesday March 16th, right at the start of the annual madness.\n\nOn the line up is a variety of artists including Deniz Koyu, Jewelz & Sparks and some special surprise guests. After releasing their hit track \u2018Cream\u2019 last September, it\u2019s only natural to kick things up a notch and present their fans with an event during Winter Music Conference in Miami.\n\nAlthough being only 20 years old, DANNY AVILA has shown himself to be an excellent artist. Showcasing his extreme diversity as a DJ with his MORE concept where he is taking fans on a journey through different genres of electronic music, a list of huge releases on Spinnin\u2019 Records, Musical Freedom, Dim Mak and twoloud\u2019s Playbox Music plus residencies in Las Vega is not something many people can tick off their bucket list. With the announcement of the CREAM event, Danny proves that he\u2019s got many more tricks up his sleeve.\n\nThe other half of the equation is none other than TUJAMO, one of the biggest rising stars in the electronic music world within the last two years. During this time, Tujamo has garnered gold and platinum records, hit the Beatport #1 five times in a row with some of the releases staying in the top 100 chart for more than a year. He managed to be among the top selling artists on Beatport in 2015, ready to enter worldwide charts with the huge vocal mix of his successful \u2018Booty Bounce\u2019 with Taio Cruz.", 
+                "start_time": "2016-03-16T23:00:00-0400", 
+                "place": {
+                    "id": "32096400105", 
+                    "name": "SET Nightclub", 
+                    "location": {
+                        "city": "Miami Beach", 
+                        "zip": "33139", 
+                        "country": "United States", 
+                        "longitude": -80.131245717245, 
+                        "state": "FL", 
+                        "street": "320 Lincoln Rd", 
+                        "latitude": 25.790626507427
+                    }
+                }, 
+                "end_time": "2016-03-17T05:00:00-0400", 
+                "id": "1665921773659774", 
+                "name": "MMW16: DANNY AVILA & TUJAMO pres. CREAM - SET Nightclub, Miami (USA)"
+            }, 
+            {
+                "id": "1684258101809852", 
+                "start_time": "2015-12-16T21:00:00+0100", 
+                "place": {
+                    "id": "70952716468", 
+                    "name": "Hotel Shanghai", 
+                    "location": {
+                        "city": "Essen", 
+                        "zip": "45127", 
+                        "country": "Germany", 
+                        "longitude": 7.01744, 
+                        "street": "Steelerstr. 33", 
+                        "latitude": 51.4560699
+                    }
+                }, 
+                "description": "SUSHI3000 & CREATIVE PRIMATES X-MAS BANG 2015\n\n+ FREE ENTRY SO COME EARLY +\n\nLINE UP (in alphabetical order):\n+ Danny Avila\n+ Deniz Koyu\n+ Dimitri Vangelis & Wyman\n+ Henri PFR\n+ Jewelz & Sparks\n+ TUJAMO\n+ TWOLOUD\n+ Special Guests\n\nSUPPORT BY:\n+ BANKEWITZ\n+ Jan-Christian Zeller\n+ FRDY\n+ Patric la Funk\n\nIN KOOPERATION MIT:\n+ Hotel Shanghai\n+ DEEPBLUE.\n+ Bootshaus\n+ PAROOKAVILLE\n+ SMAG LIVE Magazin", 
+                "name": "SUSHI3000 & CREATIVE PRIMATES X-MAS BANG 2015"
+            }, 
+            {
+                "start_time": "2015-06-12T22:00:00-0400", 
+                "place": {
+                    "id": "1529239757315142", 
+                    "name": "Uniun Nightclub", 
+                    "location": {
+                        "city": "Toronto", 
+                        "zip": "M5V 1T1", 
+                        "country": "Canada", 
+                        "longitude": -79.4001617, 
+                        "state": "ON", 
+                        "street": "473 Adelaide St W", 
+                        "latitude": 43.6456718
+                    }
+                }, 
+                "name": "Tujamo, D-Wayne, Manzone & Strong", 
+                "id": "1708763256017997"
+            }
+        ]
+    }, 
+    "about": "TUJAMO - BOOM! [Spinnin' Records]\nOUT NOW > tujamo.lnk.to/BOOM\n\nMUSIC VIDEO\n> bit.ly/YT_TUJ-BOOM\n> bit.ly/VM_TUJ-BOOM", 
+    "id": "141935259159198", 
+    "fan_count": 1312442, 
+    "name": "TUJAMO"
+}

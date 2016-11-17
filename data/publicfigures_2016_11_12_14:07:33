@@ -1,0 +1,26 @@
+{
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "NjE1NTY4NzYxNzk1MDAz", 
+                "before": "NjE1NTY4NzYxNzk1MDAz"
+            }
+        }, 
+        "data": [
+            {
+                "description": "Thursday, July 4th 2013\nThe House That Chicago Built and React Present\u2026\n\nmusic by\n\n:: LIL LOUIS :: PERFORMS C.P.R.\n[ www.facebook.com/lillouisoffical ]\n\nwith\n\n:: JULIUS THE MAD THINKER ::\n[ www.soundcloud.com/themadthinker ]\n\n:: DIZ ::\n[ www.soundcloud.com/djdizchicago ]\n\n:: JOHN SIMMONS ::\n[ www.soundcloud.com/djjohnsimmons ]\n\nChicago House Heads! Witness the resurrection of House Music brought to you by the Founding Father of House, Lil Louis.\n\nFREE ADMISSION\nwith memorabilia from any Chicago party from 1970-2010.\nFree till 11pm. 1/2 Price After. Gen Admission $20 w/o memorabilia\n\nMemorabilia may be submitted as follows:\n\n1) Online before July 3rd - Submit to htcbevents@aol.com\n(online items must be 300 dpi image quality)\n\n2) In person before July 3rd. - Bring memorabilia to an htcb office. Go to Lil Louis official fan page for hours and location. \n\n3) At party July 4th - Submit in person. First come first served. Subject to approval.\n\nFor rules go to www.thehousethatchicagobuilt.com\n\n1543 N Kingsbury\n(formerly CROBAR)\nChicago, IL 60642\n21 + | Doors 9pm", 
+                "start_time": "2013-07-04T21:00:00-0500", 
+                "place": {
+                    "name": "Formerly Crobar"
+                }, 
+                "end_time": "2013-07-05T04:00:00-0500", 
+                "id": "615568761795003", 
+                "name": "LIL LOUIS PERFORMS CPR- FORMERLY CROBAR- CHICAGO- JULY 4TH"
+            }
+        ]
+    }, 
+    "about": "The House That Chicago Built: http://bzz.is/housetcb\nTwitter: http://bzz.is/lillouistwitter\n", 
+    "id": "65965293576", 
+    "fan_count": 67142, 
+    "name": "Lil Louis Official Fan Page"
+}

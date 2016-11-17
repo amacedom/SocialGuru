@@ -1,0 +1,438 @@
+{
+    "about": "https://soundcloud.com/haydenjamesartist\niTunes: http://smarturl.it/hayden_james ", 
+    "name": "Hayden James", 
+    "fan_count": 51186, 
+    "id": "380857635298359", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "NTUwNzc3Njg4Mjg0MTQ0", 
+                "before": "MTQ2Mzg5NjIwNzE5OTczMgZDZD"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/380857635298359/likes?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=NTUwNzc3Njg4Mjg0MTQ0"
+        }, 
+        "data": [
+            {
+                "name": "Spectrum Now Festival", 
+                "id": "1463896207199732"
+            }, 
+            {
+                "name": "Kasbo", 
+                "id": "219160718225442"
+            }, 
+            {
+                "name": "Louis The Child", 
+                "id": "388431181228059"
+            }, 
+            {
+                "name": "Martin Garrix", 
+                "id": "275648462478015"
+            }, 
+            {
+                "name": "Beyond The Valley", 
+                "id": "501572823302360"
+            }, 
+            {
+                "name": "Golden Features", 
+                "id": "1428107290755647"
+            }, 
+            {
+                "name": "Tame Impala", 
+                "id": "35478245776"
+            }, 
+            {
+                "name": "The Music Ninja", 
+                "id": "68521062365"
+            }, 
+            {
+                "name": "Australian Independent Record Labels Association", 
+                "id": "129506787194589"
+            }, 
+            {
+                "name": "George FitzGerald", 
+                "id": "147559428611661"
+            }, 
+            {
+                "name": "Kitsun\u00e9", 
+                "id": "19873339768"
+            }, 
+            {
+                "name": "Nuba", 
+                "id": "384764401596147"
+            }, 
+            {
+                "name": "Lollapalooza Berlin", 
+                "id": "560507500722334"
+            }, 
+            {
+                "name": "Way Out West", 
+                "id": "226821535638"
+            }, 
+            {
+                "name": "VICE", 
+                "id": "167115176655082"
+            }, 
+            {
+                "name": "J\u00dcAN DU SOL", 
+                "id": "251247225037374"
+            }, 
+            {
+                "name": "The Island", 
+                "id": "112082302192048"
+            }, 
+            {
+                "name": "Gladkill", 
+                "id": "77711160517"
+            }, 
+            {
+                "name": "FWD Wednesdays", 
+                "id": "388494714645384"
+            }, 
+            {
+                "name": "St Kilda Festival", 
+                "id": "7353905167"
+            }, 
+            {
+                "name": "Grounded Pods", 
+                "id": "220415511446757"
+            }, 
+            {
+                "name": "Yolanda be cool", 
+                "id": "104441999608500"
+            }, 
+            {
+                "name": "The Aston Shuffle", 
+                "id": "10858016287"
+            }, 
+            {
+                "name": "Hermitude", 
+                "id": "99604932878"
+            }, 
+            {
+                "name": "TheSoundYouNeed", 
+                "id": "550777688284144"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "OTExNTgxMTA4OTI0NzY1", 
+                "before": "NTE2NTg5NzAxODY2OTE0"
+            }
+        }, 
+        "data": [
+            {
+                "description": "Hayden James\n\nSaturday, November 5, 2016\nDoors: 7:00 pm \nCrescent Ballroom\nPhoenix, AZ\n$15.00 - $18.00\n\n*This event is 21 and over\nGet tickets Stinkweeds, Crescent Ballroom, or here online http://ticketf.ly/292Npdh", 
+                "start_time": "2016-11-05T20:30:00-0700", 
+                "place": {
+                    "id": "168811196520360", 
+                    "name": "Crescent Ballroom", 
+                    "location": {
+                        "city": "Phoenix", 
+                        "zip": "85003", 
+                        "country": "United States", 
+                        "longitude": -112.0765933, 
+                        "state": "AZ", 
+                        "street": "308 N 2nd Ave", 
+                        "latitude": 33.4517809
+                    }
+                }, 
+                "end_time": "2016-11-05T23:30:00-0700", 
+                "id": "516589701866914", 
+                "name": "Hayden James at Crescent Ballroom"
+            }, 
+            {
+                "id": "567445053443404", 
+                "start_time": "2016-10-28T21:00:00-0700", 
+                "place": {
+                    "id": "183521871673606", 
+                    "name": "The Independent", 
+                    "location": {
+                        "city": "San Francisco", 
+                        "zip": "94117", 
+                        "country": "United States", 
+                        "longitude": -122.43777131091, 
+                        "state": "CA", 
+                        "street": "628 Divisadero St", 
+                        "latitude": 37.775534955024
+                    }
+                }, 
+                "description": "Hayden James (LIVE) at The Independent", 
+                "name": "Hayden James (LIVE) at The Independent"
+            }, 
+            {
+                "id": "1622225648089696", 
+                "start_time": "2016-10-26T20:00:00-0700", 
+                "place": {
+                    "id": "126874054028428", 
+                    "name": "The Crocodile", 
+                    "location": {
+                        "city": "Seattle", 
+                        "zip": "98121", 
+                        "country": "United States", 
+                        "longitude": -122.34425, 
+                        "state": "WA", 
+                        "street": "2200 2nd Ave", 
+                        "latitude": 47.61356
+                    }
+                }, 
+                "description": "Hayden James (Live) at The Crocodile", 
+                "name": "Hayden James (Live) at The Crocodile"
+            }, 
+            {
+                "id": "227990667615698", 
+                "start_time": "2016-10-22T21:00:00-0500", 
+                "place": {
+                    "id": "175251505825908", 
+                    "name": "Triple Rock Social Club", 
+                    "location": {
+                        "city": "Minneapolis", 
+                        "zip": "55454", 
+                        "country": "United States", 
+                        "longitude": -93.247114142855, 
+                        "state": "MN", 
+                        "street": "629 Cedar Ave S", 
+                        "latitude": 44.96678343258
+                    }
+                }, 
+                "description": "Hayden James at Triple Rock Social Club", 
+                "name": "Hayden James at Triple Rock Social Club"
+            }, 
+            {
+                "id": "1736793573229029", 
+                "start_time": "2016-10-14T20:00:00-0400", 
+                "place": {
+                    "id": "169694033165986", 
+                    "name": "The Sinclair", 
+                    "location": {
+                        "city": "Cambridge", 
+                        "zip": "02138", 
+                        "country": "United States", 
+                        "longitude": -71.120844730397, 
+                        "state": "MA", 
+                        "street": "52 Church St", 
+                        "latitude": 42.373869752544
+                    }
+                }, 
+                "description": "Bowery Boston presents\nHayden James \nhttp://haydenjamesmusic.tumblr.com/\n\nDena Amy\nhttps://soundcloud.com/denaamy\n\nLuke Million\nlukemillion.com/\n\n8pm doors / 18+ / $18 advance, $20 day of show\nTickets on sale Thu. 6/30 at 1PM!\n\nHayden James released his first track in late June 2013, amassing millions of plays across Soundcloud and Youtube for his work. Producing immense summer house jams with soulful and evocative vocals his music has stockpiled consistently rave reviews from the US, Europe and Australia alike, being labelled the \"face of the new Australian production music scene\". \n\nHayden's first single \"Permission to Love\" garnered worldwide love and attention hitting #1 most blogged on Hype Machine, as well as becoming the most played track on national broadcasting giant Triple J in Australia. His debut EP out on tastemaker label Future Classic garnered much love worldwide, but didn't' prepare the indie label for the success Hayden would have with hit single \"Something About You\", released early 2015 on the label's yearly compilation album.\n\n\"Something About You\" would hit certified Gold sales in Australia by the end of 2015 and hit the top 40 throughout Europe including Germany, France and Italy. In Australia it won best dance release at the AIR awards, Stoney Roads awards and inthemix awards as well as being nominated for an ARIA award for best dance release. \n\nSummer 2015 saw Hayden hitting the road in Australia, playing for a string of sell out venues on his national \"Something About You\" tour, subsequently jetting off to the Northern Hemisphere for his debut headline US tour, including his first performance ever at the Coachella festival and a support tour with Odesza. Late 2015 saw his first European Tour taking in shows at , Lollapolooza (Berlin) Lowlands, Reading and Leads festivals as well as a slew of other festival slots.", 
+                "name": "Hayden James w/ Dena Amy, Luke Million at The Sinclair"
+            }, 
+            {
+                "id": "200598530337054", 
+                "start_time": "2016-10-13T20:00:00-0400", 
+                "place": {
+                    "id": "22200834587", 
+                    "name": "Music Hall of Williamsburg", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11211", 
+                        "country": "United States", 
+                        "longitude": -73.961718769531, 
+                        "state": "NY", 
+                        "street": "66 N 6th St", 
+                        "latitude": 40.719214843269
+                    }
+                }, 
+                "description": "with Dena Amy", 
+                "name": "Hayden James: \"Just A Lover\" Tour"
+            }, 
+            {
+                "description": "9 PM / $15 / 18+\nTickets: http://ticketf.ly/28YCM5M\n\nHayden James\nsoundcloud.com/haydenjamesartist\ntwitter.com/haydenj_music\n\nDena Amy\nsoundcloud.com/denaamy\ntwitter.com/denaamykaplan", 
+                "start_time": "2016-10-12T21:00:00-0400", 
+                "place": {
+                    "id": "337567107117", 
+                    "name": "U Street Music Hall", 
+                    "location": {
+                        "city": "Washington", 
+                        "zip": "20009", 
+                        "country": "United States", 
+                        "longitude": -77.027657032013, 
+                        "state": "DC", 
+                        "street": "1115 U Street NW", 
+                        "latitude": 38.917149004985
+                    }
+                }, 
+                "end_time": "2016-10-13T02:00:00-0400", 
+                "id": "498371113701640", 
+                "name": "Hayden James with Dena Amy, Luke Million, B\u00eate Noire"
+            }, 
+            {
+                "id": "209448909454881", 
+                "start_time": "2016-10-11T21:00:00-0400", 
+                "place": {
+                    "id": "29131433140", 
+                    "name": "Johnny Brenda's", 
+                    "location": {
+                        "city": "Philadelphia", 
+                        "zip": "19125", 
+                        "country": "United States", 
+                        "longitude": -75.134200052077, 
+                        "state": "PA", 
+                        "street": "1201 Frankford Ave", 
+                        "latitude": 39.969025740823
+                    }
+                }, 
+                "description": "+++TUESDAY OCTOBER 11TH+++\n\nHAYDEN JAMES\nhttps://soundcloud.com/haydenjamesartist\n\nDENA AMY\nwww.soundcloud.com/denaamy\n\n8PM Doors / $13-15 / 21+", 
+                "name": "Hayden James / Dena Amy at Johnny Brenda's"
+            }, 
+            {
+                "description": "On-sale Wed 13 July 10am.\n\nOn the back of extensive touring throughout Europe and the Americas the last 18 months and hot on the heels of his most recent release, the eagerly anticipated \u2018Just A Lover\u2019, Hayden James is very pleased to announce the Australian leg of his forthcoming world tour, his largest headline tour to date.\n\nAfter the breakout success of Hayden James\u2019 ARIA nominated, Gold record \u201cSomething About You\u201d fans have been eager to hear what he had next. \u2018Just a Lover\u2019 delivers on the lush house expectations with his unique lyrics and now signature sound resonating across the globe. With his 2015 Australian tour a complete sell-out and hints of a larger selection of music on the way, fans are encouraged to move quickly to avoid disappointment.\n\n\u201cIt\u2019s been an absolute privilege to play some of the biggest and most prestigious festivals in the world recently, but there\u2019s nothing quite like coming home. These will be my largest headline shows to date and I can not wait to share new music with you guys.\u201d \u2013 Hayden James\n\nGetting you nice and warm on this tour is very special guest, the fast-rising singer/dancer/producer Dena Amy who\u2019s debut single \u2018Wait For You\u2019 recently dropped on Sweat It Out. Dena started the year taking to the stage at Coachella before returning home to tour nationally with Rufus on their enormous sold out album run. Dena features on their sophomore album \u2018Bloom\u2019 with their collaboration Hypnotised and is thrilled to be joining \u201cone of the most exciting producers in the world of electronic music\u201d on his home-coming national tour.", 
+                "start_time": "2016-09-15T20:00:00+1000", 
+                "place": {
+                    "id": "107099726031444", 
+                    "name": "The Metro Theatre", 
+                    "location": {
+                        "city": "Sydney", 
+                        "zip": "2000", 
+                        "country": "Australia", 
+                        "longitude": 151.2065194, 
+                        "state": "NSW", 
+                        "street": "624 George Street", 
+                        "latitude": -33.87573403
+                    }
+                }, 
+                "end_time": "2016-09-15T23:59:00+1000", 
+                "id": "296731077383390", 
+                "name": "Hayden James - Metro Theatre - Sydney"
+            }, 
+            {
+                "description": "ADELAIDE\nTHE FAT MAN IS GETTING EXCITED\n\nFAT CONTROLLER LOVES BACON\nVOL.001\nWAREHOUSE PARTY\nSATURDAY 10TH SEPTEMBER\n\nFT. HAYDEN JAMES [LIVE]\nPLUS A WHOLE BUNCH OF FRIENDS...\n\nVENUE: Queen's Theatre\n\nFATCONTROLLER.CLUB\n#FCLB #WAREHOUSEPARTY #LETSDANCE", 
+                "start_time": "2016-09-10T19:00:00+0930", 
+                "place": {
+                    "id": "126114387456998", 
+                    "name": "Queens Theatre", 
+                    "location": {
+                        "city": "Adelaide", 
+                        "zip": "5000", 
+                        "country": "Australia", 
+                        "longitude": 138.59492, 
+                        "state": "SA", 
+                        "street": "Playhouse Lane", 
+                        "latitude": -34.92534
+                    }
+                }, 
+                "end_time": "2016-09-11T01:00:00+0930", 
+                "id": "192967561105687", 
+                "name": "Fat Controller Loves Bacon Vol.001 Warehouse Party feat. Hayden James"
+            }, 
+            {
+                "description": "Hayden James \u2018\u2019Just A Lover\u201d World Tour\n \nOn the back of extensive touring throughout Europe and the Americas the last 18 months and hot on the heels of his most recent release, the eagerly anticipated \u2018Just A Lover\u2019, Hayden James is very pleased to announce the Australian leg of his forthcoming world tour, his largest headline tour to date.  \n \nAfter the breakout success of Hayden James\u2019 ARIA nominated, Gold record \u201cSomething About You\u201d fans have been eager to hear what he had next. \u2018Just a Lover\u2019 delivers on the lush house expectations with his unique lyrics and now signature sound resonating across the globe. With his 2015 Australian tour a complete sell-out and hints of a larger selection of music on the way, fans are encouraged to move quickly to avoid disappointment.\n \n\u201cIt\u2019s been an absolute privilege to play some of the biggest and most prestigious festivals in the world recently, but there\u2019s nothing quite like coming home. These will be my largest headline shows to date and I can not wait to share new music with you guys.\u201d \u2013 Hayden James\n \nGetting you nice and warm on this tour is very special guest, the fast-rising singer/dancer/producer Dena Amy who\u2019s debut single \u2018Wait For You\u2019 recently dropped on Sweat It Out. Dena started the year taking to the stage at Coachella before returning home to tour nationally with Rufus on their enormous sold out album run. Dena features on their sophomore album 'Bloom' with their collaboration Hypnotised and is thrilled to be joining \u201cone of the most exciting producers in the world of electronic music\u201d on his home-coming national tour.\n \nTickets on-sale Wednesday 13 July - 10am local time from haydenjamesmusic.com", 
+                "start_time": "2016-09-02T22:00:00+0800", 
+                "place": {
+                    "id": "161313440593014", 
+                    "name": "Villa", 
+                    "location": {
+                        "city": "Perth", 
+                        "zip": "6000", 
+                        "country": "Australia", 
+                        "longitude": 115.86581004504, 
+                        "state": "WA", 
+                        "street": "187 Stirling Street", 
+                        "latitude": -31.946364737902
+                    }
+                }, 
+                "end_time": "2016-09-03T04:00:00+0800", 
+                "id": "597658097060789", 
+                "name": "Metric Events pres. Hayden James 'Just a Lover' Perth show"
+            }, 
+            {
+                "description": "On-sale Wed 13 July 10am.\n\nOn the back of extensive touring throughout Europe and the Americas the last 18 months and hot on the heels of his most recent release, the eagerly anticipated \u2018Just A Lover\u2019, Hayden James is very pleased to announce the Australian leg of his forthcoming world tour, his largest headline tour to date.\n\nAfter the breakout success of Hayden James\u2019 ARIA nominated, Gold record \u201cSomething About You\u201d fans have been eager to hear what he had next. \u2018Just a Lover\u2019 delivers on the lush house expectations with his unique lyrics and now signature sound resonating across the globe. With his 2015 Australian tour a complete sell-out and hints of a larger selection of music on the way, fans are encouraged to move quickly to avoid disappointment.\n\n\u201cIt\u2019s been an absolute privilege to play some of the biggest and most prestigious festivals in the world recently, but there\u2019s nothing quite like coming home. These will be my largest headline shows to date and I can not wait to share new music with you guys.\u201d \u2013 Hayden James\n\nGetting you nice and warm on this tour is very special guest, the fast-rising singer/dancer/producer Dena Amy who\u2019s debut single \u2018Wait For You\u2019 recently dropped on Sweat It Out. Dena started the year taking to the stage at Coachella before returning home to tour nationally with Rufus on their enormous sold out album run. Dena features on their sophomore album \u2018Bloom\u2019 with their collaboration Hypnotised and is thrilled to be joining \u201cone of the most exciting producers in the world of electronic music\u201d on his home-coming national tour.", 
+                "start_time": "2016-08-27T20:00:00+1000", 
+                "place": {
+                    "id": "1611612009123287", 
+                    "name": "Max Watt's Melbourne", 
+                    "location": {
+                        "city": "Melbourne", 
+                        "zip": "3000", 
+                        "country": "Australia", 
+                        "longitude": 144.9660813803, 
+                        "state": "VIC", 
+                        "street": "125 Swanston Street", 
+                        "latitude": -37.814630815606
+                    }
+                }, 
+                "end_time": "2016-08-27T23:59:00+1000", 
+                "id": "152640128490795", 
+                "name": "Hayden James - Max Watt's - Melbourne"
+            }, 
+            {
+                "description": "RealMusic Events presents....\n\n::: HAYDEN JAMES :::\nhttps://www.facebook.com/haydenjamesartist\nhttps://soundcloud.com/haydenjamesartist\nhttps://twitter.com/haydenj_music\n\nSupport:\n- Nigel Napalm\n- Altek \n- Blazzed\n\nWith the #1 go-go girls of Texas: The GoGo Gadgettes\n\nat\n\nKingdom\n103 E 5th St\nAustin, Tx 78701\n\n18+ Welcome // 8pm - 12am (will go late if party is rocking)\nBuy Tickets: www.realmusiceventstx.com\nBottle Service: reservations@kingdomnightclub.com\n\nUpcoming RealMusic Events:\n[06.10] Hudson Mohawke @ Kingdom\nhttps://www.facebook.com/events/499804070206487/\n[06.10] TEED @ Boondocks (Houston)\nhttps://www.facebook.com/events/621389104681104/\n[06.10] Ardalan & Sacsha Robotti @ Jack Rabbit (SA)\nhttps://www.facebook.com/events/1693409914255020/\n[06.11] Rezz @ Kingdom\nhttps://www.facebook.com/events/503934293131455/\n[06.16] Hayden James @ Kingdom\nhttps://www.facebook.com/events/1252761274769174/\n[06.17] Nicole Moudaber @ Kingdom\nhttps://www.facebook.com/events/1515265972113967/\n[06.18] What So Not + Manila Killa @ Kingdom\nhttps://www.facebook.com/events/1014989435255106/\n[06.23] Free Show: Taiki Nulight @ Kingdom\nhttps://www.facebook.com/events/480498642144311/\n[06.24] Low Steppa @ Kingdom\nhttps://www.facebook.com/events/1707827196153920/\n[06.25] Stefano Noferini @ Kingdom\nhttps://www.facebook.com/events/1287915874569621/\n[07.01] Pig & Dan @ RBC (Dallas)\n[07.02] Hernan Cattaneo @ Kingdom\nhttps://www.facebook.com/events/1196759860343262/\n[07.03] Way Out West @ Kingdom\nhttps://www.facebook.com/events/512285572289592/\n[07.04] RealMusic Events Boat Party\n[07.08] Claptone @ Kingdom\nhttps://www.facebook.com/events/1066401593432215/\n[07.14] Kill The Noise @ Kingdom\nhttps://www.facebook.com/events/295177557479989/\n[07.15] Felix Da Housecat @ Kingdom\nhttps://www.facebook.com/events/1739664172914427/", 
+                "start_time": "2016-06-16T20:00:00-0500", 
+                "place": {
+                    "id": "178179698882043", 
+                    "name": "Kingdom Austin", 
+                    "location": {
+                        "city": "Austin", 
+                        "zip": "78701", 
+                        "country": "United States", 
+                        "longitude": -97.742335663244, 
+                        "state": "TX", 
+                        "street": "103 E 5th St", 
+                        "latitude": 30.266816341936
+                    }
+                }, 
+                "end_time": "2016-06-17T00:00:00-0500", 
+                "id": "1032323016835817", 
+                "name": "Hayden James at Kingdom [06.16]"
+            }, 
+            {
+                "id": "1650296905251367", 
+                "start_time": "2015-12-10T20:00:00-0800", 
+                "place": {
+                    "id": "145125515498017", 
+                    "name": "Bill Graham Civic Auditorium", 
+                    "location": {
+                        "city": "San Francisco", 
+                        "zip": "94102", 
+                        "country": "United States", 
+                        "longitude": -122.417, 
+                        "state": "CA", 
+                        "street": "99 Grove St", 
+                        "latitude": 37.7785
+                    }
+                }, 
+                "description": "ODESZA", 
+                "name": "ODESZA"
+            }, 
+            {
+                "id": "867433796682898", 
+                "start_time": "2015-11-27T19:00:00-0600", 
+                "place": {
+                    "id": "216608211758267", 
+                    "name": "O'Brians Event Centre", 
+                    "location": {
+                        "city": "Saskatoon", 
+                        "zip": "S7K 1K8", 
+                        "country": "Canada", 
+                        "longitude": -106.6651535, 
+                        "state": "SK", 
+                        "street": "241 2nd Ave S", 
+                        "latitude": 52.1265221
+                    }
+                }, 
+                "description": "This is an all Ages event.", 
+                "name": "ODESZA"
+            }, 
+            {
+                "id": "911581108924765", 
+                "start_time": "2015-11-26T19:00:00-0600", 
+                "place": {
+                    "id": "140714095940521", 
+                    "name": "Garrick Centre", 
+                    "location": {
+                        "city": "Winnipeg", 
+                        "zip": "R3B 2G6", 
+                        "country": "Canada", 
+                        "longitude": -97.141566956225, 
+                        "state": "MB", 
+                        "street": "330 Garry Street", 
+                        "latitude": 49.895305820337
+                    }
+                }, 
+                "description": "ODESZA", 
+                "name": "ODESZA"
+            }
+        ]
+    }
+}

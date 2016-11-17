@@ -1,0 +1,102 @@
+{
+    "about": "inquiries: nick@octopus-agents.com", 
+    "name": "Xosar", 
+    "fan_count": 32801, 
+    "id": "146799755385611", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MjE4MzI0OTc0OTU1MTUw", 
+                "before": "MzE2NDMzNDc4NTU5MTE4"
+            }
+        }, 
+        "data": [
+            {
+                "name": "Body Tools", 
+                "id": "316433478559118"
+            }, 
+            {
+                "name": "Red Bull Music Academy", 
+                "id": "70898963216"
+            }, 
+            {
+                "name": "Computer Music Magazine", 
+                "id": "106703082701611"
+            }, 
+            {
+                "name": "Creme Organization", 
+                "id": "278709585478008"
+            }, 
+            {
+                "name": "Carter Tutti", 
+                "id": "152057651581804"
+            }, 
+            {
+                "name": "Cabaret Voltaire", 
+                "id": "112014248814635"
+            }, 
+            {
+                "name": "UNDERGROUND RESISTANCE", 
+                "id": "15822493325"
+            }, 
+            {
+                "name": "Jeff Mills", 
+                "id": "126769130467"
+            }, 
+            {
+                "name": "Hard Wax", 
+                "id": "184677148254194"
+            }, 
+            {
+                "name": "LIES Records News", 
+                "id": "434550119983646"
+            }, 
+            {
+                "name": "Legowelt Music", 
+                "id": "477815742274443"
+            }, 
+            {
+                "name": "Iasos", 
+                "id": "110749839033454"
+            }, 
+            {
+                "name": "unit moebius", 
+                "id": "168873403169337"
+            }, 
+            {
+                "name": "XAMIGA", 
+                "id": "218324974955150"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "MTEyNTM5NDcyNzUwNTM3OQZDZD", 
+                "before": "MTEyNTM5NDcyNzUwNTM3OQZDZD"
+            }
+        }, 
+        "data": [
+            {
+                "description": "Tinnitus Music Series presents a Weird Magic event\n\nXosar\nLow Jack (US debut)\nTorn Hawk\nSasha Jan Rezzie \n\nGet tickets: http://ticketf.ly/22dTfNB", 
+                "start_time": "2016-04-08T21:00:00-0400", 
+                "place": {
+                    "id": "90982243705", 
+                    "name": "MARKET HOTEL", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11221", 
+                        "country": "United States", 
+                        "longitude": -73.9346084, 
+                        "state": "NY", 
+                        "street": "1140 Myrtle Ave", 
+                        "latitude": 40.6968997
+                    }
+                }, 
+                "end_time": "2016-04-09T02:00:00-0400", 
+                "id": "1125394727505379", 
+                "name": "Tinnitus Music Series: Xosar, Low Jack, Torn Hawk, Sasha Jan Rezzie"
+            }
+        ]
+    }
+}

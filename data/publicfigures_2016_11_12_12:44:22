@@ -1,0 +1,277 @@
+{
+    "about": "Bienvenidos a la p\u00e1gina oficial de David Bustamante en Facebook.", 
+    "name": "Bustamante", 
+    "fan_count": 1100532, 
+    "id": "57374960690", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MTAzMjA5ODM2MzkxNjI5", 
+                "before": "MTcwMTU4MTk1NjczNTUxOQZDZD"
+            }
+        }, 
+        "data": [
+            {
+                "name": "Bfanmedia", 
+                "id": "1701581956735519"
+            }, 
+            {
+                "name": "Jet Management", 
+                "id": "103209836391629"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "ODcyMjAwOTUyODQ1NTI5", 
+                "before": "MTI3MDU2NzE2NjMyMDEyNgZDZD"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/57374960690/events?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=ODcyMjAwOTUyODQ1NTI5"
+        }, 
+        "data": [
+            {
+                "id": "1270567166320126", 
+                "start_time": "2017-02-18T21:00:00+0100", 
+                "place": {
+                    "id": "115060245171536", 
+                    "name": "Auditori de Girona", 
+                    "location": {
+                        "city": "Girona", 
+                        "zip": "17001", 
+                        "country": "Spain", 
+                        "longitude": 2.8116058347514, 
+                        "street": "Pg. de la Devesa 35", 
+                        "latitude": 41.985997238818
+                    }
+                }, 
+                "end_time": "2017-02-18T23:00:00+0100", 
+                "name": "Concierto Girona"
+            }, 
+            {
+                "id": "652955281549057", 
+                "start_time": "2017-01-14T21:00:00+0100", 
+                "end_time": "2017-01-14T23:00:00+0100", 
+                "name": "Concierto Santander"
+            }, 
+            {
+                "id": "1158035987624820", 
+                "start_time": "2017-01-07T21:00:00+0100", 
+                "place": {
+                    "id": "430147017176862", 
+                    "name": "Barclays Card Center", 
+                    "location": {
+                        "city": "Madrid", 
+                        "zip": "28009", 
+                        "country": "Spain", 
+                        "longitude": -3.6717740672973, 
+                        "street": "Avenida de Felipe II s/n", 
+                        "latitude": 40.423836706126
+                    }
+                }, 
+                "end_time": "2017-01-07T23:00:00+0100", 
+                "name": "Concierto Madrid"
+            }, 
+            {
+                "id": "549390531927093", 
+                "start_time": "2016-12-17T21:00:00+0100", 
+                "place": {
+                    "name": "Palau de les Arts Reina Sofia"
+                }, 
+                "end_time": "2016-12-17T23:00:00+0100", 
+                "name": "Concierto Valencia"
+            }, 
+            {
+                "id": "1193710394024107", 
+                "start_time": "2016-12-10T21:00:00+0100", 
+                "place": {
+                    "name": "FIBES"
+                }, 
+                "end_time": "2016-12-10T23:00:00+0100", 
+                "name": "Concierto Sevilla"
+            }, 
+            {
+                "id": "151881595278761", 
+                "start_time": "2016-12-03T22:00:00+0100", 
+                "end_time": "2016-12-04T01:00:00+0100", 
+                "name": "Concierto Torremolinos"
+            }, 
+            {
+                "id": "813291865477164", 
+                "start_time": "2016-11-24T21:00:00+0100", 
+                "place": {
+                    "name": "Centro Cultural Roberto Cantoral"
+                }, 
+                "end_time": "2016-11-24T23:00:00+0100", 
+                "name": "Concierto M\u00e9xico DF"
+            }, 
+            {
+                "id": "1832805370339849", 
+                "start_time": "2016-11-19T21:00:00+0100", 
+                "place": {
+                    "name": "Auditorio CCIB (Forum)"
+                }, 
+                "end_time": "2016-11-19T23:00:00+0100", 
+                "name": "Concierto Barcelona"
+            }, 
+            {
+                "id": "535799169946819", 
+                "start_time": "2016-11-12T21:30:00+0100", 
+                "place": {
+                    "name": "Auditorio Sala Mozart"
+                }, 
+                "end_time": "2016-11-12T23:30:00+0100", 
+                "name": "Concierto Zaragoza"
+            }, 
+            {
+                "id": "1745154979083522", 
+                "start_time": "2016-10-22T21:00:00+0200", 
+                "place": {
+                    "name": "\u200bPalacio de la \u00d3pera A Coru\u00f1a"
+                }, 
+                "end_time": "2016-10-22T23:00:00+0200", 
+                "name": "Concierto A Coru\u00f1a"
+            }, 
+            {
+                "id": "1110386269048964", 
+                "start_time": "2016-10-21T21:00:00+0200", 
+                "place": {
+                    "name": "Auditorio Palacio de Congresos Mar de Vigo"
+                }, 
+                "end_time": "2016-10-21T23:00:00+0200", 
+                "name": "Concierto Vigo"
+            }, 
+            {
+                "id": "328866744123576", 
+                "start_time": "2016-10-08T21:00:00+0200", 
+                "place": {
+                    "id": "142343129168732", 
+                    "name": "Trui teatre", 
+                    "location": {
+                        "city": "Palma de Mallorca", 
+                        "zip": "07013", 
+                        "country": "Spain", 
+                        "longitude": 2.61938, 
+                        "street": "Cam\u00ed de Son Rapinya, 29", 
+                        "latitude": 39.58378
+                    }
+                }, 
+                "end_time": "2016-10-08T23:00:00+0200", 
+                "name": "Concierto Palma de Mallorca"
+            }, 
+            {
+                "id": "603424046506598", 
+                "start_time": "2016-10-01T20:30:00+0200", 
+                "place": {
+                    "id": "219925691402014", 
+                    "name": "Teatro Villamarta - Jerez", 
+                    "location": {
+                        "city": "Jerez de la Frontera", 
+                        "zip": "11402", 
+                        "country": "Spain", 
+                        "longitude": -6.13539, 
+                        "street": "Pza. Romero Mart\u00ednez s/n", 
+                        "latitude": 36.68294
+                    }
+                }, 
+                "end_time": "2016-10-01T22:30:00+0200", 
+                "name": "Concierto Jerez"
+            }, 
+            {
+                "id": "1055811451206669", 
+                "start_time": "2016-09-23T21:00:00+0200", 
+                "place": {
+                    "name": "Palacio de Congresos de Albacete"
+                }, 
+                "end_time": "2016-09-23T23:00:00+0200", 
+                "name": "Concierto Albacete"
+            }, 
+            {
+                "id": "635075459959388", 
+                "start_time": "2012-03-31T21:00:00-0700", 
+                "description": "Venta de entradas en : www.servicaixa.com\n\nRecepci\u00f3n de Entradas Golden Ticket en la Entrada Principal del\nrecinto**  a las 18.30 horas", 
+                "name": "Concierto Palma de Mallorca - Tour Mio 2012", 
+                "end_time": "2012-04-01T00:00:00-0700"
+            }, 
+            {
+                "id": "714118232030981", 
+                "start_time": "2012-03-24T21:00:00-0700", 
+                "description": "Venta de entradas: www.servicaixa.com\nLas personas que hayan comprado entrada Golden Ticket tienen que estar a las 18:30h en la puerta principal del auditori", 
+                "name": "Concierto Girona - Tour Mio 2012", 
+                "end_time": "2012-03-25T00:00:00-0700"
+            }, 
+            {
+                "id": "891542127570254", 
+                "start_time": "2012-03-23T21:30:00-0700", 
+                "description": "Venta de entradas: www.servicaixa.com\nLas personas que tienen entrada Golden Ticket tienen que estar a las 19:00h en la puerta principal del auditori", 
+                "name": "Concierto Barcelona - Tour Mio 2012", 
+                "end_time": "2012-03-24T00:30:00-0700"
+            }, 
+            {
+                "id": "907688899253020", 
+                "start_time": "2012-03-17T21:00:00-0700", 
+                "description": "(Avenida de Madrid, 102 .- 05001 \u00c1vila Tel\u00e9fono: 920 27 08 38).\n\nVenta de entradas: http://www.ticketcyl.com/\n\nRecepci\u00f3n de las personas con entradas Golden Ticket a las 18:30h", 
+                "name": "Concierto \u00c1vila - Tour Mio 2012", 
+                "end_time": "2012-03-18T00:00:00-0700"
+            }, 
+            {
+                "id": "820995311308444", 
+                "start_time": "2012-02-25T21:00:00-0800", 
+                "description": "Venta de entradas en:\nhttp://www.malagaentradas.com/secc_home/index.php?local=\n\nVIPS: Importante mandar un mail a goldenticket2012@gmail.com para la\nasignaci\u00f3n de butacas. Recepci\u00f3n de Entradas Golden Ticket en la Entrada\nPrincipal del recinto**  a las 18.30 horas", 
+                "name": "Concierto M\u00e1laga - Tour Mio 2012", 
+                "end_time": "2012-02-26T00:00:00-0800"
+            }, 
+            {
+                "id": "952097411488593", 
+                "start_time": "2012-02-11T20:30:00-0800", 
+                "end_time": "2012-02-11T23:30:00-0800", 
+                "name": "Concierto Gandia - Tour Mio 2012"
+            }, 
+            {
+                "id": "852760901428334", 
+                "start_time": "2012-02-04T21:00:00-0800", 
+                "description": "Venta de entradas:  http://www.ticketcyl.com/\n\nMas informaci\u00f3n sobre la gira en: http://www.davidbustamante.es/es_ES/Eventos", 
+                "name": "Concierto Valladolid - Tour Mio 2012", 
+                "end_time": "2012-02-05T00:00:00-0800"
+            }, 
+            {
+                "id": "706795939429513", 
+                "start_time": "2012-02-03T21:00:00-0800", 
+                "description": "Compra de entradas: - http://www.ticketcyl.com/\n\nMas informaci\u00f3n sobre la gira en: http://www.davidbustamante.es/es_ES/Eventos", 
+                "name": "Concierto Le\u00f3n - Tour \"MIO\" 2012", 
+                "end_time": "2012-02-03T23:00:00-0800"
+            }, 
+            {
+                "id": "703584696416878", 
+                "start_time": "2011-10-29T18:00:00-0700", 
+                "description": "EL CORTE INGL\u00c9S - SAN JUAN DE ALZALFARACHE", 
+                "name": "FIRMA DE DISCOS", 
+                "end_time": "2011-10-29T21:00:00-0700"
+            }, 
+            {
+                "description": "EL CORTE INGL\u00c9S", 
+                "start_time": "2011-10-27T19:00:00-0700", 
+                "place": {
+                    "id": "110546248974344", 
+                    "name": "Murcia, Regi\u00f3n de Murcia, Espa\u00f1a", 
+                    "location": {
+                        "latitude": 37.9861, 
+                        "city": "Murcia", 
+                        "longitude": -1.1303, 
+                        "country": "Spain"
+                    }
+                }, 
+                "end_time": "2011-10-27T21:00:00-0700", 
+                "id": "781866701911272", 
+                "name": "FIRMA DE DISCOS"
+            }, 
+            {
+                "id": "872200952845529", 
+                "start_time": "2011-10-26T19:00:00-0700", 
+                "description": "MEDIA MARKT", 
+                "name": "FIRMA DE DISCOS", 
+                "end_time": "2011-10-26T21:00:00-0700"
+            }
+        ]
+    }
+}
