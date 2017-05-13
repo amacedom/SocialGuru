@@ -1,0 +1,508 @@
+{
+    "about": "www.bigbang.no", 
+    "name": "BigBang", 
+    "fan_count": 779692, 
+    "id": "9904515897", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "ODQ4NTE5MTEyNQZDZD", 
+                "before": "MTU1ODgzNDU3NDM2NDQ3NgZDZD"
+            }
+        }, 
+        "data": [
+            {
+                "name": "Band of Gold", 
+                "id": "1558834574364476"
+            }, 
+            {
+                "name": "Riksscenen", 
+                "id": "164991690204685"
+            }, 
+            {
+                "name": "Valkyrien", 
+                "id": "46335571728"
+            }, 
+            {
+                "name": "Frost Flake Productions", 
+                "id": "164723090268172"
+            }, 
+            {
+                "name": "elephant9", 
+                "id": "183024058489307"
+            }, 
+            {
+                "name": "Jonas Alaska", 
+                "id": "419788845009"
+            }, 
+            {
+                "name": "Atelier Carlos Motta", 
+                "id": "136269229770198"
+            }, 
+            {
+                "name": "Studio SP", 
+                "id": "179375612112928"
+            }, 
+            {
+                "name": "Studio RJ", 
+                "id": "197820810278344"
+            }, 
+            {
+                "name": "Cato Salsa Experience", 
+                "id": "112596685418525"
+            }, 
+            {
+                "name": "Oslo, 31. august", 
+                "id": "195451557149039"
+            }, 
+            {
+                "name": "Echo Park Books", 
+                "id": "111025082277434"
+            }, 
+            {
+                "name": "Linnea Dale", 
+                "id": "109793195713040"
+            }, 
+            {
+                "name": "Lissie", 
+                "id": "8485191125"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "NDg4NDY1NzE3ODMxNTAy", 
+                "before": "OTQ1MTUwMzY1NTk3MTE4"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/9904515897/events?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=NDg4NDY1NzE3ODMxNTAy"
+        }, 
+        "data": [
+            {
+                "id": "945150365597118", 
+                "start_time": "2016-12-17T20:00:00+0100", 
+                "description": "For Bigbang-fans kommer jula alltid tidlig: Trioen er klare for sin tradisjonelle juleturn\u00e9- som denne gangen teller \u00e5tte stopp; Troms\u00f8, Bod\u00f8, \u00c5lesund, Halden, Trondheim, Stavanger, Bergen og Oslo. Det er ikke uten grunn at Oslo-varianten har p\u00e5g\u00e5tt i hele elleve \u00e5r, for f\u00f8rjulskonsert med Bigbang har blitt en kj\u00e6rkommen tradisjon for mange. Det er visst noe med ventetid og rock.\n\nMed Norges beste gitarist i \u00d8ystein Greni og den tighteste rytmeseksjonen p\u00e5 denne siden av Atlanteren i trommis Olaf Olsen og bassist Nikolai H\u00e6ngsle Eilertsen, har Bigbang siden starten i 1992 v\u00e6rt et av Norges aller fremste liveband. I tillegg har de opprettholdt et imponerende niv\u00e5 p\u00e5 den etter hvert sv\u00e6rt s\u00e5 innholdsrike albumkatalogen \u2013 som de her vil str\u00f8 om seg med musikalske f\u00f8rjulsgaver fra. God jul!", 
+                "name": "Bigbang // Sentrum Scene - NB! F\u00c5 BILL.", 
+                "end_time": "2016-12-17T23:30:00+0100"
+            }, 
+            {
+                "id": "1761891930715523", 
+                "start_time": "2016-12-10T21:00:00+0100", 
+                "description": "For Bigbang-fans kommer jula alltid tidlig: Trioen er klare for sin tradisjonelle juleturn\u00e9- som denne gangen teller \u00e5tte stopp; Troms\u00f8, Bod\u00f8, \u00c5lesund, Halden, Trondheim, Stavanger, Bergen og Oslo. Det er ikke uten grunn at Oslo-varianten har p\u00e5g\u00e5tt i hele elleve \u00e5r, for f\u00f8rjulskonsert med Bigbang har blitt en kj\u00e6rkommen tradisjon for mange. Det er visst noe med ventetid og rock.\n\nMed Norges beste gitarist i \u00d8ystein Greni og den tighteste rytmeseksjonen p\u00e5 denne siden av Atlanteren i trommis Olaf Olsen og bassist Nikolai H\u00e6ngsle Eilertsen, har Bigbang siden starten i 1992 v\u00e6rt et av Norges aller fremste liveband. I tillegg har de opprettholdt et imponerende niv\u00e5 p\u00e5 den etter hvert sv\u00e6rt s\u00e5 innholdsrike albumkatalogen \u2013 som de her vil str\u00f8 om seg med musikalske f\u00f8rjulsgaver fra. \n\nBroen varmer opp for Bigbang! \nDet er stor stas \u00e5 annonsere at et av landets mest spennende band blir med Bigbang p\u00e5 turn\u00e9. Det er vanskelig \u00e5 sette Broen i b\u00e5s, men de imponerer stadig publikum og anmeldere med en m\u00e5lbindende live-opplevelse utenom det vanlige. De beskriver selv musikken som en frodig miks av britpop, hiphop, syre-punk, Paul Simon og spoken word med rytmikk fra Vest-Afrika. Vi kan nesten ikke vente! \n\nGod jul!", 
+                "name": "Bigbang // Brygga Kultursal Halden", 
+                "end_time": "2016-12-10T23:30:00+0100"
+            }, 
+            {
+                "id": "121340981645446", 
+                "start_time": "2016-10-22T19:30:00-1000", 
+                "place": {
+                    "id": "701812326517054", 
+                    "name": "Neal S Blaisdell Arena", 
+                    "location": {
+                        "city": "Honolulu", 
+                        "zip": "96814", 
+                        "country": "United States", 
+                        "longitude": -157.85172, 
+                        "state": "HI", 
+                        "street": "777 Ward Ave", 
+                        "latitude": 21.299002
+                    }
+                }, 
+                "description": "Due to the difficulty in his schedule arrangement, T.O.P had to cancel all of his appearances for [V.I.P] MADE TOUR IN HONOLULU. T.O.P has expressed his deepest apologies to the fans who have been expecting him on the stage. YG Entertainment and the organizers also send out sincere apologies to the fans.", 
+                "name": "2016 BIGBANG MADE [V.I.P] TOUR IN HONOLULU"
+            }, 
+            {
+                "id": "829732487142897", 
+                "start_time": "2015-12-17T21:30:00+0100", 
+                "place": {
+                    "id": "380071843764", 
+                    "name": "BYSCENEN", 
+                    "location": {
+                        "city": "Trondheim", 
+                        "zip": "7012", 
+                        "country": "Norway", 
+                        "longitude": 10.39178, 
+                        "street": "Kongens gate", 
+                        "latitude": 63.43039
+                    }
+                }, 
+                "description": "For Bigbang-fans kommer alltid julen tidlig, og torsdag 17. desember er trioen p\u00e5 plass i Trondheim og Byscenen med et elektrisk konsertsett det lukter svidd av. Bigbangs julekonserter er en \u00e5rviss tradisjon, og Trondheim i 2015 er selvsagt ikke noe unntak!\n\nBigbang har helt siden starten i 1992 vert et av Norges aller fremste liveband, noe de har bevist igjen og igjen. I tillegg har de opprettholdt et imponerende niv\u00e5 p\u00e5 den etter hvert sv\u00e6rt s\u00e5 innholdsrike albumkatalogen.\n\nI mars 2013 kom \"The  Oslo Bowl\", som blant annet ble omtalt som et nytt Bigbang-h\u00f8ydepunkt  i VG. Og karakterisert som \"l\u00e5t-for-l\u00e5t, et av de beste de har laget\". Dagbladets anmelder \u00d8yvind R\u00f8nning var ikke snauere enn at han trillet en sekser og kalte platen Bigbangs svar p\u00e5 The Rolling Stones-klassikeren \"Exile on Main Street\".\n\nMye av grunnen til at Bigbang fremdeles oppleves som friskt og vitalt er at \u00d8ystein Greni & co aldri er redde for \u00e5 ta musikken sin inn p\u00e5 nye stier.\n\n\n\nD\u00f8rene \u00e5pner kl 20:30\nKonsertstart kl 21:30\n18 \u00e5rs aldersgrense\nCC 350,- + avg", 
+                "name": "[UTSOLGT] BIGBANG"
+            }, 
+            {
+                "id": "717338954964063", 
+                "start_time": "2014-02-23T18:00:00-0300", 
+                "place": {
+                    "id": "563534237004514", 
+                    "name": "CCSP - Teatro", 
+                    "location": {
+                        "city": "S\u00e3o Paulo", 
+                        "zip": "01323-020", 
+                        "country": "Brazil", 
+                        "longitude": -46.6396529, 
+                        "state": "SP", 
+                        "street": "Rua Vergueiro, 1000", 
+                        "latitude": -23.5711451
+                    }
+                }, 
+                "description": "A banda Norueguesa Bigbang que j\u00e1 veio varias vezes ao Brasil est\u00e1 de volta com um novo disco literalmente na mala. Dia 23 de fevereiro eles far\u00e3o um show imperd\u00edvel no Centro Cultural SP com convidados do grupo folcl\u00f3rico noruegu\u00eas Valkyrien Allstars (tocando rabeca) e a amada cantora brasileira Ti\u00ea com participa\u00e7\u00e3o especial. Para voc\u00ea que sempre pensou em ir pra um show do Bigbang mas ainda n\u00e3o foi , esse vai ser o melhor show da sua vida. Show come\u00e7a 18h00 em ponto !!! \n\n* Mais sobre a banda * \n\nA mistura do rock aos ritmos da cultura de seu pa\u00eds valorizam o novo trabalho da maior banda de rock da Noruega.\n \nConsiderada uma das mais populares bandas de rock da Noruega, a Bigbang est\u00e1 de volta ao Brasil. Os noruegueses desembarcam em fevereiro com a turn\u00ea de seu novo \u00e1lbum, \u201cThe Oslo Bowl. Em sua volta ao pa\u00eds, a banda toca em 10 cidades (Bras\u00edlia, Goi\u00e2nia, Campinas, S\u00e3o Jos\u00e9 dos Campos, Birigui, Presidente Prudente, S\u00e3o Paulo, Rio de Janeiro, Piracicaba e S\u00e3o Carlos), nos meses de fevereiro e mar\u00e7o.\n \nNo palco, Oystein Greni ( vocal e guitarra), Nikolai Haengsle Eilerstesen (baixo e teclado) e Olaf Olsen (bateria) revisitam os sucessos de sua trajet\u00f3ria e tocam as m\u00fasicas do seu novo disco, ao lado de  Erik e Tuva  Valkyrien Allstars )", 
+                "name": "Bigbang - CCSP S\u00e3o Paulo - com Ti\u00ea e Valkyrien Allstars"
+            }, 
+            {
+                "id": "688367051187628", 
+                "start_time": "2013-12-20T20:00:00+0100", 
+                "place": {
+                    "id": "76670929726", 
+                    "name": "Rockefeller / John DEE / Sentrum Scene", 
+                    "location": {
+                        "city": "Oslo", 
+                        "zip": "0181", 
+                        "country": "Norway", 
+                        "longitude": 10.75073, 
+                        "street": "Torggata 16", 
+                        "latitude": 59.91588
+                    }
+                }, 
+                "description": "I mars slapp Bigbang sitt niende studioalbum, \u201cThe Oslo Bowl\u201d, som raskt fikk klassikerstempel. Flere anmeldere mente at dette var bandets beste. Klassekampen mente at det var det et av de beste norske albumene noensinne. F\u00f8r jula ringes inn, spiller de tradisjonen tro p\u00e5 Sentrum Scene igjen, med flere av de nye klassikerene i gitarkassa og volumknappene p\u00e5 fullt.\nF\u00f8rjulstradisjonene florerer, men enkelte m\u00e5 man bare omfavne! Bigbang leverer alltid varene med sin fengende bluesbaserte retrorock og klassiske l\u00e5ter som \u201cWild Bird\u201d, \u201cGirl In Oslo\u201d, \u201cThe Oslo Bowl\u201d, \u201cEverybody And Their Broken Hearts\u201d, \u201cPlay Louder\u201d og \u201cSaturn Freeway\u201d. Ta en pause fra hektiske juleforberedelser, og unn deg en pustepause med kulturelt p\u00e5fyll. \n\nBill. kr. 320,- + bill.avg. 18 \u00e5r leg. i hovedsalen / Bill. kr. 250,- + bill.avg. Fri aldersgrense p\u00e5 galleriet.", 
+                "name": "Bigbang - Sentrum Scene 20. desember"
+            }, 
+            {
+                "id": "1421774434707754", 
+                "start_time": "2013-12-18T21:00:00+0100", 
+                "place": {
+                    "id": "8354551238", 
+                    "name": "Folken", 
+                    "location": {
+                        "city": "Stavanger", 
+                        "zip": "4008", 
+                        "country": "Norway", 
+                        "longitude": 5.72792, 
+                        "street": "L\u00f8kkeveien 24", 
+                        "latitude": 58.96747
+                    }
+                }, 
+                "description": "It ain't Christmas 'till \u00d8ystein Greni sings!\n\nhttps://www.facebook.com/bigbangfans", 
+                "name": "Bigbang - julekonsert!"
+            }, 
+            {
+                "id": "164303503738529", 
+                "start_time": "2013-05-16T17:00:00+0200", 
+                "place": {
+                    "id": "186444328052546", 
+                    "name": "Deichmanske bibliotek, Gr\u00fcnerl\u00f8kka", 
+                    "location": {
+                        "city": "Oslo", 
+                        "zip": "0552", 
+                        "country": "Norway", 
+                        "longitude": 10.760129780622, 
+                        "street": "Schous plass 10", 
+                        "latitude": 59.920847147946
+                    }
+                }, 
+                "description": "Deichman og Radio Nova i prat med kunstneren bak Bigbangs nye musikkvideo \"Little Heart Bomb\".\n\nProgram:\n- Visning av video kl. 17:00, med p\u00e5f\u00f8lgende prat.\n- Akustisk minikonsert med \u00d8ystein Greni\n\nFri entr\u00e9 og fri aldersgrense.\n\u00c5pen caf\u00e9.", 
+                "name": "Nikolai Torgersen / Bigbang - Gr\u00fcnerl\u00f8kka bibliotek"
+            }, 
+            {
+                "id": "364298830319257", 
+                "start_time": "2013-04-20T19:30:00+0200", 
+                "place": {
+                    "id": "335718658081", 
+                    "name": "Oslo Spektrum Arena", 
+                    "location": {
+                        "city": "Oslo", 
+                        "zip": "0185", 
+                        "country": "Norway", 
+                        "longitude": 10.754164539091, 
+                        "street": "Sonja Henies plass 2", 
+                        "latitude": 59.912773521852
+                    }
+                }, 
+                "description": "Tickets: http://www.billettservice.no/artist/bigbang-billetter/116763\n\n+ Special guests Dungen (S) og Kr\u00e5kes\u00f8lv\n\nSom en av landets premissleverand\u00f8rer for god, gammeldags kvalitetsrock i over et desennium, er det f\u00e5 band som har et bedre liverykte p\u00e5 seg enn Bigbang. Men selv om de har fylt b\u00e5de Rockefeller og Sentrum Scene flere kvelder p\u00e5 rad de siste \u00e5rene, inntar \u00d8ystein Greni og hans kumpaner selveste storstua, Oslo Spektrum, for aller f\u00f8rste gang 20. april 2013. \n\nMed seg i baklomma har de ikke bare de eminente bandene Dungen og Kr\u00e5kes\u00f8lv som gjester. I f\u00f8rste kvartal av 2013 slipper Bigbang ogs\u00e5 nemlig nytt album, titulert \"The Oslo Bowl\". Og if\u00f8lge sjefen sj\u00f8l har den musikalske kursen tatt en aldri s\u00e5 liten vending tilbake i tid. Tilbake til norsk folkemusikk. \n\n- Joe Boyd skriver i boken \"White Bicycles\" at mange har en tendens til \u00e5 hate sitt eget lands folkemusikk. Jeg f\u00f8ler meg litt skyldig i s\u00e5 m\u00e5te, men n\u00e5r jeg tenker p\u00e5 de beste l\u00e5tene fra Bigbang sine plater s\u00e5 er det kanskje de l\u00e5tene med mest hardingfele-aktige gitarklanger som st\u00e5r seg best. \"Wild Bird\", \"To the mountains\" eller \"Isabel\", sier \u00d8ystein Greni. \n\nMed dette i bakhodet kontaktet Greni Tuva og Erik fra Valkyrien Allstars og Sinikka Langeland for \u00e5 samarbeide p\u00e5 \"The Oslo Bowl\". \n- Allerede fra starten av kjentes det ut som om vi hadde spilt sammen og kjent hverandre i mange \u00e5r, forteller Greni. \n\nOm tonaliteten p\u00e5 \"The Oslo Bowl\" er preget av norsk folkemusikk, er det byen Oslo og hva den gj\u00f8r med menneskene som bor der som gjennomsyrer tekstuniverset. \n\n- Oslo er en by som har skapt mye vakker kunst om vonde f\u00f8lelser. Jeg tenker p\u00e5 Hamsuns \"Sult\" og Munchs malerier. Jeg tenker ogs\u00e5 p\u00e5 Joachim Triers \"Oslo 31. august\". Det er ikke noe vi Oslofolk b\u00f8r v\u00e6re flaue over, snarere tvert imot. Der bergensere med rette kan si at de bor i Norges vakreste by kan vi si at vi bor i byen hvor angst og fremmedgj\u00f8ring blir til god kunst, utdyper Bigbang-sjefen. \nMen selv om plata har et overhengende tema som er veldig urnorsk og samtidig Oslo-inspirert, har ogs\u00e5 bandets mange \u00e5r i California, surfesportens mekka, hatt sitt \u00e5 si. \n\n- I surfesammenheng er \"the bowl\" det omr\u00e5det hvor en suges ned i dypet fra etterd\u00f8nningen av en brutt b\u00f8lge. Et sted man ikke b\u00f8r eller vil v\u00e6re, men som man suges inn og ned i. Mesteparten av livet har jeg bodd i Oslo og har alltid dr\u00f8mt om \u00e5 komme meg vekk. Begrepet Oslogryta er beskrivende for en innestengt f\u00f8lelse som en litt for trang storby har. Hvis det er noe Los Angeles har l\u00e6rt meg s\u00e5 er det \u00e5 elske byen sin for dens rare og gale sider like mye som de umiddelbart tiltrekkende, avslutter Greni. \n\nAtomic Soul Facebook event: https://www.facebook.com/events/541730822510828/\n\nhttp://www.bigbang.no", 
+                "name": "Bigbang - Oslo Spektrum, Oslo - The Oslo Bowl"
+            }, 
+            {
+                "id": "278675562242746", 
+                "start_time": "2012-12-20T20:00:00+0100", 
+                "place": {
+                    "id": "380071843764", 
+                    "name": "BYSCENEN", 
+                    "location": {
+                        "city": "Trondheim", 
+                        "zip": "7012", 
+                        "country": "Norway", 
+                        "longitude": 10.39178, 
+                        "street": "Kongens gate", 
+                        "latitude": 63.43039
+                    }
+                }, 
+                "description": "Dato:\n20. desember 2012\n\nD\u00f8rene \u00e5pner:\n19:30\n\nKonsertstart:\n20:00\n\nBillettpris:\n330/380\n\nMore details and tickets: http://byscenen.no/?page_id=3&event_id=237", 
+                "name": "Bigbang - Byscenen, Trondheim"
+            }, 
+            {
+                "id": "142523309223306", 
+                "start_time": "2012-12-20T15:00:00+0100", 
+                "place": {
+                    "id": "140094459378520", 
+                    "name": "Sentrum Scene", 
+                    "location": {
+                        "city": "Oslo", 
+                        "zip": "0181", 
+                        "country": "Norway", 
+                        "longitude": 10.7518, 
+                        "street": "Arbeidersamfunnets plass 1", 
+                        "latitude": 59.91552
+                    }
+                }, 
+                "description": "DOORS OPEN 20.00 - GIG START 21.30! \n\nBe there in time! Pay respect to this being an acoustic show, keep the noise level low!\n\n--------------\n\nNothing feels like coming home for Christmas!\n\nUnder 18 allowed as always in own section with a slightly reduced price :)\n\nTickets and more information available at http://rockefeller.no/sc211212h.html", 
+                "name": "Bigbang - Sentrum Scene, Oslo"
+            }, 
+            {
+                "id": "392740540809096", 
+                "start_time": "2012-12-19T21:00:00+0100", 
+                "place": {
+                    "id": "105166962858815", 
+                    "name": "Drammens Teater", 
+                    "location": {
+                        "city": "Drammen", 
+                        "zip": "3018", 
+                        "country": "Norway", 
+                        "longitude": 10.200666006555, 
+                        "street": "\u00d8vre Storgt. 12", 
+                        "latitude": 59.744635544136
+                    }
+                }, 
+                "description": "F\u00f8rjulstradisjonene florerer, men enkelte m\u00e5 man bare omfavne! Bigbang slapp i fjor det kritikerroste albumet \"Epic Scrap Metal\", som de fremdeles er aktuelle med. Skiva fikk femmere i VG, Dagbladet og Aftenposten, og ble godt motatt av publikum. Kveldens konsert er av det akustiske slaget, og selv om det er annerledes, blir det likevel fest og moro. P\u00e5 konsert leverer de alltid varene med sin fengende bluesbaserte retrorock og klassiske l\u00e5ter som \"Wild Bird\", \"Girl In Oslo\", \"Everybody And Their Broken Hearts\", \"Play Louder\" og \"Saturn Freeway\". Bigbangs \u00e5rlige julekonsert har fri aldersgrense p\u00e5 galleriet, slik at b\u00e5de store og sm\u00e5 kan ta en pause fra hektiske juleforberedelser, og unne seg en pustepause med kulturelt p\u00e5fyll.\n\nMore information and tickets: http://www.drammensteater.no/index.php/program/detalj/bigbang", 
+                "name": "Bigbang - Drammens Teater, Drammen"
+            }, 
+            {
+                "id": "170004826469995", 
+                "start_time": "2012-12-18T19:00:00+0000", 
+                "place": {
+                    "id": "179945833729", 
+                    "name": "Ole Bull Scene", 
+                    "location": {
+                        "city": "Bergen", 
+                        "zip": "5012", 
+                        "country": "Norway", 
+                        "longitude": 5.3221945200473, 
+                        "street": "\u00d8vre Ole bullsplass 3", 
+                        "latitude": 60.392120376056
+                    }
+                }, 
+                "description": "Sted:  Ole Bull Scene\nDato: tirsdag 18. desember 2012\nTid:  21:00\nD\u00f8rene \u00e5pner:  20.00\nPris:  320 / 270 (BT og grupper over seks) + bill. avgift.\nStudentpris:  270 + bill. avgift\nAlder:  18 \u00e5r - vergeordning\nBilletter:\nBillettservice: 815 33 133\nGrupper og Hotelpakker 09901\nGrieghallens Billettkontor 55 21 61 50\nApollon, 7-eleven, Narvesen og Posten\n\nMore information: http://bergenlive.no/konsertkalender/bigbang/", 
+                "name": "Bigbang - Ole Bull Scene, Bergen"
+            }, 
+            {
+                "id": "360931380652784", 
+                "start_time": "2012-12-17T19:00:00+0000", 
+                "place": {
+                    "id": "8354551238", 
+                    "name": "Folken", 
+                    "location": {
+                        "city": "Stavanger", 
+                        "zip": "4008", 
+                        "country": "Norway", 
+                        "longitude": 5.72792, 
+                        "street": "L\u00f8kkeveien 24", 
+                        "latitude": 58.96747
+                    }
+                }, 
+                "description": "Bigbang\nMa. 17. des. kl. 21:00\nVanlig \u00e0 325.00 + avgift 25.00 kr. \nStudent \u00e0 275.00 + avgift 25.00 kr. \n\nPris 325.00 + avgift 25.00 / 275.00 + avgift 25.00\nAldersgrense 18 \u00e5r\nFolken - Storsalen av Studentersamfunnet Folken\nD\u00f8rer 20:00\nKonsertstart 21:00\n\nAkustisk f\u00f8rjulskonsert med Bigbang\nBigbang slapp i fjor det kritikerroste albumet 'Epic Scrap Metal', som de fremdeles er aktuelle med. Skiva fikk femmere i VG, Dagbladet og Aftenposten, og ble godt motatt av publikum. Kveldens konsert er av det akustiske slaget, og selv om det er annerledes, blir det likevel fest og moro. P\u00e5 konsert leverer de alltid varene med sin fengende bluesbaserte retrorock og klassiske l\u00e5ter som 'Wild Bird', 'Girl In Oslo', 'Everybody And Their Broken Hearts', 'Play Louder' og 'Saturn Freeway'.\n\nTa en pause fra hektiske juleforberedelser, og unn deg en pustepause med kulturelt p\u00e5fyll.\n\nwww.bigbang.no\n\nFolkens eget event: https://www.facebook.com/events/119969561484809/\n\nMore information and tickets: http://www.linticket.no/program/Folken/vis.php3?Arr=10597#linticket_top", 
+                "name": "Bigbang - Folken, Stavanger"
+            }, 
+            {
+                "id": "225224464275833", 
+                "start_time": "2012-11-30T20:00:00-0200", 
+                "place": {
+                    "id": "193348360694663", 
+                    "name": "Jokers", 
+                    "location": {
+                        "city": "Curitiba", 
+                        "zip": "80020-190", 
+                        "country": "Brazil", 
+                        "longitude": -49.270147366869, 
+                        "state": "PR", 
+                        "street": "Rua S\u00e3o Francisco, 164 - Centro", 
+                        "latitude": -25.427976795807
+                    }
+                }, 
+                "description": "More information: http://www.jokers.com.br/index.php\nFB event: https://www.facebook.com/events/293730930738040/\n\n\u201cA maior banda de rock da Noruega nos \u00faltimos dez anos\u201d, como \u00e9 chamada atualmente pela imprensa de l\u00e1, se apresenta aqui no Jokers e a Banda Gentileza tamb\u00e9m participa da festa.\n\nFormada em 1992 por \u00d8ystein Greni (ex-campe\u00e3o de skate que hoje vive em Los Angeles), o trio faz um rock classudo e em ingl\u00eas \u2013 \u201cas maiores influ\u00eancias musicais s\u00e3o cl\u00e1ssicos como Led Zeppelin, Curtis Mayfield e Al Green, assim como Sonic Youth e Midlake.\u201d\nGreni \u00e9 o sujeito da guitarra. Seus companheiros s\u00e3o Olaf Olsen (bateria) e Nikolai Eilertsen (baixo). No ano passado o grupo noruegu\u00eas veio ao Brasil e fez uma por\u00e7\u00e3o de shows.\n\nEm 2012, a Bigbang lan\u00e7ou por aqui a compila\u00e7\u00e3o To the Mountains \u2013 primeiro dos 10 discos do trio a ganhar uma edi\u00e7\u00e3o nacional.\n\n\nEntrada:\nNa porta R$25,00\nNa lista R$20,00", 
+                "name": "Bigbang - Jokers, Curitiba, Brazil"
+            }, 
+            {
+                "id": "300764663373208", 
+                "start_time": "2012-11-29T22:00:00-0200", 
+                "place": {
+                    "id": "193053564048974", 
+                    "name": "John Bull Pub", 
+                    "location": {
+                        "city": "Florian\u00f3polis", 
+                        "zip": "88062-400", 
+                        "country": "Brazil", 
+                        "longitude": -48.45399546719, 
+                        "state": "SC", 
+                        "street": "Avenida Das Rendeiras 1046", 
+                        "latitude": -27.608230419223
+                    }
+                }, 
+                "description": "More information: http://www.johnbullfloripa.com.br/agenda.cfm?data=29/11/2012\n\nig Bang ? abertura Bife Killers e lan\u00e7amento filme Ondas Ex\u00f3ticas\nA banda norueguesa Bigbang foi originalmente formada em 1992 por \u00d8ystein Greni (vocal e guitarra), Erik Tresselt (baixo) Christer en (bateria). Sempre sob a lideran\u00e7a de  Greni, o power trio banda passou por in\u00fameras mudan\u00e7as de forma\u00e7\u00e3o, sendo hoje composto pelo pr\u00f3prio  Greni, por Nikolai H\u00e6ngsle Eilertsen (baixo e teclado) e Olaf  Olsen baterias). Tocando rock e  acoustic ballads inspirados nos anos  60 e 70, a banda \u00e9 considerada pela m\u00eddia especializada como sendo a melhor banda ao vivo da Noruega e j\u00e1 produziu  um total de nove \u00e1lbuns. O show de abertura da noite fica com a banda local Bife Killers. E, durante a noite, ser\u00e1 lan\u00e7ado o filme Ondas Ex\u00f3ticas, do surfista Binho Nunes, que \u00e9 guitarrista da Bife Killers e surfista profissional.\nEndere\u00e7o: Avenida das Rendeiras, 1045 \u2013 Lagoa da Concei\u00e7\u00e3o.\nAbertura da casa: 22h; In\u00edcio do show: 0h.\nVALORES:\n1o lote: R$ 30,00 (masculino e feminino)\n* Obs: Valores sujeitos \u00e0 altera\u00e7\u00e3o.\nVENDA ANTECIPADA (mediante pagamento de taxa de conveni\u00eancia):\nRede Multisom (Shoppings Floripa, Itagua\u00e7u, Iguatemi, Via Catarina e Beira Mar e nas lojas da Felipe Schmidt, do Kobrasol, e da Trajano).\nLojas Cheia de Gra\u00e7a (Ingleses, Centro e Lagoa);\nSite: www.blueticket.com.br\nS\u00f3cios Clube do Assinante DC: 20% desconto apenas no quiosque Blue Ticket no Shopping Beira Mar.\nRESERVAS DE MESAS:\nConsultar disponibilidade e condi\u00e7\u00f5es atrav\u00e9s do site www.johnbullfloripa.com.br na parte de reservas.\nANIVERS\u00c1RIOS:\nIndispon\u00edvel para a data;\n\n \nAnteriorPr\u00f3ximo\n \nDia Atual Dia Selecionado\nValores\nR$ 30,00 (feminino)\nR$ 30,00 (masculino)\n\u2022 Sujeito \u00e0 altera\u00e7\u00e3o de valores.\nInforma\u00e7\u00f5es\nAtendimento de segunda a sexta ap\u00f3s as 14h e s\u00e1bado ap\u00f3s as 18h. Tel  (48) 3232-8535.\n\n\u2022 Obrigat\u00f3ria a apresenta\u00e7\u00e3o de documento com foto na entrada.\n\n\u2022 Proibida a entrada com camisas de times de futebol, bermudas de praia, chinelos, regatas e bon\u00e9.", 
+                "name": "Bigbang - John Bull Pub, Floripa, Brazil"
+            }, 
+            {
+                "id": "350372871724516", 
+                "start_time": "2012-11-28T20:00:00+0100", 
+                "place": {
+                    "id": "215532895126797", 
+                    "name": "Sesc S\u00e3o Carlos", 
+                    "location": {
+                        "city": "S\u00e3o Carlos do Pinhal", 
+                        "zip": "13560-649", 
+                        "country": "Brazil", 
+                        "longitude": -47.8862495, 
+                        "state": "SP", 
+                        "street": "Avenida Comendador Alfredo Maffei, 700", 
+                        "latitude": -22.0208492
+                    }
+                }, 
+                "description": "A partir da segunda quinzena de novembro, o Sesc, em parceria com a Ag\u00eancia Alavanca, reunir\u00e1 dois nomes arrebatadores em est\u00fadio e nos palcos. O quinteto Garotas Suecas, de S\u00e3o Paulo, e o trio Bigbang, de Oslo (Noruega), catalisam a influ\u00eancia de ritmos negros como soul e blues em um rock explosivo e prometem shows vibrantes no palco de tr\u00eas unidades da rede: Belenzinho (16/11), Bauru (21/11) e S\u00e3o Carlos (28/11).\n \n\nUm dos principais expoentes do novo pop nacional, o Garotas Suecas vem apresentar as can\u00e7\u00f5es do premiado LP Escaldante Banda, reconhecido como um dos melhores discos de 2010 por publica\u00e7\u00f5es nacionais e internacionais.\n \n\nAp\u00f3s tr\u00eas turn\u00eas fora do pa\u00eds (uma nos EUA e duas na Europa) e em processo de grava\u00e7\u00e3o do segundo \u00e1lbum \u2013 que deve sair no primeiro semestre de 2013 \u2013, o grupo de Guilherme Saldanha (voz), Irina Bertolucci (teclado), Tomaz Paliolello (guitarra), Fernando Machado (baixo) e Nico Paliolello (bateria) lan\u00e7a clipe da can\u00e7\u00e3o \u201cAlma\u201d, depois de fazer sucesso com os v\u00eddeos de \u201cBanho de Bucha\u201d (estrelado por Jacar\u00e9, ex-\u00c9 o Tchan) e \u201cN\u00e3o Se Perca Por A\u00ed\u201d (indicado a Clipe do Ano no mais recente VMB da MTV).\n\n\nPara completar, o Garotas Suecas celebra a vers\u00e3o especial de \u201cAlma\u201d na voz da diva Elza Soares, por meio do projeto Meet the Legends, s\u00e9rie que conta com produ\u00e7\u00e3o da revista VICE e patroc\u00ednio da Ray-Ban; o resultado do encontro est\u00e1 dispon\u00edvel no site noisey.vice.com.\n\n \nN\u00f3rdicos pop\n\nReverenciada como a maior banda de rock da Noruega, o Bigbang vem ao Brasil apresentar seu oitavo \u00e1lbum, Epic Scrap Metal, que ser\u00e1 distribu\u00eddo em formato vinil duplo, al\u00e9m da colet\u00e2nea em CD To the Mountains, que compila sucessos de seus 20 anos de carreira.\n\n \n\nCom influ\u00eancias que v\u00e3o de Al Green a Tom Petty, o power trio formado pelo ex-campe\u00e3o de skate \u00d8ystein Greni (voz e guitarra), Erik Tresselt (baixo) e Christer Engen (bateria) j\u00e1 acumula quatro pr\u00eamios Grammy: dois de Melhor Artista de Rock (em 1999 e 2007); um de Revela\u00e7\u00e3o (1999); e mais um de Melhor M\u00fasica (2000), por \u201cGirl From Oslo\u201d.\n\n \n\nA banda norueguesa fez sua primeira turn\u00ea no Brasil em 2011, com shows em S\u00e3o Paulo, Rio de Janeiro, Goi\u00e2nia e S\u00e3o Carlos (onde conheceu o Garotas Suecas, no festival Contato).\n\n \n\nOu\u00e7a: www.garotassuecas.com; www.bigbang.no\n\n \n\nGarotas Suecas e Bigbang\n\n16/11: Sesc Belenzinho \u2013 \u00e0s 21h30\n\n21/11: Sesc Bauru \u2013 \u00e0s 21h\n\n28/11: Sesc S\u00e3o Carlos \u2013 \u00e0s 20h\n\n\n \n\nS\u00e3o Carlos (Galp\u00e3o)\n\nAvenida Comendador Alfredo Maffei, 700, Jardim Gibertoni\n\nIngressos: R$ 10,00 [inteira]; R$ 5,00 [usu\u00e1rio matriculado no Sesc e dependentes, aposentado, pessoa com mais de 60 anos, pessoa com defici\u00eancia, estudante e professor da rede p\u00fablica com comprovante]; R$ 2,50 [trabalhador do com\u00e9rcio de bens, servi\u00e7os e turismo matriculado no Sesc e dependentes]\n\nCensura: 14 anos\n\n (16) 3373-2333\n\nsescsp.org.br", 
+                "name": "Bigbang - SESC S\u00e3o Carlos, S\u00e3o Carlos, Brazil"
+            }, 
+            {
+                "id": "409555149114432", 
+                "start_time": "2012-11-24T22:00:00-0200", 
+                "description": "More information: http://www.bolshoipub.com.br/evento/24/11/2012\n\nOBRE O EVENTO\n\nG\u00eanero: Rock / Punk / Metal\nO showza\u00e7o da Big Bang em Goi\u00e2nia n\u00e3o poderia ser em outro lugar que n\u00e3o o Bolshoi. N\u00e3o \u00e9 a primeira vez que o trio vem ao Brasil e, por aqui, na capital, \u00e9 s\u00f3 o Pub que tem tudo a ver com o som da banda: uma verdadeira explos\u00e3o de rock!\nAs poderosas letras de \u00d8ystein Greni - o l\u00edder da Big Bang - misturam a influ\u00eancia do rock cl\u00e1ssico com um cora\u00e7\u00e3o jovial, transformando-as em algo pr\u00f3prio, que, acompanhado pelas m\u00e3os de Olaf Olsen (bateria) e Nikolai Eilertsen (baixo), tornam \u00fanico e insubstitu\u00edvel esse Power Trio noruegu\u00eas. Resumindo: a receita da Big Bang \u00e9 muita intensidade, tanto em est\u00fadio quanto ao vivo. S\u00f3 vendo e ouvindo pra crer. Dia 24 de novembro, arrasando o quarteir\u00e3o inteiro do Bolshoi!\n\nFICHA T\u00c9CNICA\n\nINTEGRANTES\nOystein Greni - voz, guitarra\nOlaf Olsen - bateria\nNikolai Eilertsen - baixo\nINGRESSOS\nLojas Frans Caf\u00e9\n3942-1314\n3215-1590\n3092-8756\nPagamento apenas em dinheiro\nRESERVA DE MESA\nApenas pelo fone 3241-0731\nA reserva n\u00e3o inclui o valor do ingresso.\nTodas as reservas expiram \u00e0s 22 horas.\nMAIS INFORMA\u00c7\u00d5ES\nSite da banda\nFacebook\nVimeo", 
+                "name": "Bigbang - Bolshoi Pub, Goi\u00e2nia, Brazil"
+            }, 
+            {
+                "id": "268017346654746", 
+                "start_time": "2012-11-23T22:00:00-0200", 
+                "place": {
+                    "id": "208590855834023", 
+                    "name": "Setor de Clubes Sul - AABR", 
+                    "location": {
+                        "city": "Bras\u00edlia", 
+                        "zip": "70200-001", 
+                        "country": "Brazil", 
+                        "longitude": -47.883683918778, 
+                        "state": "DF", 
+                        "street": "Sces Trecho 1", 
+                        "latitude": -15.823955426952
+                    }
+                }, 
+                "description": "No pr\u00f3ximo dia 23, sexta feira, o Arena Futebol Clube recebe a Norske, festa norueguesa que promete dar adeus ao calor de Bras\u00edlia e saudar a cidade com muita chuva e brisa glacial dos fiordes escandinavos!\nData: 23 de Novembro, Sexta-feira.\nHora: 22h.\nLocal: Arena - Setor de Clubes Sul, trecho 3.\n\n   \nAtra\u00e7\u00e3o\nBIGBANG (Rock/Noruega)\nCASSINO SUPERNOVA\nLET\u2019S GROHL \u2013 Foo Fighters\nDJ Frost Olsen (Noruega)\nDJ Dali Ribeiro (electrorock)\nColetivo \u00cdndios (indie)\nSobre\nNo pr\u00f3ximo dia 23, sexta feira, o Arena Futebol Clube recebe a NORSKE, festa norueguesa que promete dar adeus ao calor de Bras\u00edlia e saudar a cidade com muita chuva e brisa glacial dos fiordes escandinavos!\n\nNo line up, as bandas Cassino Supernova e Let\u2019s Grohl dividem o palco com o gigante BigBang, o power trio noruegu\u00eas que est\u00e1 em turn\u00ea no Brasil e que vem trazendo na bagagem 5 indica\u00e7\u00f5es ao Grammy. Completando a noite, Frost Olsen, consagrado DJ noruegu\u00eas, divide a discotecagem com Dali Ribeiro e Coletivo \u00cdndios.\n\nIngressos\nCom nome na lista: R$ 15,00 (v\u00e1lido at\u00e9 01h)\nNa portaria: R$ 20,00\nLista: norskefest@gmail.com\n\n*Valores dos ingressos sujeitos \u00e0 altera\u00e7\u00f5es sem aviso pr\u00e9vio.\n\nMais Informa\u00e7\u00f5es\nTelefone: (61) 8171-1543.\nClassifica\u00e7\u00e3o: 18 anos.\n\nAten\u00e7\u00e3o\nPara sua seguran\u00e7a, antes de adquirir o ingresso verifique junto \u00e0 empresa promotora do evento quais s\u00e3o as caracter\u00edsticas e as suas garantias. Verifique tamb\u00e9m no telefone de informa\u00e7\u00f5es a data, hora e local de realiza\u00e7\u00e3o do evento. O DeBoa.com limita-se t\u00e3o somente \u00e0 divulga\u00e7\u00e3o das informa\u00e7\u00f5es distribu\u00eddas pelas empresas promotoras de eventos.", 
+                "name": "Bigbang - Arena, Brasilia, Brazil"
+            }, 
+            {
+                "id": "434559396592238", 
+                "start_time": "2012-11-22T22:00:00-0200", 
+                "place": {
+                    "id": "186335051409883", 
+                    "name": "Beco 203 - S\u00e3o Paulo", 
+                    "location": {
+                        "city": "S\u00e3o Paulo", 
+                        "zip": "01305-000", 
+                        "country": "Brazil", 
+                        "longitude": -46.651816287247, 
+                        "state": "SP", 
+                        "street": "Rua Augusta, 609", 
+                        "latitude": -23.551913547184
+                    }
+                }, 
+                "description": "Beco 203 FB Event: https://www.facebook.com/events/434559396592238/\n\nBigbang \u00e9 a maior banda de rock\u2019n\u2019roll dos \u00faltimos dez anos na Noruega, e s\u00e3o conhecidos principalmente por seus shows explosivos. Sua discografia conta com nove discos de est\u00fadio, um disco ao vivo e um DVD. Seu l\u00edder, \u00d8ystein Greni, \u00e9 um ex-campe\u00e3o de skate que vive agora em Los Angeles, onde em sua velha e reformada casa, construiu seu pr\u00f3prio est\u00fadio a partir de madeira reciclada. As poderosas letras de Greni misturam a influ\u00eancia do rock cl\u00e1ssico com um cora\u00e7\u00e3o jovial, transformando-as em algo pr\u00f3prio, que acompanhado pelas m\u00e3os de Olaf Olsen  (bateria) e Nikolai Eilertsen (baixo) formam um Power trio de tamanha intensidade tanto em est\u00fadio como ao vivo que s\u00f3 pode ser entendida quando vivenciada.\nNo ano passado a banda veio ao Brasil pela primeira vez e se deparou com uma audi\u00eancia dedicada e interessada, que atestou o sucesso eminente de sua m\u00fasica no pa\u00eds.\nForam acolhidos n\u00e3o s\u00f3 pelo p\u00fablico, mas tamb\u00e9m abra\u00e7ados por formadores de opini\u00e3o como Fabio Massari (Rolling Stone) ou pelo grande designer de m\u00f3veis sustent\u00e1veis e pioneiro do surf brasileiro, Carlos Motta, quem conectou t\u00e3o bem com a banda que j\u00e1 se tornou um grande amigo.\nEste ano Big Bang lan\u00e7a seu primeiro \u00e1lbum no pa\u00eds. A banda j\u00e1 fez mais uma turn\u00ea em junho 2012, e tocou no Festival Alma surf para 4 mill pessoas. Aqueles que tiveram a oportunidade de presenciar um de seus shows sabem que valem a pena.\nEntre os admiradores da banda est\u00e3o nomes como Jack White (White Stripes/Raconteurs), Billy Gibbons (ZZ-Top), Scott Weilland (Stone Temple Pilots) e David Rollins (Gillian Welch). As maiores influencias musicais da banda s\u00e3o cl\u00e1ssicos como Led Zeppelin, Curtis Mayfield e Al Green, assim como Sonic Youth e Midlake.\nVisit www.bigbang.no\nhttp://bigbangno.blogspot.com.br/\n\nO show do Beco conta com a abertura da banda Garotas Suecas\nGAROTAS SUECAS\n\nDo mundo para o Brasil e de volta para o mundo. Na constru\u00e7\u00e3o de seu estilo e trajet\u00f3ria, o Garotas Suecas \u00e9 como um bumerangue musical. Reprocessando influ\u00eancias de ritmos negros americanos (o rock, o funk e o soul) a partir da tradi\u00e7\u00e3o antropof\u00e1gica brasileira (o tropicalismo dos Mutantes, a fase roqueira de Roberto Carlos e o groove de Tim Maia), o\ngrupo arrebata f\u00e3s dentro e fora do pa\u00eds com o balan\u00e7o contagiante de seu \u00e1lbum de estreia, Escaldante Banda. \n \nwww.bandagarotassuecas.com.br / www.bigbang.no\n\n\nBigbang e Garotas Suecas\nQuinta, 22 de novembro\n22h\n$30 na hora\n$15 na lista", 
+                "name": "Bigbang - Beco 203, S\u00e3o Paulo, Brazil"
+            }, 
+            {
+                "id": "112776152218994", 
+                "start_time": "2012-11-21T21:00:00-0200", 
+                "place": {
+                    "id": "109494869076117", 
+                    "name": "Bauru, Estado de S\u00e3o Paulo, Brasil", 
+                    "location": {
+                        "latitude": -22.314722222222, 
+                        "city": "Bauru", 
+                        "state": "SP", 
+                        "longitude": -49.060555555556, 
+                        "country": "Brazil"
+                    }
+                }, 
+                "description": "A partir da segunda quinzena de novembro, o Sesc, em parceria com a Ag\u00eancia Alavanca, reunir\u00e1 dois nomes arrebatadores em est\u00fadio e nos palcos. O quinteto Garotas Suecas, de S\u00e3o Paulo, e o trio Bigbang, de Oslo (Noruega), catalisam a influ\u00eancia de ritmos negros como soul e blues em um rock explosivo e prometem shows vibrantes no palco de tr\u00eas unidades da rede: Belenzinho (16/11), Bauru (21/11) e S\u00e3o Carlos (28/11).\n \n\nUm dos principais expoentes do novo pop nacional, o Garotas Suecas vem apresentar as can\u00e7\u00f5es do premiado LP Escaldante Banda, reconhecido como um dos melhores discos de 2010 por publica\u00e7\u00f5es nacionais e internacionais.\n \n\nAp\u00f3s tr\u00eas turn\u00eas fora do pa\u00eds (uma nos EUA e duas na Europa) e em processo de grava\u00e7\u00e3o do segundo \u00e1lbum \u2013 que deve sair no primeiro semestre de 2013 \u2013, o grupo de Guilherme Saldanha (voz), Irina Bertolucci (teclado), Tomaz Paliolello (guitarra), Fernando Machado (baixo) e Nico Paliolello (bateria) lan\u00e7a clipe da can\u00e7\u00e3o \u201cAlma\u201d, depois de fazer sucesso com os v\u00eddeos de \u201cBanho de Bucha\u201d (estrelado por Jacar\u00e9, ex-\u00c9 o Tchan) e \u201cN\u00e3o Se Perca Por A\u00ed\u201d (indicado a Clipe do Ano no mais recente VMB da MTV).\n\n\nPara completar, o Garotas Suecas celebra a vers\u00e3o especial de \u201cAlma\u201d na voz da diva Elza Soares, por meio do projeto Meet the Legends, s\u00e9rie que conta com produ\u00e7\u00e3o da revista VICE e patroc\u00ednio da Ray-Ban; o resultado do encontro est\u00e1 dispon\u00edvel no site noisey.vice.com.\n\n \nN\u00f3rdicos pop\n\nReverenciada como a maior banda de rock da Noruega, o Bigbang vem ao Brasil apresentar seu oitavo \u00e1lbum, Epic Scrap Metal, que ser\u00e1 distribu\u00eddo em formato vinil duplo, al\u00e9m da colet\u00e2nea em CD To the Mountains, que compila sucessos de seus 20 anos de carreira.\n\n \n\nCom influ\u00eancias que v\u00e3o de Al Green a Tom Petty, o power trio formado pelo ex-campe\u00e3o de skate \u00d8ystein Greni (voz e guitarra), Erik Tresselt (baixo) e Christer Engen (bateria) j\u00e1 acumula quatro pr\u00eamios Grammy: dois de Melhor Artista de Rock (em 1999 e 2007); um de Revela\u00e7\u00e3o (1999); e mais um de Melhor M\u00fasica (2000), por \u201cGirl From Oslo\u201d.\n\n \n\nA banda norueguesa fez sua primeira turn\u00ea no Brasil em 2011, com shows em S\u00e3o Paulo, Rio de Janeiro, Goi\u00e2nia e S\u00e3o Carlos (onde conheceu o Garotas Suecas, no festival Contato).\n\n \n\nOu\u00e7a: www.garotassuecas.com; www.bigbang.no\n\n \n\nGarotas Suecas e Bigbang\n\n16/11: Sesc Belenzinho \u2013 \u00e0s 21h30\n\n21/11: Sesc Bauru \u2013 \u00e0s 21h\n\n28/11: Sesc S\u00e3o Carlos \u2013 \u00e0s 20h\n\n \n\nSesc Bauru (\u00c1rea de Conviv\u00eancia)\n\nAvenida Aureliano Cardia, 6-71, Vila Cardia\n\nGr\u00e1tis\n\nCensura: 12 anos\n\n (14) 3235-1750\n\nsescsp.org.br", 
+                "name": "Bigbang - SESC Bauru, Bauru, Brazil"
+            }, 
+            {
+                "id": "424982064222384", 
+                "start_time": "2012-11-17T22:00:00-0200", 
+                "place": {
+                    "id": "164741095788", 
+                    "name": "Asteroid Entretenimento", 
+                    "location": {
+                        "city": "Sorocaba", 
+                        "zip": "18095-000", 
+                        "country": "Brazil", 
+                        "longitude": -47.452071751903, 
+                        "state": "SP", 
+                        "street": "Rua Aparecida, 737", 
+                        "latitude": -23.48756829713
+                    }
+                }, 
+                "description": "More information: http://asteroid.art.br/2012/10/toptop-club-com-bigbang-noruega-djs-residentes-171112/\n\n+ discotecagem antes e depois do show com os Djs residentes Talitha Andrade, Poe Bellentani e Mario Bross (rock, indie, cool classics, anos 80).\n\u2022 Hor\u00e1rio: a partir das 22h.\n\u2022 Pre\u00e7o: R$15 ou consuma\u00e7\u00e3o de R$35\n\u2022 Aceitamos: Visa / Mastercard / Diners / Amex\n\u2022 Com banheiro para cadeirante e amplo espa\u00e7o externo para fumantes.\n\u2022 Somente maiores de 18 anos\nBaixe o \u00e1lbum To The Mountains do BigBang, disponibilizado pela banda.\nEla \u00e9 a maior banda de rock\u2019n\u2019roll dos \u00faltimos anos na Noruega, e \u00e9 conhecida por seus shows explosivos. Com nove discos de est\u00fadio, um disco ao vivo e um DVD, a banda BigBang retorna ao Brasil, em maio, para o lan\u00e7amento do \u00e1lbum To the Mountains, com cinco apresenta\u00e7\u00f5es nas principais cidades brasileiras.\nCom um som cl\u00e1ssico e ao mesmo tempo inovador, BigBang j\u00e1 conquistou quatro pr\u00eamios Grammy: Melhor Banda de Rock e Melhor Banda Revela\u00e7\u00e3o de 1999; Melhor M\u00fasica, em 2000, com a m\u00fasica \u201cGirl in Oslo\u201d; e Melhor Banda de Rock, em 2007. O prestigio e reputa\u00e7\u00e3o da banda n\u00e3o param por a\u00ed. Em junho de 2011, em Estocolmo, BigBang abriu o show para Eric Clapton.\nSeu l\u00edder, \u00d8ystein Greni, \u00e9 um ex-campe\u00e3o de skate que agora vive em Los Angeles, onde construiu seu pr\u00f3prio est\u00fadio a partir de madeira reciclada. As poderosas letras de Greni misturam a influ\u00eancia do rock cl\u00e1ssico com um cora\u00e7\u00e3o jovial, transformando-as em algo pr\u00f3prio, que acompanhado pelas m\u00e3os de Olaf Olsen (bateria) e Nikolai Eilertsen (baixo) formam um Power trio de muita intensidade, tanto em est\u00fadio quanto ao vivo.\nEm 2011, a BigBand fez sua primeira turn\u00ea no Brasil, com apresenta\u00e7\u00f5es em S\u00e3o Paulo, Rio de Janeiro, Goi\u00e2nia e S\u00e3o Carlos. Durante sua passagem por S\u00e3o Paulo, a banda tocou juntamente com Donavon Frankenreiter para um seleto grupo de convidados, jornalistas, celebridades, m\u00fasicos e atletas de surfe profissionais, na sede da Revista Alma Surf. O \u00d8ystein Greni tamb\u00e9m foi uns do headliners na Festivalma 2012 em S\u00e3o Paulo.\n\n\n\nQuem \u00e9 o Bigbang?\nA banda norueguesa Bigbang foi originalmente formada em 1992 por \u00d8ystein Greni (vocal e guitarra), Erik Tresselt (baixo) e Christer Engen (bateria). Sempre sob a lideran\u00e7a de Greni, o power trio banda passou por in\u00fameras mudan\u00e7as de forma\u00e7\u00e3o, sendo hoje composto pelo pr\u00f3prio Greni, por Nikolai H\u00e6ngsle Eilertsen (baixo e teclado) e Olaf Olsen (baterias). Tocando rock e acoustic ballads inspirados nos anos 60 e 70, a banda \u00e9 considerada pela m\u00eddia especializada como sendo a melhor banda ao vivo da Noruega e j\u00e1 produziu um total de nove \u00e1lbuns.\nO seu hist\u00f3rico de sucessos reflete a sua qualidade musical. Logo em 2000 a banda irrompeu com o single \u201cGirl in Oslo\u201d, uma das cinco m\u00fasicas mais tocadas em toda a Noruega. Ainda no cen\u00e1rio europeu, outras de suas m\u00fasicas que tamb\u00e9m fizeram sucesso foram \u201cNew Glow\u201d e \u201cSmiling For\u201d, que chegaram respectivamente \u00e0s posi\u00e7\u00f5es de n\u00famero 12 e 7 no ranking das mais tocadas naquele mesmo ano.\nOs seus \u00e1lbuns tamb\u00e9m foram igualmente bem recepcionados. Em 2002, o \u00e1lbum \u201cFrontside Rock\u2019n\u2019Roll\u201d alcan\u00e7a novamente o Top Five e, j\u00e1 no ano seguinte, o \u00e1lbum \u201cRadio Radio TV Sleep\u201d lan\u00e7ou a banda ao primeiro lugar das mais ouvidas. Seus \u00e1lbuns seguintes, \u201cPoetic Terrorism\u201d (2005) e \u201cToo Much Yang\u201d (2007), foram tamb\u00e9m de grande sucesso, incluindo as m\u00fasicas \u201cI\u2019m not a Rolling Stone\u201d e \u201cI don\u2019t wanna\u201d.\nToda essa produ\u00e7\u00e3o culminou na edi\u00e7\u00e3o de duas compila\u00e7\u00f5es: \u201cSomething Special \u2013 The Best of Bigbang\u201d (2007) e \u201cFrom Acid to Zen\u201d (2008), este \u00faltimo destinado ao p\u00fablico norte-americano. Um ano depois, a banda lan\u00e7ou novamente um \u00e1lbum inteiramente com m\u00fasicas in\u00e9ditas, \u201cEdendale\u201d, que incluiu hits como o sucesso \u201cSwedish Television\u201d.\nBem ilustram todo esse sucesso as cinco indica\u00e7\u00f5es ao Grammy que recebeu: melhor revela\u00e7\u00e3o de 1999; melhor m\u00fasica em 2000, com \u201cGirl in Oslo\u201d; e melhor \u00e1lbum de rock em 2000, 2005 e 2007. N\u00e3o fosse isso o bastante, o prest\u00edgio e reputa\u00e7\u00e3o da banda foi ainda mais uma vez afirmado em junho de 2011, quando realizaram a abertura de um show para o Eric Clapton. \u00c9 como a pr\u00f3pria banda noticia essa conquista:\n\u201cEstamos felizes em anunciar que vamos realizar a abertura para Eric Clapton, em seu show no Ericsson Globe de Estocolmo no dia 8 de junho! N\u00f3s estamos muito animados em tocar no mesmo palco que esse guitarrista lend\u00e1rio, em frente a um lugar repleto de suecos com grande gosto musical!\nEm poucas palavras: n\u00e3o h\u00e1 como se questionar a qualidade e o impacto do trabalho realizado por esses artistas noruegueses.\n\u201cThe Oslo Bowl\u201d \u00e9 o nome que leva o pr\u00f3ximo \u00e1lbum da banda, conforme recentemente anunciado. A not\u00edcia oficial abaixo faz transparecer o que vem a ser esse ideal de afirma\u00e7\u00e3o das origens norueguesas para o Bigbang, e a sua forma de percep\u00e7\u00e3o.\nNo primeiro trimestre de 2013, BigBang lan\u00e7ar\u00e1 tamb\u00e9m o novo \u00e1lbum, intitulado \u201cThe Oslo Bowl\u201d. E de acordo com o l\u00edder da banda, representa um ligeiro, quase impercept\u00edvel, c\u00e2mbio musical ao passado. Voltando \u00e0 m\u00fasica folcl\u00f3rica norueguesa.\n- Joe Boyd escreve em seu livro \u201cWhite Bicycles\u201d que muitos tendem a odiar o povo do seu pr\u00f3prio pa\u00eds. Eu me sinto um pouco culpado a este respeito, mas quando eu penso nas melhores m\u00fasicas do Bigbang, estou com eles, talvez, a maioria das m\u00fasicas com violino efeitos de guitarra sejam as melhores. \u201cWild Bird\u201d, \u201cTo the Mountains\u201d ou \u201cIsabel\u201d, diz \u00d8ystein Greni.\nCom isto em mente, convidou Greni Tuva e Erik de Valkyrie Allstars e Langeland Sinikka para colaborar em \u201cThe Oslo Bowl\u201d.\n- Desde o in\u00edcio parecia que tinham tocados juntos e que se conhecem h\u00e1 anos, diz Greni.\nSobre a tonalidade, \u201cThe Oslo Bowl\u201d \u00e9 influenciado pela m\u00fasica folcl\u00f3rica norueguesa, a cidade de Oslo e do que ela faz com as pessoas que vivem l\u00e1 que permeia aquele universo.\n- Oslo \u00e9 uma cidade que tem criado uma s\u00e9rie de belas-artes a partir de emo\u00e7\u00f5es dolorosas. Eu penso na pintura \u201cHungry\u201d de Hamsun e Munch. Eu tamb\u00e9m penso em \u201cOslo, 31 August\u201d de Joachim Trier. N\u00e3o \u00e9 algo do que as pessoas de Oslo devem se envergonhar, pelo contr\u00e1rio. Enquanto Bergen pode dizer que vive na cidade mais bela, podemos dizer que vivemos na cidade onde o medo e aliena\u00e7\u00e3o torna-se boa arte, explica o l\u00edder de Bigbang.\nMas mesmo assim, o disco tem um tema que tende a ser um som noruegu\u00eas muito primitivo, porque inspirado em Oslo. Tamb\u00e9m os anos em que a banda morou na Calif\u00f3rnia, Meca dos esportes de surfe, deram algo sobre o que falar.\n- No contexto do surfe, \u201cThe Bowl\u201d \u00e9 a parte de uma onda quebrada que \u00e9 sugada para as profundezas. Um lugar que n\u00e3o \u00e9 e nem vai ser, mas que for\u00e7a algu\u00e9m para dentro e para baixo. Durante a maior parte da minha vida que vivi em Oslo, sempre sonhei em me afastar de l\u00e1. A express\u00e3o \u201cGruta de Oslo\u201d \u00e9 descritiva de um sentimento de quem est\u00e1 preso a uma cidade tamb\u00e9m apertada. Se h\u00e1 algo que Los Angeles me ensinou, foi a amar a sua cidade por seus lados estranhos e loucos, tanto quanto eles quase sempre se revelam tamb\u00e9m instantaneamente atraentes. Greni finaliza.\nQuem\t\nTopTop Club com Bigbang (Noruega) + Djs residentes\nQuando\t\nSaturday, November 17, 2012\n22:00 - 18+\nOnde\t\nAsteroid (map)\nR. Aparecida, 737 | Vila Santana\nSorocaba, SP, Brasil 18095-000", 
+                "name": "Bigbang - Asteroid Entretenimento, Sorocaba, Brazil"
+            }, 
+            {
+                "id": "106891256142390", 
+                "start_time": "2012-11-16T21:30:00-0200", 
+                "place": {
+                    "id": "175613972463196", 
+                    "name": "Sesc Belenzinho", 
+                    "location": {
+                        "city": "S\u00e3o Paulo", 
+                        "zip": "03303-000", 
+                        "country": "Brazil", 
+                        "longitude": -46.584083152553, 
+                        "state": "SP", 
+                        "street": "Rua Padre Adelino. 1000", 
+                        "latitude": -23.545032648436
+                    }
+                }, 
+                "description": "A partir da segunda quinzena de novembro, o Sesc, em parceria com a Ag\u00eancia Alavanca, reunir\u00e1 dois nomes arrebatadores em est\u00fadio e nos palcos. O quinteto Garotas Suecas, de S\u00e3o Paulo, e o trio Bigbang, de Oslo (Noruega), catalisam a influ\u00eancia de ritmos negros como soul e blues em um rock explosivo e prometem shows vibrantes no palco de tr\u00eas unidades da rede: Belenzinho (16/11), Bauru (21/11) e S\u00e3o Carlos (28/11).\n \n\nUm dos principais expoentes do novo pop nacional, o Garotas Suecas vem apresentar as can\u00e7\u00f5es do premiado LP Escaldante Banda, reconhecido como um dos melhores discos de 2010 por publica\u00e7\u00f5es nacionais e internacionais.\n \n\nAp\u00f3s tr\u00eas turn\u00eas fora do pa\u00eds (uma nos EUA e duas na Europa) e em processo de grava\u00e7\u00e3o do segundo \u00e1lbum \u2013 que deve sair no primeiro semestre de 2013 \u2013, o grupo de Guilherme Saldanha (voz), Irina Bertolucci (teclado), Tomaz Paliolello (guitarra), Fernando Machado (baixo) e Nico Paliolello (bateria) lan\u00e7a clipe da can\u00e7\u00e3o \u201cAlma\u201d, depois de fazer sucesso com os v\u00eddeos de \u201cBanho de Bucha\u201d (estrelado por Jacar\u00e9, ex-\u00c9 o Tchan) e \u201cN\u00e3o Se Perca Por A\u00ed\u201d (indicado a Clipe do Ano no mais recente VMB da MTV).\n\n\nPara completar, o Garotas Suecas celebra a vers\u00e3o especial de \u201cAlma\u201d na voz da diva Elza Soares, por meio do projeto Meet the Legends, s\u00e9rie que conta com produ\u00e7\u00e3o da revista VICE e patroc\u00ednio da Ray-Ban; o resultado do encontro est\u00e1 dispon\u00edvel no site noisey.vice.com.\n\n \nN\u00f3rdicos pop\n\nReverenciada como a maior banda de rock da Noruega, o Bigbang vem ao Brasil apresentar seu oitavo \u00e1lbum, Epic Scrap Metal, que ser\u00e1 distribu\u00eddo em formato vinil duplo, al\u00e9m da colet\u00e2nea em CD To the Mountains, que compila sucessos de seus 20 anos de carreira.\n\n \n\nCom influ\u00eancias que v\u00e3o de Al Green a Tom Petty, o power trio formado pelo ex-campe\u00e3o de skate \u00d8ystein Greni (voz e guitarra), Erik Tresselt (baixo) e Christer Engen (bateria) j\u00e1 acumula quatro pr\u00eamios Grammy: dois de Melhor Artista de Rock (em 1999 e 2007); um de Revela\u00e7\u00e3o (1999); e mais um de Melhor M\u00fasica (2000), por \u201cGirl From Oslo\u201d.\n\n \n\nA banda norueguesa fez sua primeira turn\u00ea no Brasil em 2011, com shows em S\u00e3o Paulo, Rio de Janeiro, Goi\u00e2nia e S\u00e3o Carlos (onde conheceu o Garotas Suecas, no festival Contato).\n\n \n\nOu\u00e7a: www.garotassuecas.com; www.bigbang.no\n\n \n\nGarotas Suecas e Bigbang\n\n16/11: Sesc Belenzinho \u2013 \u00e0s 21h30\n\n21/11: Sesc Bauru \u2013 \u00e0s 21h\n\n28/11: Sesc S\u00e3o Carlos \u2013 \u00e0s 20h\n\n \n\nSesc Belenzinho (Comedoria)\n\nRua Padre Adelino, 1.000, Belenzinho\n\nIngressos: R$ 24,00 [inteira]; R$ 12,00 [usu\u00e1rio matriculado no Sesc e dependentes, aposentado, pessoa com mais de 60 anos, pessoa com defici\u00eancia, estudante e professor da rede p\u00fablica com comprovante]; R$ 6,00 [trabalhador do com\u00e9rcio de bens, servi\u00e7os e turismo matriculado no Sesc e dependentes]\n\nCensura: 18 anos\n\n (11) 2076-9700\n\nsescsp.org.br", 
+                "name": "Bigbang - SESC Belezinho, S\u00e3o Paulo, Brazil"
+            }, 
+            {
+                "id": "435499186486466", 
+                "start_time": "2012-10-18T22:00:00-0700", 
+                "place": {
+                    "id": "199917960024521", 
+                    "name": "Harvard & Stone", 
+                    "location": {
+                        "city": "Los Angeles", 
+                        "zip": "90027", 
+                        "country": "United States", 
+                        "longitude": -118.30435321364, 
+                        "state": "CA", 
+                        "street": "5221 Hollywood Blvd", 
+                        "latitude": 34.101967565938
+                    }
+                }, 
+                "description": "Skyline Pigeons, Johnny O\u2019Donnell & Sacramento, Bigbang\nDate: October 18, 2012\nTime: Midnight\nFree entrance, No ticketing\nAge requirements: 21+\nCategory: LIVE at H&S\nwith DJ\u2019s Anthony Giancola and Slow Ride\n\nFor more information, check http://harvardandstone.com/\nFB event: https://www.facebook.com/events/231305633662591/", 
+                "name": "Bigbang - Harvard & Stone, Los Angeles, USA"
+            }, 
+            {
+                "id": "488465717831502", 
+                "start_time": "2012-09-22T19:00:00+0000", 
+                "place": {
+                    "id": "191058170942291", 
+                    "name": "Musikhuset Posten", 
+                    "location": {
+                        "city": "Odense", 
+                        "zip": "5000", 
+                        "country": "Denmark", 
+                        "longitude": 10.384191285184, 
+                        "street": "\u00d8stre Stationsvej 35", 
+                        "latitude": 55.400973122457
+                    }
+                }, 
+                "description": "BigBang (NO)\n+ Paper Tigers & Dirty Old Town\n\nPriser:\nForsalg:\nDKK 140\nD\u00f8rsalg:\nDKK 160\nMedlemspris/Studiepris:\nDKK 100\n\nMore information and tickets: http://www.postenlive.dk/", 
+                "name": "Bigbang - Posten, Odense, Denmark"
+            }
+        ]
+    }
+}

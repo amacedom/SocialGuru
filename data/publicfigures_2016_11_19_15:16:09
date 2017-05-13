@@ -1,0 +1,578 @@
+{
+    "about": "My debut album 'Donna' is out now! I hope you enjoy it", 
+    "name": "Cassy", 
+    "fan_count": 98904, 
+    "id": "207845458637", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "NTAwNjA3Nzk5NDYZD", 
+                "before": "MjQxNDQ2NjcyNjM1ODIw"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/207845458637/likes?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=NTAwNjA3Nzk5NDYZD"
+        }, 
+        "data": [
+            {
+                "name": "Amanda Chang", 
+                "id": "241446672635820"
+            }, 
+            {
+                "name": "Mark Ernestus", 
+                "id": "110538785640654"
+            }, 
+            {
+                "name": "Newworldaquarium", 
+                "id": "274170729453554"
+            }, 
+            {
+                "name": "Sebo K", 
+                "id": "399818876354"
+            }, 
+            {
+                "name": "Laura Jones", 
+                "id": "153167571428928"
+            }, 
+            {
+                "name": "Subb-an", 
+                "id": "75627363032"
+            }, 
+            {
+                "name": "Roman Fl\u00fcgel", 
+                "id": "136401399715378"
+            }, 
+            {
+                "name": "Daniel Stefanik", 
+                "id": "175340454090"
+            }, 
+            {
+                "name": "Ryan Crosson", 
+                "id": "156151931089961"
+            }, 
+            {
+                "name": "Livio & Roby", 
+                "id": "65693084174"
+            }, 
+            {
+                "name": "Dyed Soundorom", 
+                "id": "135253919848591"
+            }, 
+            {
+                "name": "Ostgut Ton", 
+                "id": "133463310029669"
+            }, 
+            {
+                "name": "Lee Curtiss", 
+                "id": "144420182272626"
+            }, 
+            {
+                "name": "Nick H\u00f6ppner", 
+                "id": "116747361724587"
+            }, 
+            {
+                "name": "Levon Vincent", 
+                "id": "184486851592869"
+            }, 
+            {
+                "name": "Davide Squillace", 
+                "id": "26730537622"
+            }, 
+            {
+                "name": "Damian Lazarus", 
+                "id": "146494732033182"
+            }, 
+            {
+                "name": "Tania Vulcano", 
+                "id": "152902551435441"
+            }, 
+            {
+                "name": "Bill Patrick", 
+                "id": "114809405207382"
+            }, 
+            {
+                "name": "Clive Henry", 
+                "id": "149059045118361"
+            }, 
+            {
+                "name": "De School", 
+                "id": "714584595338684"
+            }, 
+            {
+                "name": "Dimitri From Paris", 
+                "id": "208169992558562"
+            }, 
+            {
+                "name": "Kerri Chandler", 
+                "id": "414449598607604"
+            }, 
+            {
+                "name": "Francesca Lombardo", 
+                "id": "159801807472450"
+            }, 
+            {
+                "name": "Joey Negro", 
+                "id": "50060779946"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "MzI3ODg2OTc0MDcxMTQ2", 
+                "before": "Mjc2MTM4NDg2MDkwNDAw"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/207845458637/events?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=MzI3ODg2OTc0MDcxMTQ2"
+        }, 
+        "data": [
+            {
+                "description": "Welcome to Snowbombing 2017.  We are officially ON SALE NOW with Super Early Bird belters from just \u00a3249 for 5 nights' accom. & festival ticket...\n\nWhere to start... Mayrhofen, Austria, that\u2019s where! Up a massive mountain 8,497 FT above ordinary. The finest ski resort in Europe, sprinkled with world class acts, insane venues (think Igloo rave, enchanted forest party, tennis club turned super club). Blue runs, black runs, beer runs. The original. Unparalleled. Plain daft.\n\nMore news and a series of world-beating lineup announcements are in the pipe-line... Keep your eyes peeled.", 
+                "start_time": "2017-04-03T20:00:00+0200", 
+                "place": {
+                    "id": "75954394445", 
+                    "name": "Mayrhofen / Hippach im Zillertal", 
+                    "location": {
+                        "latitude": 47.169328874571, 
+                        "city": "Mayrhofen", 
+                        "zip": "6290", 
+                        "longitude": 11.865362840624, 
+                        "country": "Austria"
+                    }
+                }, 
+                "end_time": "2017-04-08T23:00:00+0200", 
+                "id": "276138486090400", 
+                "name": "Snowbombing 2017"
+            }, 
+            {
+                "description": "mUmU 9th Birthday\n9 years / 9 artists / 15 hours\n\nTICKETS >>skiddle.com/e/12840957\n\nBy DAY (2pm-11pm) Great Baltic Warehouse\nBy NIGHT (11pm-5am) New Bird Street\n& GARDEN \n\nw/\n\nNew Bird Warehouse -\n\nCassy\nEnzo Siragusa\nGary Beck\nLee Rands\n\nGreat Baltic Warehouse -\n\nNastia\nJon Rundell\nClive Henry\nTred Benedict\nScott Grant\n\nGarden -\n\nHustle DJ's:\nSpecial guest TBA\nJames Morgan\nJimmy Allen \nScott Martin\n\nAfter party hosted by: \nHenry St Social & guests \n\nThank you for dancing x", 
+                "start_time": "2017-02-04T14:00:00+0000", 
+                "place": {
+                    "id": "407396119446702", 
+                    "name": "New Bird Street Warehouse, Liverpool", 
+                    "location": {
+                        "latitude": 53.395245065, 
+                        "city": "Liverpool", 
+                        "longitude": -2.979792645, 
+                        "country": "United Kingdom"
+                    }
+                }, 
+                "end_time": "2017-02-05T05:00:00+0000", 
+                "id": "622546864614029", 
+                "name": "9th Birthday mUmU w/ Cassy, Enzo Siragusa, Nastia, Gary Beck"
+            }, 
+            {
+                "description": "RA's In Residence series will head to Brazil in January for a month at Warung Beach Club. \n\nInside\nNina Kraviz\nRenato Ratier\nNey Faustini\n\nTerrace\nCassy\nAninha\nAlbuquerque\n\nClubs are the beating heart of dance music. RA In Residence throws the spotlight on venues that keep their local scenes flourishing. Week-in, week-out, these clubs\u2014and hundreds of others in cities across the globe\u2014open their doors to play the music we love. They provide a platform to nurture upcoming talent and showcase revered international guests in an environment with great sound and dedicated staff. Without clubs, we have no club culture: the people, the sounds, the moments. Now is time to celebrate. \n\nAcross four parties, RA takes up residence at Warung Beach Club, for the month of October.\n\n\nTickets here: https://www.residentadvisor.net/event.aspx?893974", 
+                "start_time": "2017-01-21T22:00:00-0200", 
+                "place": {
+                    "id": "23297478151", 
+                    "name": "Warung Beach Club", 
+                    "location": {
+                        "city": "Itaja\u00ed", 
+                        "zip": "88306-800", 
+                        "country": "Brazil", 
+                        "longitude": -48.6282884, 
+                        "state": "SC", 
+                        "street": "Av. Jos\u00e9 Medeiros Vieira 350, Praia Brava", 
+                        "latitude": -26.9380435
+                    }
+                }, 
+                "end_time": "2017-01-22T07:00:00-0200", 
+                "id": "359814837700967", 
+                "name": "RA In Residence at Warung Beach Club: Nina Kraviz, Cassy"
+            }, 
+            {
+                "description": "Berns och Heineken presenterar Power Plant 5 Years med CASSY | LA FLEUR | ACID MONDAYS | JUSTIN MASSEI\n\nLa Fleurs skivbolag Power Plant firar 5 \u00e5r och bjuder in till stor fest p\u00e5 Berns den 3 december med internationella dj-favoriter.\n\n>> Stora Salongen <<\nCASSY\nhttp://www.cassyofficial.com\nhttps://www.residentadvisor.net/dj/cassy\nLA FLEUR\nhttp://www.djlafleur.com/\nhttps://www.residentadvisor.net/dj/lafleur\n\n>> Terrassen <<\nACID MONDAYS\nhttps://www.residentadvisor.net/dj/acidmondays\nJUSTIN MASSEI\nhttps://www.residentadvisor.net/dj/justinmassei\n\nBerns \nStora Salongen\nTerrassen\nSaturday 3/12\n23.00-04.00", 
+                "start_time": "2016-12-03T23:00:00+0100", 
+                "place": {
+                    "id": "194596797231469", 
+                    "name": "Berns", 
+                    "location": {
+                        "city": "Stockholm", 
+                        "zip": "103 27", 
+                        "country": "Sweden", 
+                        "longitude": 18.073964949957, 
+                        "street": "Berzelii Park", 
+                        "latitude": 59.332452413755
+                    }
+                }, 
+                "end_time": "2016-12-04T04:00:00+0100", 
+                "id": "1006112689510587", 
+                "name": "Power Plant 5 Yrs - Cassy La Fleur Acid Mondays Justin Massei"
+            }, 
+            {
+                "description": ":: Information posted in Romanian, followed by English. ::\n_______________________________\n\nCapitolul I: UR.BASM\n\nDomni \u0219i domni\u021be,\nInvita\u021bi de seam\u0103 de pretutindeni, \nSi arti\u0219ti din toate urbele \u021b\u0103rii,\n\nUR.BASM  este noul festival de muzic\u0103  \u0219i \u00eent\u00e2mpl\u0103ri urbane la care v\u0103 invitam s\u0103 lua\u021bi parte \u00een perioada 29 noiembrie \u0219i 4 decembrie. \n\nPentru prima poveste  am preg\u0103tit o serie de evenimente muzicale \u00een\u0219irate pe parcursul celor 5 nop\u021bi, care se vor desf\u0103\u0219ura \u00een diverse loca\u021bii din ora\u0219ul Bucure\u0219ti, iar pe timp de zi v\u0103 a\u0219teapt\u0103 o serie de surprize. \n\nCAPITOLUL II: UR.ACTIVITIES\n\nUR.BASM lanseaz\u0103 o platform\u0103 de activit\u0103\u021bi, cultural-artistice, desf\u0103\u0219urate \u00een numeroase spa\u021bii pe parcusul celor 6 zile \u0219i 6 nop\u021bi, care cuprinde: \n\n-\tGraffiti \u0219i street art\n-\tArt\u0103 mural\u0103\n-\tAteliere de arhitectur\u0103 \u0219i design \n-\tAteliere de mod\u0103\n-\tVideomapping\n-\tSculptur\u0103\n-\tAtelier de art\u0103 digital\u0103\n-\tWorkshop produc\u021bie \u0219i management muzical\n-\tInstala\u021bii urbane\n-\tExpozi\u021bii de fotografie\n-\tConferin\u021be\n-\tDans contemporan \n-\tConcurs de breakdance \n-\tEvenimente de muzic\u0103 live \u0219i muzic\u0103 electronic\u0103\n\nCAPITOLUL III: UR.MUSIC\n\n\nAbelle / Acronym / Alex Danilov / Alienata / Andrei/ Andrey Zots\nAquarius Heaven / Barac / Ben Klock / Borusiade / Cap / Cassy\nChlorys / Cobblestone Jazz (live) / Daniel Maher / Dasha Redkina\nDetroit Swindle / D. Rusu / Dub Pistols (live band)\nDutu / Floog (live) / Francesca Lombardo / Francesco Del Garda\nFrancesco Tristano (live) / Fred P aka Black Jazz Consortium/ Fumiya Tanaka / Gaiser (live) Gemini Brothers / Guti (live) / Heartthorb (live) / Herodot / Ion Ludwig  / John Digweed / Julian Perez / K!d Chriss /  Kidnap Kid / Kosta / Lena Willikens / \nLivio & Roby /Loco Dice / Luger / Mahony / Mark Broom / \nMathew Jonson (live) / Mihigh / Mirror States / Moodymann / Moonlight Breakfast / Negru / Nick Hoppner / Nusha / October / Orgue Electronique (live) Oscar and The Wolf / Paul Popa / \nPetre Inspirescu / Phoung Dan / Piticu / Premiesku (live) / Priku / Profet / Ranishe Niyaak / Raresh / Rayo / Romansoff / Sasha / Seuil / SNTS (live) / Sonodab / TC80 / Todd Terry / ToFu Productions (Thomas Melchior + Fumiya Tanaka) / Vlada / Waldeck / Wareika (live) / Xandru / Zendid / \u041fE\u0413E\n\nCAPITOLUL IV: UR.TICKETS\n\n- Biletele Early Bird s-au epuizat. Mai poti cumpara doar biletele individuale pentru fiecare seara de event. \n\n- Biletele se pot cumpara de pe http://tickets.urbasm.ro\n\n\nINFO TIP:\n+ Biletele puse la vanzare sunt in numar limitat. Daca nu reusesti sa prinzi unul, vei putea sa cumperi si direct de la intrare. \n\n+ Biletele cumparate in avans iti asigura accesul la toate evenimentele din timpul noptii. \n\n+ Biletele sunt in format electronic si vor fi livrate pe mail  imediat dupa achizitionarea lor. Nu este necesar sa le printezi si iti recomandam sa le prezinti direct de pe telefon.\n\nCAPITOLUL V: UR.CITY\n\nEvenimentele din timpul noptii vor avea loc la: \n\n- ROMEXPO (halele C5 si C6) va fi locatia principala a festivalului.\n- KRISTAL CLUB  ( Kristal Club )\n- GUESTHOUSE (Club Guesthouse)\n- KRAN (Kran)\n\nEvenimentele din timpul zilei vor avea loc la:\n\n- Centrul Cinetic din cadrul UNATC (CINETic )\n- FORM\n- DESCHIS Gastrobar (fostul Atelier de Productie)\n- DjSuperStore\n- Atelier Pinion\n- Corner Shop\n- CZVL 12 ( Open Minds )\n\n\n______________________________________________________\n______________________________________________________\n\nCHAPTER  I: UR.BASM\n\nLadies and gentlemen,\nDistinguished guests from all over the world,\nAnd artists from all the urban areas of the country,\n\nUR.BASM is a new music and urban happenings festival at which  we are inviting you to take part between the 29th of November and 4th of December.\n\nThe first story is made of a series of musical events beaded along 5 nights, events that will unwind in different locations from Bucharest, and during day time you will find yourself in the middle of some surprises. \n\nCHAPTER II: UR.ACTIVITIES\n\nUR.BASM launches a platform of cultural-artistic activities which are held along the 6 days and nights in different locations. The activities are:\n - Graffiti and street art\n - Mural art\n - Architecture and design workshops\n - Fashion workshops\n - Video-mapping\n - Sculpture\n - Digital art workshop\n - Production and music management workshop\n - Urban installation\n - Photography exposition\n - Conferences \n - Contemporary dance\n - Break-dance contest \n - Electronic music and live music events\n\nCHAPTER III: UR.MUSIC\n\nWe got together a cool gang of artists for this edition: \n\n\nAbelle / Acronym / Alex Danilov / Alienata / Andrei/ Andrey Zots\nAquarius Heaven / Barac / Ben Klock / Borusiade / Cap / Cassy\nChlorys / Cobblestone Jazz (live) / Daniel Maher / Dasha Redkina\nDetroit Swindle / D. Rusu / Dub Pistols (live band)\nDutu / Floog (live) / Francesca Lombardo / Francesco Del Garda\nFrancesco Tristano (live) / Fred P aka Black Jazz Consortium/ Fumiya Tanaka / Gaiser (live) Gemini Brothers / Guti (live) / Heartthorb (live) / Herodot / Ion Ludwig  / John Digweed / Julian Perez / K!d Chriss /  Kidnap Kid / Kosta / Lena Willikens / \nLivio & Roby /Loco Dice / Luger / Mahony / Mark Broom / \nMathew Jonson (live) / Mihigh / Mirror States / Moodymann / Moonlight Breakfast / Negru / Nick Hoppner / Nusha / October / Orgue Electronique (live) Oscar and The Wolf / Paul Popa / \nPetre Inspirescu / Phoung Dan / Piticu / Premiesku (live) / Priku / Profet / Ranishe Niyaak / Raresh / Rayo / Romansoff / Sasha / Seuil / SNTS (live) / Sonodab / TC80 / Todd Terry / ToFu Productions (Thomas Melchior + Fumiya Tanaka) / Vlada / Waldeck / Wareika (live) / Xandru / Zendid / \u041fE\u0413E\n\nCHAPTER IV: UR.TICKETS\n\n- The Early Bird tickets are sold out. You can still buy tickets for each individual event. \n\n- You can buy the tickets from http://tickets.urbasm.ro\n\n\nINFO TIP:\n\n+ Tickets sold in advance are in a limited number. If you don't manage to get one, you will be able to get one at the door. \n\n+ The early bird tickets will allow you to enter ALL the events that are taking place during night time.\n\n+ The tickets come in electronic format and they will be delivered via e-mail right after their purchase. Please bring your ticket printed/downloaded on your phone.\n\nCHAPTER V: UR.CITY\n\nThe night time events will take place:\n\n- ROMEXPO (the main location of the festival) \n- KRISTAL CLUB \n- GUESTHOUSE \n- KRAN \n\nEvenimentele din timpul zilei vor avea loc la:\n\n- Cinetic Center \n- FORM\n- DESCHIS Gastrobar (former Atelier de Productie)\n- DjSuperStore\n- Atelier Pinion\n- Corner Shop\n- CZVL 12 ( Open Minds )\n\n______________________________________________________\n______________________________________________________\n\nInfo: www.urbasm.ro\nTickets: http://tickets.urbasm.ro\nPress: press@urbasm.ro\nContact: contact@urbasm.ro\n\n:: A fun venture by SUNRISE & Kristal Club ::", 
+                "start_time": "2016-11-29T21:00:00+0200", 
+                "place": {
+                    "id": "114304211920174", 
+                    "name": "Bucarest, Rumania", 
+                    "location": {
+                        "latitude": 44.4333, 
+                        "city": "Bucharest", 
+                        "longitude": 26.1, 
+                        "country": "Romania"
+                    }
+                }, 
+                "end_time": "2016-12-04T21:00:00+0200", 
+                "id": "589454417904677", 
+                "name": "UR.BASM Festival"
+            }, 
+            {
+                "description": "Cassy [perlon]\nPOPOF [hot creations, cocoon recordings]\nRex The Dog live - Mod Synth Show [kompakt]\nPauli Pocket [quality time]\nChris Wood & MEAT [freebase]\nPeter Schumann [platte international, katermukke]\nBo Irion [dora brilliant]\nSutsche [hamburg]\nDJ Slowhand [dora brilliant]\nStefan X [blackfish rec.]\nMaya [radio x]\nGrille & Steve Simon [toxic family]\nJermaine Dotson [electric grooves]\nChris Hartwig [formatik]\nDominic Banone [move]\nBen Brown [hotel digital]\nDj TNA [we are together]\n\nIn der schnelllebigen Welt der Beats, in der Trends und Hypes sich w\u00f6chentlich abwechseln, sind 13 Jahre eine kleine Ewigkeit. Aber um Trends und Hypes haben wir uns ohnehin nie gek\u00fcmmert. Unsere Hingabe galt immer schon dem Wahren, Sch\u00f6nen und Lauten, der Seele innerhalb der Maschine, dem unvergleichlichen Groove, der niemals aus der Mode kommt. So mancher Nachwuchs-DJ, der in den Anfangsjahren des Clubs bei uns hinter den Decks stand, hat inzwischen selbst Nachwuchs bekommen. Viele Mitstreiter*innen der ersten Stunde sind heute noch am Start und geben den Takt vor. Vor allem hat jedoch auch eine neue, junge, hungrige Generation die Floors des Tanzhaus West erobert. Eine Generation, f\u00fcr die es das Tanzhaus zwar \u201eimmer schon\u201c gab, die aber gleichzeitig den Spirit, den Freiheitsdrang und den Durst nach frischem Sound mit all jenen teilt, die in den Jahren zuvor auf dem Milchsackgel\u00e4nde N\u00e4chte zu Tagen gemacht haben. Eine Generation, der bewusst ist, dass der Maschinensound eben wie selbstverst\u00e4ndlich in eine alte Fabrikanlage passt. Mit all der Patina und allen rauen Ecken und Kanten, die dazu geh\u00f6rt. Die gute, alte Farbenfabrik d\u00fcrfte inzwischen ein vielfaches an schr\u00e4gen Sounds und T\u00f6nen produziert haben, als seinerzeit Farben. Auch nach 13 Jahren ist der Club nicht fertig. Soll er auch niemals sein. Es geht um ein permanentes Work-In-Progress und darum immer in Bewegung zu bleiben. Dabei stets authentisch, DIY und alternativ. Schaffe, schaffe Tanzh\u00e4usle baue! Gerade im neuen Jahr haben wir wieder Gr\u00f6\u00dferes vor. Wir schlagen N\u00e4gel ins Holz, bohren Schrauben in die Wand und h\u00e4ngen Beats in die Luft! Die Zahl 13 wird zwar im Aberglauben mit Ungl\u00fcck in Verbindung gebracht, in der Zahlenmystik steht sie allerdings neben dem Geheimisvollen auch f\u00fcr Transformation, Wachstum und Weiterentwicklung. \n\nForward ever, Reue never. 13 Jahre Tanz. 13 Jahre Tollhaus, 13 Jahre Tanzhaus! #THW13Y #WirSindTanzhaus\n\n\n#THW13Y // TICKETS\nSchnell sein lohnt sich ;)\n\n\u25ba SUPER EARLY BIRD TICKETS // 10 EUR zzgl. Geb\u00fchren\nnicht mehr verf\u00fcgbar.\n\u25ba EARLY BIRD TICKETS // 12 EUR zzgl. Geb\u00fchren\nnicht mehr verf\u00fcgbar.\n\u25baREGUL\u00c4RE TICKETS // 15 EUR zzgl. Geb\u00fchren\nSind bis zum 25.11. erh\u00e4ltlich. Es sei denn, das Koningent ist bereits fr\u00fcher ersch\u00f6pft.\n\u25baDanach sind Karten nur noch an der Abendkasse f\u00fcr 20 EUR erh\u00e4ltlich.\n\nhttps://tanzhauswest.ticket.io/84kwd6dn/h2rgk4/", 
+                "start_time": "2016-11-26T23:00:00+0100", 
+                "place": {
+                    "id": "55790193696", 
+                    "name": "Tanzhaus West", 
+                    "location": {
+                        "city": "Frankfurt", 
+                        "zip": "60327", 
+                        "country": "Germany", 
+                        "longitude": 8.6465674265487, 
+                        "street": "Gutleutstra\u00dfe 294", 
+                        "latitude": 50.098033321356
+                    }
+                }, 
+                "end_time": "2016-11-27T14:00:00+0100", 
+                "id": "798011040339067", 
+                "name": "13 Jahre Tanzhaus West X Cassy, Popof, Rex the Dog, Pauli Pocket"
+            }, 
+            {
+                "description": "// RARA //\n// 7th edition //\n// 19th November // 20hs-05hs //\n// Cassy / Gerd Janson_Special Guests //\n// Dimitri Nakov + RARA Djs //\n\n//////////////////////////////////////////////////////////////////////////////////////////////////////////////\n\n// INGRESSOS // TICKETS //\n\nwww.rararara.com.br\nSenha/password: inbox us ;)\n\nEarly Bird = R$70 (finished)\n2o lote = R$80 \n\n\n//////////////////////////////////////////////////////////////////////////////////////////////////////////////\n(English towards the end)\n\nDepois da ponte-a\u00e9rea-ol\u00edmpica-da-alegria-infinita, a RARA resolve voltar \u00e0s ra\u00edzes. Foi muito bom ver gente do mundo todo curtindo uma vers\u00e3o RARA mini-festival. Mas somos uma festa feita por quem mora no Rio, pra quem mora no Rio. Quem lembra da primeira edi\u00e7\u00e3o com Derrick Carter, ou da fotog\u00eanica edi\u00e7\u00e3o com Phil Weeks em Santa Tereza, pode esperar algo semelhante.\n\nS\u00f3 que dessa vez resolvemos nos voltar pro que h\u00e1 de mais atual no House e no Techno mundial. E pra isso, temos dois headliners \\o/\n\nPrimeiro as damas: Cassy acabou de lan\u00e7ar seu primeiro \u00e1lbum autoral Donna, que virou hit instat\u00e2neo de Ibiza a Berlin. A austr\u00edaca tem mais de 15 anos de carreira e tem no curr\u00edculo como dj resid\u00eancia em 3 das festas/clubs que n\u00f3s mais respeitamos: Panorama Bar, Berlin; Circoloco, Ibiza; e bons anos naquela festa que \u00e9 a m\u00e3e de muitos dos grandes de techno na ativa, a Cocoon Ibiza. Techno com alma, ou soulful Techno como ela e seus amigos costumam chamar. Vai ser uma honra receber nossa primeira djane na RARA, ainda mais se tratando da Cassy!\n\nAl\u00e9m dela, o prod\u00edgio de Frankfurt Gerd Janson tamb\u00e9m vem pra mostrar a quantas anda a dance-music de vanguarda na Europa em 2016. Autor do \u00faltimo \u00e1lbum da hist\u00f3rica compila\u00e7\u00e3o da Fabric (que os deuses do Techno a fa\u00e7am reviver), Gerd \u00e9 conhecido por misturar Disco, House e Techno num mesmo set, sem perder o foco em fazer a pista dan\u00e7ar. Curiosamente, \u00e9 residente exatamente dos mesmos clubs que Cassy: Panorama Bar e Circoloco.\n\nDois amigos acostumados a dividir o mesmo line up. Normalmente vc precisa ir pra Berlin ou Ibiza pra ouvir isso. Dessa vez, eles desembarcam com suas cases de vinil na cidade maravilhosa ;)\n\n\nCompletando o line-up, como n\u00e3o poderia deixar de ser, os RARA Djs Filipe Raposo e Bernardo Campos. Al\u00e9m de um velho conhecido do Rio de Janeiro, mas que dessa vez vem apresentar suas ra\u00edzes do House que datam de 1993 em parcerias h\u00e1 muito esquecidas com lendas como DJ Harvey e Sasha. Dimitri Nakov ter\u00e1 a honra e a resposabilidade de fechar essa noite, mas com seus 20 anos de carreira n\u00e3o h\u00e1 d\u00favidas de que vai manter a pista chacoalhando at\u00e9 o fim da festa!\n\n//////////////////////////////////////////////////////////////////////////////////////////////////////////////\n\n// LOCA\u00c7\u00c3O SECRETA //\nMantendo a tradi\u00e7\u00e3o, anunciaremos na v\u00e9spera. Para quem ainda n\u00e3o conhece a RARA, d\u00ea um check nos \u00e1lbuns e v\u00eddeos de edi\u00e7\u00f5es anteriores.\n\n// HOR\u00c1RIO //\n20hs \u00e0s 05hs\n\n//////////////////////////////////////////////////////////////////////////////////////////////////////////////\nCassy + Gerd Janson + Dimitri Nakov. Straight from Berlin and Ibiza to Rio de Janeiro. Check out our videos and photos to make sure you don't miss the next RARA.\n\n//////////////////////////////////////////////////////////////////////////////////////////////////////////////\n\n// LOCATION // SECRET AS USUAL //\n\nKeeping up with the tradition, location will only be announced 24hs prior to the event. Follow us on Facebook or Instagram to know it. \n\n//////////////////////////////////////////////////////////////////////////////////////////////////////////////\n\n// TICKETS //\n\nwww.rararara.com.br\npassword: inbox us ;)\n\nEarly Bird = R$70 (finished)", 
+                "start_time": "2016-11-19T20:00:00+0000", 
+                "place": {
+                    "name": "H\u00edpica - Avenida Lineu de Paula Machado, 2448, Rio de Janeiro - RJ, 22470-040, Brasil"
+                }, 
+                "end_time": "2016-11-20T05:00:00+0000", 
+                "id": "1124369430988032", 
+                "name": "RARA : 7th edition : Special Guests: Cassy & Gerd Janson"
+            }, 
+            {
+                "description": "- Budweiser & La Feria presentan: Sound Creative Night #8 -\n\nCassy\n\nViernes 18 de Noviembre\n\nCon una extensa carrera profesional editando en sellos como Perlon y Ostgut Ton, nos visita la talentosa y carism\u00e1tica Cassy para la 8va version de SC NIGHT. \n\nPara recibirlos, un emergente talento nacional, ex alumno de asc, Alejandro Caro; dando paso a la dupla entre el fundador de ASC, Francisco Gonz\u00e1lez y Andr\u00e9s Scarella. \n\nLos invitamos a ser parte de esta linda celebraci\u00f3n en torno a la cultura.\n\nTickets disponibles ya en el siguiente link: http://bit.ly/TicketsCassy - Valor $12.000\n\nMesas y reservas: mesas@clublaferia.cl\n\nVen y haz la previa con nosotros en la exclusiva Sala Mistral. Alta cocteler\u00eda y finos tragos para comenzar tu noche.\n\nM+18 | H+21\n\n*NOS RESERVAMOS EL DERECHO DE ADMISI\u00d3N \n\nwww.laferia.club\n\nTwitter & Instagram: @LaFeriaClub \n\nConstituci\u00f3n #275, Providencia", 
+                "start_time": "2016-11-18T23:00:00-0300", 
+                "place": {
+                    "id": "163796497017113", 
+                    "name": "La Feria", 
+                    "location": {
+                        "latitude": -33.4308272, 
+                        "city": "Santiago", 
+                        "longitude": -70.6352247, 
+                        "country": "Chile"
+                    }
+                }, 
+                "end_time": "2016-11-19T05:00:00-0300", 
+                "id": "321907651504456", 
+                "name": "La Feria presenta: Sound Creative Night #8 - Cassy - 18.11"
+            }, 
+            {
+                "description": "Sinestesi [ OPENING PARTY ]\n\nProgrammation \u00e9litiste et \u00e9clectique, lieu \u00e0 couper le souffle et sc\u00e9nographie vid\u00e9o immersive monumentale.\n\nPh\u00e9nom\u00e8ne neurologique conduisant \u00e0 une confusion des sens, la synesth\u00e9sie a \u00e9t\u00e9 le don d'un grand nombre de musiciens, artistes, scientifiques . Parmi les 152 synesth\u00e9sies recens\u00e9s,  certains synesth\u00e8tes ont , par exempte, la facult\u00e9 d\u2019avoir un go\u00fbt de chocolat dans la bouche quand elles entendent \u00ab Bonjour\" ou de voir des couleurs en mouvements en \u00e9coutant de la musique ...\n\n Une exp\u00e9rience sans pareille !\n\nFace au dj vous serez au c\u0153ur d'une immersion son et image jamais r\u00e9alis\u00e9e sur Paris.\n\nEn collaboration avec Fonktion, les 3 VJ du collectifs The SHADERS seront aux commandes d\u2019un materiel de pointe pour vous raconter en images le set des artistes pr\u00e9sents sur le Dock Eiffel.\n\nEntr\u00e9e prioritaire sur pr\u00e9vente :\nSmart Ticket    - SOLD OUT\nRegular Ticket - 20\u20ac  -> http://bit.ly/2dc0xdJ\n\nEntr\u00e9e sur place : 25\u20ac\n\nAnja Schneider [ mobilee records| DE ]\nCassy [ Aus Music / Perlon | UK ]\nHollS\u00f6n [ H A \u00ef K U / Rituel Recordings | FR ]\nLos Paranos [ Suara | FR ]\n\nPartenaires : \nDigitick\nResident Advisor\nARTS in Paris\nElectro News", 
+                "start_time": "2016-11-10T23:30:00+0100", 
+                "place": {
+                    "id": "147006102018486", 
+                    "name": "Dock Eiffel", 
+                    "location": {
+                        "city": "La Plaine-Saint-Denis", 
+                        "zip": "93210", 
+                        "country": "France", 
+                        "longitude": 2.3665877864174, 
+                        "street": "avenue des magasins g\u00e9n\u00e9raux", 
+                        "latitude": 48.902932458729
+                    }
+                }, 
+                "end_time": "2016-11-11T07:00:00+0100", 
+                "id": "598081390361896", 
+                "name": "Sinestesi | Anja Schneider ~ Cassy ~ HollS\u00f6n ~ Los Paranos"
+            }, 
+            {
+                "description": "10/29/16\n\nTeksupport:\nCircoloco Halloween \n\nSecret Location:\nTBA\n\nLineup:\nThe Martinez Brothers\nBlack Coffee\nDavide Squillace\nTania Vulcano\nCassy\nDeWalta\nKonstantin\n\n21+\nFacebook | Instagram | Twitter: @tcepresents\nInformation: info@tcepresents.com", 
+                "start_time": "2016-10-29T22:00:00-0400", 
+                "place": {
+                    "id": "1156646061039734", 
+                    "name": "Depot 52", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11232", 
+                        "country": "United States", 
+                        "longitude": -74.022906851092, 
+                        "state": "NY", 
+                        "street": "7 52nd St, Brooklyn, NY", 
+                        "latitude": 40.650840830096
+                    }
+                }, 
+                "end_time": "2016-10-30T08:00:00-0400", 
+                "id": "210062269356306", 
+                "name": "Circoloco Halloween at TBA, Brooklyn, New York - Oct 29th"
+            }, 
+            {
+                "description": "Audiofly presents FLYING CIRCUS (official) Barcelona first ever residency in Town to introduce their brand new #FLYINGCIRCUSRECORDINGS\n\n\u265b Audiofly - https://www.residentadvisor.net/dj/audiofly\n\u265b Cassy - https://www.residentadvisor.net/dj/cassy\n\nLocated right in the city center of Barcelona , R33 offers a full night experience for electronic music lovers with an unmatchable sound system that will make you dance all night all night long in a very intimate underground environment.\n\nUbicado en el pleno centro de Barcelona , R33 ofrece una experiencia nocturna completa para los amantes de la m\u00fasica electr\u00f3nica con un sistema de sonido inigualable con el que bailar\u00e1s toda la noche, en un ambiente muy \u00edntimo y underground.\n\nTable reservations :\n\u2605 vipr33club@gmail.com\n\u2605 +34 647515064\n\nDiscount Glist Prices : \n\n\n\u25a0 Girls\n00:00 - 01.30 :  \u20ac10 con Copa\n01:30 - 02:30 :  \u20ac12 con Copa\n02:30 - 04.00 :  \u20ac15 con Copa\n\n\u25a0 Boys\n00:00 - 01.30 :  \u20ac12 con Copa\n01:30 - 02:30 :  \u20ac15 con Copa\n02:30 - 04.00 :  \u20ac18 con Copa\n\n#EverySaturdayNight", 
+                "start_time": "2016-10-22T23:55:00+0200", 
+                "place": {
+                    "id": "1529443727384786", 
+                    "name": "R33", 
+                    "location": {
+                        "city": "Barcelona", 
+                        "zip": "08002", 
+                        "country": "Spain", 
+                        "longitude": 2.17489, 
+                        "street": "Las Ramblas 33", 
+                        "latitude": 41.37902
+                    }
+                }, 
+                "end_time": "2016-10-23T06:00:00+0200", 
+                "id": "1835592116673795", 
+                "name": "Flying Circus Bcn Residency #1 feat Audiofly & Cassy"
+            }, 
+            {
+                "description": "NL (ENGLISH BELOW)\n\nCLICK & Labyrinth presenteren met terechte trots en uitbundige fanfare hun meesterlijke ADE 2016 festival met voor de inwendige mens Str-eat van The Jane in Antwerpen en op het dansmenu \u2018s werelds grootste headliners en ongerepte fine fleur door 4 wereldvermaarde organisaties. Een line-up voor en door winnaars, 3 dagen lang bij Dok in grote verwarmde circustenten.\n\nGroot, groter, grootst en tegelijk intiem tot in detail. Het jaarlijkse CLICK ADE spektakel verplaatst zich voor deze editie naar de meest vrijgevochten locatie op de ADE kalender. Geen feest, maar 3 festivals op rij bij Dok in hele bijzondere grote verwarmde circustenten. Op deze baanbrekende binnen-buiten locatie direct aan het IJ slaan CLICK & Labyrinth de handen ineen met internationale vrienden van Flying Circus x This and. Vrijdag 21 oktober van 12 tot 11 tijdens ADE 2016.\n\nDe grootste headliners uit de genadeloze (en eindeloze..) line-up verzorgen geen dikke beats, maar masseren de inwendige mens. Culinaire grootmeesters Sergio Herman en Nick Bril van wereldwijd geprezen en steevast volgeboekt restaurant The Jane in Antwerpen zetten alle 3 dagen hun handtekening onder Str-eat food, een one of a kind pop-up diner-stand. Voor Str-eat worden iedere dag de favoriete gerechten van 3 headliners omgetoverd naar een menu voor het publiek. Uniek en exclusief in Nederland.\n\nUniek en exclusief CLICK & Labyrinth ook het feest voor de uitwendige mens. Het gaat van 12 uur \u2018s middags tot elf \u2018s avonds ongegeneerd los bij Dok. Aan het toch al uitgebreide terrein worden 2 grote tenten toegevoegd met ieder een dik licht- en geluidplan. Wereldbestormers Flying Circus en This and that  en SNOE op vrijdag overdag! \n\nGrandioos in opzet, invulling en locatie. Dok is inmiddels een befaamde setting voor series beruchte feesten. Direct aan het IJ, binnen de ring is het in alle vrijheid de beste speeltuin voor deze CLICK & Labyrinth ADE Special 2016 met louter klinkende namen. Van een foodtruck verzorgd door The Jane, tot wereldberoemde bevriende organisaties en headliners die het terrein op alle mogelijke manieren gaan vullen. Een nu al geschiedenis schrijvende ADE editie met vuurwerk voor alle zintuigen.\n\n21.10.16\nFlying Circus X This and That X SNOE\n\nLine up:\nDavide Squillace\nMANLFY (M.A.N.D.Y. & Audiofly)\nCassy\nMartin Buttrich presents Collaborator\nRe.You\nAzimute\nHaiku 575\n+ Very Special Guest\nVictor Ruiz\nPirupa\nD-Nox & Beckers\nAndreas Henneberg\nPELE & SHAWNECY\nAdrian Hour\nRoy Rosenfeld\nBeth Lydi\nThe Deepshakerz\nNot Usual\n\nDok Amsterdam\nMoermanskkade 71 Amsterdam\n12:00 \u2013 23:00\n\nTicketlink\nwww.iloveclick.nl/tickets\n\nENG\n\nCLICK & Labyrinth proudly and with bombastic fanfare present their unparalelled 2016 ADE edition. A winning line-up filling 3 daytime festivals with 4 internationally acclaimed befriended organisations, showcasing the world\u2019s biggest headliners and a unique and highly exclusive pop-up collaboration with The Jane from Antwerp at Dok Amsterdam.\n\nGrand, grander, grandest and simultaneously intimate in the details. For this year\u2019s ADE the annual CLICK ADE circus moves to Amsterdam\u2019s most free spirited location. A party? A daytime festival from noon till eleven in 2 hot party tents promising to be the highlight of this year\u2019s ADE calendar.\n\nTalking headliners. The most dashing names from this edition\u2019s merciless line-up do not provide the maddening crowd with fat beats. Culinary kings Sergio Herman and Nick Bril from the award winning and almost impossible to book a table Antwerp restaurant The Jane are behind the Str-eat concept. A one of a kind pop-up food stand where their twist on the day\u2019s 3 biggest headliners will be served. A unique opportunity to experience The Jane cuisine on Dutch soil with fat beats on the background.\n\nUnique and exclusive without doubt also CLICK & Labyrinth\u2019s 2016 ADE Special aside from the culinary delights. The roofs of the 2 hot party tents and the rest of Dok\u2019s premises will shake uncontrollably from noon till eleven. Expect the best sound and lighting plans in the tents that will host on Friday the stormtroopers from Flying Circus and This and that and SNOE.\n\n21.10.16\nFlying Circus X This and That X SNOE\n\nLine up:\nDavide Squillace\nMANLFY (M.A.N.D.Y. & Audiofly)\nCassy\nMartin Buttrich presents Collaborator\nRe.You\nAzimute\nHaiku 575\n+ Very Special Guest\nVictor Ruiz\nPirupa\nD-Nox & Beckers\nAndreas Henneberg\nPELE & SHAWNECY\nAdrian Hour\nRoy Rosenfeld\nBeth Lydi\nThe Deepshakerz\nNot Usual\n\nDok Amsterdam\nMoermanskkade 71 Amsterdam\n12:00 \u2013 23:00\n\nTicketlink\nwww.iloveclick.nl/tickets\n\nWe're happy to be back at world's biggest music gathering Amsterdam Dance Event. Beside the great line up with the FLYING CIRCUS (official) and This And That Lab family members we have some special treats for you.\n\nOur friends from OWOW will showcase their latest musical instruments as well, together with some great mystery guests and friends. Like last year, the rumors go they will again have some amazing artists coming over to get you all start dancing.\nCheck out last years OWOW ADE showcase. http://bit.ly/2dtyo5E\n\nWorld famous Michelin starred restaurant The Jane Antwerp will be there for the special taste!", 
+                "start_time": "2016-10-21T12:00:00+0200", 
+                "place": {
+                    "id": "880507065306354", 
+                    "name": "Dok Amsterdam", 
+                    "location": {
+                        "city": "Amsterdam", 
+                        "zip": "1013 BC", 
+                        "country": "Netherlands", 
+                        "longitude": 4.8721299, 
+                        "street": "Moermanskkade 71", 
+                        "latitude": 52.3985596
+                    }
+                }, 
+                "end_time": "2016-10-21T23:00:00+0200", 
+                "id": "312904005713940", 
+                "name": "Flying Circus X This and that X Click X Labyrinth X SNOE"
+            }, 
+            {
+                "description": "Ellen Allien, Project Sugar & GROOVE-Magazin, Germany's leading music magazine on electronic music since 1989, proudly present an ADE special of Allien's \u201cWe Are Not Alone\u201d series. For this event, the acclaimed DJ, producer and BPitch Control Records Berlin label founder has invited Cassy, Johanna Schneider and Magda to share the decks with her at Amsterdam's Sugarfactory. Additionally, a panel discussion on the changes within Berlin's vibrant club scene is currently being planned with more information to be announced soon. \n\nThe second room will hosted by Project Sugar, with residents, Cesan Bucek, Thara Bergen and Stefan Kuipers. Known for their infamous Thursday night\u2019s and afterparties at Sugarfactory, these young but fast rising stars are well on their way. With some outstanding bookings in a unique setting, Project Sugar has grown into one of the most avant garde Thursday nights in town.\n\nLine-up:\n00:00 - 01:30 Johanna Schneider\n01:30 - 03:00 Cassy\n03:00 - 04:30 Ellen Allien\n04:30 - 06:00 Magda\n\nUpstairs:\nStefan Kuipers\nCesan Bu\u010dek\nThara Bergen\n\nEarly birds: \u20ac 12,50 - Sold out!\nPre-sale: \u20ac 15,00\nDoor: \u20ac 17,50\t\n\nRA link: https://www.residentadvisor.net/event.aspx?866294", 
+                "start_time": "2016-10-20T11:55:00+0200", 
+                "place": {
+                    "id": "130350927079784", 
+                    "name": "Sugarfactory", 
+                    "location": {
+                        "city": "Amsterdam", 
+                        "zip": "1017PH", 
+                        "country": "Netherlands", 
+                        "longitude": 4.88183, 
+                        "street": "Lijnbaansgracht 238", 
+                        "latitude": 52.36481
+                    }
+                }, 
+                "end_time": "2016-10-21T06:00:00+0200", 
+                "id": "299434917078177", 
+                "name": "Groove & Project Sugar present: We Are Not Alone"
+            }, 
+            {
+                "description": "DiVision presents Cassy [Circoloco]\nDate: Saturday October 15th\n\nSupport: Will Kinsella, Lauren Kenny, Jessica Eve\n\nOver the years, Cassy has worked with the likes of Mathew Jonson, Steve Bug, Zip and Ricardo Villalobos and held residencies at some of the worlds finest clubs including Panorama Bar, Rex Club, Trouw, Amnesia with Cocoon and more recently DC10 with Circo Loco.\n\nCassy has released music on key labels including Perlon, Ostgut Ton and her own Cassy imprint. Cassy mixed the first Panorama Bar CD compilation as well as mixing the heralded fabric 71.\n\nIn 2016 Cassy will release her debut artist album, her emotive, soulful voice features on almost every track of the album, which draws you in, telling a story of her journey in human relationships.\n\nCassy is an artist who knows and speaks her mind and stands strong as a unique inspiration in dance music.", 
+                "start_time": "2016-10-15T22:00:00+0100", 
+                "place": {
+                    "id": "128857047157655", 
+                    "name": "Pygmalion", 
+                    "location": {
+                        "city": "Dublin", 
+                        "zip": "D2", 
+                        "country": "Ireland", 
+                        "longitude": -6.2619959567022, 
+                        "street": "Powerscourt Townhouse, South William Street", 
+                        "latitude": 53.342161280828
+                    }
+                }, 
+                "end_time": "2016-10-16T04:00:00+0100", 
+                "id": "1791536054397095", 
+                "name": "DiVISION presents Cassy (Perlon), Will Kinsella, Lauren Kenny"
+            }, 
+            {
+                "description": "Cassy \u00e9 o stage name de Catherine Britton. Natural do Reino Unido, cresceu em Viena e cedo come\u00e7ou a estudar m\u00fasica. Passou pela representa\u00e7\u00e3o dram\u00e1tica, mas seria a Electr\u00f3nica de Dan\u00e7a a cativ\u00e1-la para a vida. Deu os primeiros passos como DJ na capital austr\u00edaca, mas em 2003 muda-se para Berlim e as coisas ficam s\u00e9rias. \u00c0 resid\u00eancia no rec\u00e9m-aberto Berghain/Panorama seguiram-se uma m\u00e3o cheia de releases em editoras fetish como a Perlon, a Ostgut Ton ou a Cocoon, e atr\u00e1s delas viriam outras resid\u00eancias. Rex Club Official Fan Page em Paris, TrouwAmsterdam, e Amnesia Ibiza e Circo Loco @ DC10, em Ibiza. Cassy continua impar\u00e1vel e este ano lan\u00e7ou o seu primeiro LP, na Aus Music, com direito a remisturas de gigantes da cena como MARCEL DETTMANN, King Britt, Radio Slave (Official) e D'julz.\n\nCassy volta ao Ind\u00fastria Club a 14 de Outubro, e com ela na cabine estar\u00e1 a Amanda Chang e o Miguel Nery.\n\nGuest list: 10\u20ac / 1 bebida < 03h", 
+                "start_time": "2016-10-14T23:00:00+0100", 
+                "place": {
+                    "id": "134772079872136", 
+                    "name": "Industria Club", 
+                    "location": {
+                        "city": "Porto", 
+                        "zip": "4150", 
+                        "country": "Portugal", 
+                        "longitude": -8.68342, 
+                        "street": "Av. Brasil, 843", 
+                        "latitude": 41.1592
+                    }
+                }, 
+                "end_time": "2016-10-15T06:00:00+0100", 
+                "id": "1110693572349210", 
+                "name": "Cassy at Ind\u00fastria Club"
+            }, 
+            {
+                "description": "Weekend Express //// vol.2 \nwith Cassy //// Gio Shengelia //// Tomma & friends\n\nTickets:\nwww.tkt.ge/cassy - 20 GEL\ndoor - 20 GEL", 
+                "start_time": "2016-10-13T20:00:00+0400", 
+                "place": {
+                    "id": "126790904405410", 
+                    "name": "Hippodrome Park", 
+                    "location": {
+                        "city": "Tbilisi", 
+                        "zip": "0179", 
+                        "country": "Georgia", 
+                        "longitude": 44.7472178936, 
+                        "street": "Tamarashvili Str.", 
+                        "latitude": 41.718118551423
+                    }
+                }, 
+                "end_time": "2016-10-14T22:00:00+0400", 
+                "id": "161176534335266", 
+                "name": "Weekend Express with Cassy"
+            }, 
+            {
+                "description": "The Circoloco closing party!\n\nThe Line-up:\nSeth Troxler\nJamie Jones\nThe Martinez Brothers\nTania Vulcano\nBlack Coffee\nKerri Chandler\nNina Kraviz\nDavide Squillace\nApollonia\nLuciano (Official Page)\nLOCO DICE\nJoseph Capriati\nEllen Allien\nMARCEL DETTMANN\nDamian Lazarus\nJackmaster\nART DEPARTMENT\nDubfire\nCassy\nSteve Rachmad\nClive Henry\nDavid August\nAdriatique\nD'julz\nCirillo (Official Fanpage)\nRichy Ahmed\nwAFF\nSOSSA\nSystem Of Survival\nLuca Cazal\nAcid Mondays\nMees Dierdorp", 
+                "start_time": "2016-10-10T16:00:00+0200", 
+                "place": {
+                    "id": "106009712764583", 
+                    "name": "DC10", 
+                    "location": {
+                        "city": "Ibiza", 
+                        "zip": "07817", 
+                        "country": "Spain", 
+                        "longitude": 1.39166667, 
+                        "street": "Carretera de las Salinas KM1", 
+                        "latitude": 38.88
+                    }
+                }, 
+                "end_time": "2016-10-11T05:00:00+0200", 
+                "id": "186263211800999", 
+                "name": "Circoloco - Closing Party - October 10th at DC10"
+            }, 
+            {
+                "description": "Cassy | G-HA & OLANSKII (SUNKISSED) | Celius | Oskar Pask | Ricky Late\n\nCassy joins the Fr\u00e6dag residents in our booth and since her last sojourn at J\u00e6ger, about a year ago, she\u2019s released her critically acclaimed debut album, Donna. The album, which was facilitated through AUS has been a highlight on dance floors and hi-fi systems the world over with Cassy\u2019s unmistakeable emphasis on the soulful aspects of House and Techno coming to the fore. The DJ and producer continues to be the ever-present force in dance music she is, playing esteemed venues around the world while cultivating her legacy with each new appearance in the booth and every new piece of wax. \n\nG-Ha & Olanskii are immensely honoured to invite Cassy back to their Fr\u00e6dag residency and with the likes of Leon Vynehall, Ben UFO and many of the Panorama Bar residents making regular appearances at J\u00e6ger, Cassy too forms part of this extended international family that today is Fr\u00e6dag, with G-Ha & Olanskii, Ricky Late, Oskar Pask and Celius playing hosts over two Funktion One Systems across two floors, including our late night courtyard, replete with Sauna booth.", 
+                "start_time": "2016-09-30T22:00:00+0200", 
+                "place": {
+                    "id": "112102485523431", 
+                    "name": "Jaeger Oslo", 
+                    "location": {
+                        "city": "Oslo", 
+                        "zip": "0159", 
+                        "country": "Norway", 
+                        "longitude": 10.74363905, 
+                        "street": "Grensen 9", 
+                        "latitude": 59.914005933604
+                    }
+                }, 
+                "end_time": "2016-10-01T03:00:00+0200", 
+                "id": "304985369874751", 
+                "name": "Fr\u00e6dag with Cassy"
+            }, 
+            {
+                "description": "Pour cette premi\u00e8re soir\u00e9e electro de la saison 2016/2017 de La Belle Electrique, rendez-vous avec celui qu'on surnomme le p\u00e8re fondateur de la techno (rien que \u00e7a !) et Cassy dj et productrice anglaise attach\u00e9e au vinyle comme valeur s\u00fbre, une force tranquille et un style entre house et techno terriblement groovy ! Une tr\u00e8s belle soir\u00e9e en perspective pour bien d\u00e9marrer l'ann\u00e9e scolaire !\n\n\u25a0 Derrick May (Transmat Records - US)\n\nIl est l\u2019un des p\u00e8res fondateurs de la Techno, rien que \u00e7a. Tout commence \u00e0 Detroit sa ville natale, o\u00f9 avec son ami Juan Atkins il d\u00e9couvre Funkadelic et Kraftwerk, et se met \u00e0 \u00e9cumer les clubs locaux. Aux c\u00f4t\u00e9s de Kevin Saunderson et de Carl Craig, ils font conna\u00eetre leur musique \u00e0 Detroit, Chicago, puis dans le monde entier. Auteur de classiques comme Freestyle ou Strings of Life en 1987-88, Derrick May est un DJ et un musicien reconnu mondialement, aussi \u00e0 l\u2019aise avec une TR-909 qu\u2019avec un orchestre symphonique. \n\n\u27a3 https://soundcloud.com/derrick-may\n\n\u25a0 Cassy (Ostgut Ton - UK)\n \nCes derni\u00e8res ann\u00e9es, Cassy Britton a m\u00e9ticuleusement sculpt\u00e9 son art, abordant ses productions et Dj sets avec une attention au d\u00e9tail difficile \u00e0 surpasser. Son d\u00e9vouement pour la musique doubl\u00e9 de son incroyable capacit\u00e9 \u00e0 comprendre une foule, lui a valu une reconnaissance mondiale tant chez les fans que dans l\u2019industrie musicale. Cassy fut d\u2019abord attir\u00e9e par les possibilit\u00e9s qu\u2019offre la musique \u00e0 Vienne, une ville connue pour sa sc\u00e8ne musicale et son histoire du classique. Ses \u00e9tudes musicales et performances au cours de son enfance et le fait d\u2019avoir grandit entour\u00e9e de compositeurs de l\u00e9gendes ont fortement marqu\u00e9 son univers musical. Cassy s\u2019est \u00e9galement int\u00e9ress\u00e9e \u00e0 d\u2019autres formes d\u2019arts comme le th\u00e9\u00e2tre mais fut tr\u00e8s vite ramen\u00e9e \u00e0 sa v\u00e9ritable passion. Lorsque la sc\u00e8ne viennoise \u00e9tait en \u00e9bullition, Cassy a tout de suite voulue en faire partie. Son premier pas dans la vie professionnelle \u00e9tait en tant que vocaliste pour Elin alias Autorepeat sur \u00ab Music Takes me Higher \u00bb sous Sabotage Records. A partir de l\u00e0, elle fut prise sous les ailes du DJ/Producteur Electric Indigo, afin de faire sa transition de vocaliste \u00e0 DJ. Apr\u00e8s quelques performances \u00e0 Vienne et \u00e0 Munich, elle rencontre Dave the Hustler et collabore avec lui pour Mental Groove. A la m\u00eame p\u00e9riode, elle rencontre aussi Luciano et co-produit \u00ab La Ondita \u00bb sur son album \u00ab Blind Behaviour \u00bb. Elle emm\u00e9nage \u00e0 Berlin en 2003 pour affiner sa technique et peu de temps apr\u00e8s trouve sa place au Panorama Bar du Berghain, entrant ainsi dans la cour des grands. Elle a r\u00e9alis\u00e9 de nombreuses collaborations avec des artistes comme Steve Bug, Ricardo Villalobos, Luciano, DJ Elin, Dave the Hustler, Mathew Jonson et Swayzak. Ses productions sont tr\u00e8s diverses et r\u00e9parties dans de grands labels comme Playhouse, Perlon, Ostgut ton et Cocoon. Elle dirige aussi son propre label, l\u2019utilisant pour diffuser son propre son. Cassy ne rentre dans aucun genre, elle se m\u00eale \u00e0 la techno et la house en incorporant un soup\u00e7on d\u2019influence musicale viennoise. Elle continue \u00e0 utiliser des vinyles tout en gardant un son contemporain et stylis\u00e9 en donnant une \u00e2me \u00e0 ses DJ sets. Elle sait ajuster sa performance pour le public, les entrainants dans une aventure, que ce soit lors des grands festivals ou dans les dates plus intimistes. Elle fait partie de la famille du Panorama Bar mais aussi du Rex \u00e0 Paris ainsi que du Trouw \u00e0 Amsterdam.\n\n\u27a3 https://soundcloud.com/cassy-official\n\n\n\u25a0 Gab McFly (Gab McFly (WHSNXT / Theatre Records / Yoruba Grooves - Grenoble - FR)\n \nRevenu du futur, Gab McFly s'exprime pleinement par ses sets techno m\u00eal\u00e9s de grooves organiques. Cet activiste de la sc\u00e8ne underground fran\u00e7aise et membre du collectif Who's Next?, s'est illustr\u00e9 nottament lors d'events et de festivals internationaux tel que les Nuits Sonores ou l' Amsterdam Dance Event. Support\u00e9 par plusieurs noms de la sc\u00e8ne mondiale, il signe \u00e9galement diff\u00e9rents titres et remixes sur des labels tels que Yoruba Grooves, Draft, Tip Tap, Theatre Records.\n \n\u27a3 https://soundcloud.com/whsnxt\n\n\u25ac\u25ac\u25ac\u25ac  INFOS PRATIQUES \u25ac\u25ac\u25ac\u25ac\nLe bar de la Belle \u00c9lectrique est ouvert du mercredi au vendredi de 15h \u00e0 01h.\nEnvie de se retrouver avant un concert ? Le bar de La Belle propose des encas et une s\u00e9lection de bi\u00e8res, jus et limonades  locales !\n\u25ac\u25ac\u25ac\u25ac\n- C'est combien ? : 18\u20ac \u00e0 20\u20ac (hors frais de loc), sur place 23\u20ac\n- O\u00f9 se garer ? : Parking relais Vallier Catane \u27a3 http://bit.ly/1xXBnT2\n- Comment venir ? : En v\u00e9lo, ou Tram A : arr\u00eat Berriat-Le Magasin (voir infos pratiques sur le site Internet de La Belle)\n\u27a3 http://bit.ly/1xXBnT2\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\nATTENTION ! Les soir\u00e9es tardives (23h/06h) sont strictement interdites aux mineurs (- de 18ans).  \n\nDes contr\u00f4les sur les billets seront syst\u00e9matiquement appliqu\u00e9s \u00e0 l'entr\u00e9e des concerts et soir\u00e9es.\n\nVeuillez penser \u00e0 pr\u00e9parer vos justificatifs (carte d'identit\u00e9 et justificatif de tarif r\u00e9duit) \u00e0 l'entr\u00e9e.\n\n \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\n\u00a9  Zoe Lower", 
+                "start_time": "2016-09-24T23:00:00+0200", 
+                "place": {
+                    "id": "271746593007979", 
+                    "name": "La Belle Electrique", 
+                    "location": {
+                        "city": "Grenoble", 
+                        "zip": "38000", 
+                        "country": "France", 
+                        "longitude": 5.7034567234039, 
+                        "street": "12 esplanade Andry Farcy", 
+                        "latitude": 45.187014044578
+                    }
+                }, 
+                "end_time": "2016-09-25T06:00:00+0200", 
+                "id": "821851691278852", 
+                "name": "Derrick May, Cassy, Gab McFly \u00e0 La Belle \u00c9lectrique"
+            }, 
+            {
+                "description": "Ladies and Gentlemen!\n\nWe are honoured to invite you to the opening ceremony of season 16/17 at AETHER. Expect nothing less but an epic journey through space and time to set the foundation for another beyond belief half year. Showing appreciation for your endless loyalty we invited someone who has the experience and power to leave your thoughts behind for this night. Let us proudly present the one and only vinyl wizard Cassy!\nBefore and after the two smoking barrels: Dj Sobek & Captain Knuckles\nEntry fee: \nBefore 24:00 - 2000 HUF\nAfter 24:00 - 2500 HUF", 
+                "start_time": "2016-09-23T23:00:00+0200", 
+                "place": {
+                    "id": "1499482573712952", 
+                    "name": "AETHER", 
+                    "location": {
+                        "city": "Budapest", 
+                        "zip": "1068", 
+                        "country": "Hungary", 
+                        "longitude": 19.058503640566, 
+                        "street": "Kir\u00e1ly13", 
+                        "latitude": 47.499002239057
+                    }
+                }, 
+                "end_time": "2016-09-24T06:00:00+0200", 
+                "id": "1082264271852336", 
+                "name": "Aether opening w/ Cassy"
+            }, 
+            {
+                "description": "R U M O R S\n----", 
+                "start_time": "2016-09-11T17:00:00+0200", 
+                "place": {
+                    "id": "274142849334913", 
+                    "name": "Destino Ibiza", 
+                    "location": {
+                        "city": "Ibiza", 
+                        "zip": "07819", 
+                        "country": "Spain", 
+                        "longitude": 1.4742712384033, 
+                        "street": "Avenida Cap Martinet", 
+                        "latitude": 38.915536985984
+                    }
+                }, 
+                "end_time": "2016-09-11T23:59:00+0200", 
+                "id": "231575730532684", 
+                "name": "Rumors IBIZA 2016 Week 17 w/Guy Gerber, Cassy, Lauren Lane"
+            }, 
+            {
+                "description": "PACHA FESTIVAL AMSTERDAM - Fifth year anniversary is here! \n\nTICKETUPDATE:\nTickets are still available at www.pachafestival.com. To avoid black market sale there will be a limited number of tickets available at the DOOR. We start at 12:00!\n\nOn Saturday september 3 2016, Pacha Festival will close the Amsterdam summer festival season in style.\n\nFULL LINE_UP\nWe are proud to announce the full line-up for the 5th year anniversary edition of Pacha Festival Amsterdam! This year there will be four different stages in total, three of which will be hosted by a Pacha Ibiza night: My House, Insane and Pure Pacha!\n\nMY HOUSE\nMartin Solveig\nArtists from A to Z:\nDanny Wade\nHannah Wants\nKlingande\nMichael Calfan\nPep & Rash\nSander Kleinenberg\nThe Magician\n\nInsane \nArtists from A to Z:\nANOTR\nCassy\nDarius Syrossian\nEli & Fur\nKarotte (Official Fanpage)\nNic Fanciulli\nUMEK\n\nPURE PACHA\nArtists from A to Z:\nBenny Rodrigues\nClaptone\nFranky Rizardo\nKenny Dope (Masters at Work)\nMark Knight\nPrunk\nTODD TERRY\nWouter S.\n\n\u263c SUNSET\nROOG b2b Erick E \nThe Happy Feelings\nMia More\nINVITE takeover:\nStefano Noferini\nApotheque\nBold Moves\nKevin Duane\nRamon Riv\u00e9\nRexon\n\n\u25cf TIMETABLE\nPlease check http://bit.ly/timetablepf2016 for the complete timetable\n\n\u25cf NEW LOCATION\nPacha Festival Amsterdam celebrates its 5 year anniversary on a brand new location. Due to the construction of a new hotel on its old Java Eiland location, the epic festival now takes place at the Arena Park in Amsterdam.\n\nTRANSPORT\nThe Arenapark borders on the Arena Boulevard, right across the Amsterdam Arena and between the Heineken Music Hall and the Villa ArenA. The location is very well accessible by car, bi-cycle and public transport (Bijlmer Arena station, includes train, metro and bus). For time schedules check www.9292ov.nl or www.ns.nl \n\nIf you do decide to come by car there are several parking garages around the Arena Park where you can park your car.\n\n\u25b2TICKETS\nSuper Early Bird \u20ac35.00 ex fee (SOLD OUT)\nRound 2 \u20ac39.50 ex fee (SOLD OUT)\nRound 3 \u20ac45.00 ex fee\nVIP \u20ac79.50 ex fee (no table service)(SOLD OUT)\n\nEnhance your Pacha Festival experience with a VIP ticket to the hottest dance music festival of the year, with access to our exclusive Vipdeck with a marvelous view over the MyHouse stage. Enjoy Pacha Festival in comfort and style. Remember, there are only a limited number of VIP tickets left so act fast so you don't miss out.\n\n\u2022\u2022\u2022 VIP BENEFITS \u2022\u2022\u2022\n- VIP entrance\n- Access to MY HOUSE VIP deck\n- Access to private luxury toilets\n\n\u25b2PACHA FESTIVAL OFFICIAL AFTER PARTY\nAIR Amsterdam will once again be the location for the official Pacha Festival after party. Keeping the Pacha Festival spirit alive in AIR 1 are: TODD TERRY, Franky Rizardo & Prunk\n\nAIR2 will be rocked by Apotheque b2b Lucas Wouters, Lot, Lukaz & Field of Dunes\nTickets are available for \u20ac15,00 excl. fee at pachafestival.com & air.nl. We strongly advise to get your tickets in presale. The after party will sell out just like previous years\n\nAIR offers table service to anyone interested in a private table. Check for more info: http://www.air.nl/info/table-service/\n\n\u262e HIPPIE MARKET AND FOOD VILLAGE\nDue to the upscaled festival terrain this year, the popular Ibiza hippie marketand food village (including a sushi pop up restaurant) will now be expanded. Good news then for the shopaholics and foodies among us. Another advantage is that the new location is more centrally located and therefor more easily accessible by both public transport and car.\n\n\u25ac\u25ac INFO \u25ac\u25ac\nKeep up to date and follow us on facebook.com/PachaFestival. For more info or other inquiries please visit our website at pachafestival.com.", 
+                "start_time": "2016-09-03T12:00:00+0200", 
+                "place": {
+                    "name": "amsterdam"
+                }, 
+                "end_time": "2016-09-03T23:00:00+0200", 
+                "id": "827785700681165", 
+                "name": "Pacha Festival 2016"
+            }, 
+            {
+                "description": "\u05d1\u05e8\u05d6\u05d9\u05dc\u05d9 \u05e7\u05e8\u05d5 \u05e0\u05e8\u05d2\u05e9\u05d9\u05dd \u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea \u05e9\u05d9\u05ea\u05d5\u05e3 \u05d4\u05e4\u05e2\u05d5\u05dc\u05d4 \u05e2\u05dd \u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05d1\u05d9\u05ea \u05de\u05e2\u05e8\u05d9\u05d1, \u05de\u05d4\u05de\u05d5\u05e2\u05d3\u05d5\u05e0\u05d9\u05dd \u05d4\u05e0\u05db\u05d5\u05e0\u05d9\u05dd \u05d5\u05d4\u05de\u05e8\u05d2\u05e9\u05d9\u05dd \u05e9\u05e0\u05e4\u05ea\u05d7\u05d5 \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05e2\u05dd \u05d9\u05d1\u05d5\u05d0 \u05e8\u05d5\u05ea\u05d7 \u05e9\u05dc \u05de\u05dc\u05db\u05ea \u05d4\u05e8\u05d7\u05d1\u05d5\u05ea \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9\u05ea, \u05e8\u05d6\u05d9\u05d3\u05e0\u05d8\u05d9\u05ea \u05d4\u05e4\u05e0\u05d5\u05e8\u05de\u05d4 \u05d1\u05e8 \u05de\u05e8\u05d2\u05e2 \u05e4\u05ea\u05d9\u05d7\u05ea\u05d5, \u05de\u05d0\u05d5\u05de\u05e0\u05d9 \u05d4\u05d4\u05d0\u05d5\u05e1 \u05d5\u05d4\u05d8\u05db\u05e0\u05d5 \u05d4\u05e2\u05e1\u05d5\u05e7\u05d9\u05dd \u05d5\u05d4\u05de\u05d1\u05d5\u05e7\u05e9\u05d9\u05dd \u05d1\u05d9\u05d5\u05ea\u05e8 \u05d1\u05e2\u05e9\u05d5\u05e8 \u05d5\u05d7\u05e6\u05d9 \u05d4\u05d0\u05d7\u05e8\u05d5\u05e0\u05d9\u05dd, \u05d5\u05de\u05d9 \u05e9\u05d4\u05e6\u05dc\u05d9\u05d7\u05d4 \u05d1\u05de\u05e1\u05e4\u05e8 \u05d2\u05d9\u05d2\u05d9\u05dd \u05d1\u05d5\u05d3\u05d3\u05d9\u05dd \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d5\u05d1\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05dc\u05e8\u05db\u05e9 \u05dc\u05d4 \u05db\u05ea \u05de\u05e2\u05e8\u05d9\u05e6\u05d9\u05dd \u05d0\u05d3\u05d5\u05e7\u05d4 : Cassy\n\n\u05e8\u05d2\u05e2 \u05d0\u05d7\u05e8\u05d9 \u05d4\u05d4\u05e9\u05e7\u05d4 \u05e9\u05dc \u05d0\u05dc\u05d1\u05d5\u05dd \u05d4\u05d0\u05de\u05df \u05d4\u05de\u05d3\u05d5\u05d1\u05e8 \u05e9\u05dc\u05d4 \u05e7\u05d0\u05e1\u05d9 \u05e0\u05d5\u05d7\u05ea\u05ea \u05d0\u05e6\u05dc\u05e0\u05d5 \u05dc\u05e1\u05d8 \u05d0\u05e8\u05d5\u05da \u05d1\u05de\u05d8\u05e8\u05d4 \u05dc\u05d4\u05d5\u05e8\u05d9\u05d3 \u05d0\u05ea \u05d4\u05e0\u05d9\u05d9\u05dc\u05d5\u05e0\u05d9\u05dd \u05de\u05d4\u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05d4\u05d7\u05d3\u05e9 \u05d5\u05dc\u05db\u05d5\u05d5\u05df \u05d0\u05ea \u05de\u05e2\u05e8\u05db\u05ea \u05d4\u05e1\u05d0\u05d5\u05e0\u05d3 \u05dc\u05d2\u05e8\u05d5\u05d1 \u05d4\u05e0\u05db\u05d5\u05df. \u05db\u05d9 \u05db\u05db\u05d4 \u05d6\u05d4 \u05e9\u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05e0\u05d5\u05dc\u05d3 \u05d9\u05e9 \u05e8\u05d2\u05e2\u05d9\u05dd \u05de\u05db\u05d5\u05e0\u05e0\u05d9\u05dd \u05e9\u05e4\u05e9\u05d5\u05d8 \u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05e8\u05d0\u05d5\u05ea \u05d5\u05dc\u05d4\u05e8\u05d2\u05d9\u05e9.\n\n\u05e2\u05dc \u05d4\u05d7\u05d9\u05de\u05d5\u05dd \u05d5\u05d4\u05e1\u05d2\u05d9\u05e8\u05d4: \u05d9\u05d5\u05ea\u05dd \u05d0\u05d1\u05e0\u05d9 \u05d5\u05e2\u05de\u05d9\u05d7\u05d9 \u05de\u05d8\u05d9\u05d0\u05e1.\n\u05e8\u05d7\u05d1\u05d4 2 : \u05d0\u05d5\u05d1\u05e1 \u05e0\u05e0\u05d5\u05e8 ,\u05d5\u05d3\u05e0\u05d9 \u05d5\u05e7\n\n\u05d5\u05d5\u05d9\u05e0\u05dc \u05e1\u05d8 \u05d1\u05d4\u05d0\u05e8\u05d3\u05d5\u05d5\u05e7\u05e1 \u05d1\u05e8\u05dc\u05d9\u05df :\nhttps://www.youtube.com/watch?v=l-zC-Yo4QNg\n\u05e1\u05d0\u05d5\u05e0\u05d3\nhttps://soundcloud.com/cassy-official\n\n\n\u05e9\u05d9\u05e9\u05d9 2.9 //23:00 //  \u05d1\u05d9\u05ea \u05de\u05e2\u05e8\u05d9\u05d1 // \u05d3\u05e8\u05da \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df 51 \u05ea\"\u05d0\n\n\u05db\u05e8\u05d8\u05d9\u05e1\u05d9\u05dd: https://www.eventer.co.il/cassy\n\n\u05e0\u05ea\u05e8\u05d0\u05d4 \u05e2\u05dc \u05d4\u05e8\u05d7\u05d1\u05d4\n\u05d1\u05e8\u05d6\u05d9\u05dc\u05d9 \u05e7\u05e8\u05d5", 
+                "start_time": "2016-09-02T23:30:00+0300", 
+                "place": {
+                    "id": "256691174360268", 
+                    "name": "Lost Panda", 
+                    "location": {
+                        "city": "Tel Aviv", 
+                        "zip": "6416204", 
+                        "country": "Israel", 
+                        "longitude": 34.781641960144, 
+                        "street": "Ibn Gvirol 76", 
+                        "latitude": 32.080611019456
+                    }
+                }, 
+                "end_time": "2016-09-03T10:00:00+0300", 
+                "id": "1094566447299737", 
+                "name": "Beit Maariv & Barzilay / CASSY. - Friday / 02.09 @ lost panda"
+            }, 
+            {
+                "description": "Marted\u00ec 16 Agosto 2016\nWith Love presenta: \n\nHOUSEX (il marted\u00ec d'Italia)\n19\u00b0 anno\n\nSpecial Guest\nCASSY\n\n\n+\n\n+++ VOID acoustic \n\nin collaborazione con:\nFeliciotto Taormina \ncorso Umberto | Taormina \n[info point e prenotazioni]\n\nprezzi ridotto in lista: \nTBA\n\nTavoli:\nTBA con 10 ingressi omaggio + bottiglia superalcolico | frutta | zona priv\u00e8 | ingresso privilegiato\n\nsenza lista: \n\u20ac 5,00 in pi\u00f9\n\nx info | liste | tavoli | collaborazioni\ncontattatemi in privato su Facebook\no WhatsApp 392 0772358\n\nstay tuned\nstay With Love", 
+                "start_time": "2016-08-23T22:00:00+0200", 
+                "place": {
+                    "id": "375817779248622", 
+                    "name": "Meridien taormina", 
+                    "location": {
+                        "city": "Taormina", 
+                        "zip": "98039", 
+                        "country": "Italy", 
+                        "longitude": 15.296581641429, 
+                        "street": "via nazionale spisone", 
+                        "latitude": 37.86395951381
+                    }
+                }, 
+                "end_time": "2016-08-24T05:00:00+0200", 
+                "id": "903658283113780", 
+                "name": "With Love presents: Housex (il Marted\u00ec D'italia) w/ CASSY"
+            }, 
+            {
+                "id": "327886974071146", 
+                "start_time": "2016-08-21T20:00:00+0200", 
+                "place": {
+                    "id": "151705514915875", 
+                    "name": "Zrce - Isola Di Pag (Croatia)", 
+                    "location": {
+                        "latitude": 44.53951757146, 
+                        "city": "Novalja", 
+                        "zip": "53291", 
+                        "longitude": 14.914215979409, 
+                        "country": "Croatia"
+                    }
+                }, 
+                "end_time": "2016-08-25T23:00:00+0200", 
+                "name": "SONUS Festival"
+            }
+        ]
+    }
+}

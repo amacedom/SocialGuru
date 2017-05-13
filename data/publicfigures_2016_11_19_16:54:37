@@ -1,0 +1,576 @@
+{
+    "about": "\"Absolutely phenomenal live\" -Time Out New York", 
+    "name": "Tortured Soul", 
+    "fan_count": 69955, 
+    "id": "15162349074", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MTM1MTI3ODU2NTM3MjI2", 
+                "before": "ODA4NzAxNDM0OAZDZD"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/15162349074/likes?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=MTM1MTI3ODU2NTM3MjI2"
+        }, 
+        "data": [
+            {
+                "name": "Babylon", 
+                "id": "8087014348"
+            }, 
+            {
+                "name": "28 December Taung", 
+                "id": "290492874301833"
+            }, 
+            {
+                "name": "King King Hollywood", 
+                "id": "52200703428"
+            }, 
+            {
+                "name": "DMC World Magazine", 
+                "id": "363099847056555"
+            }, 
+            {
+                "name": "Soulin'", 
+                "id": "110687195691409"
+            }, 
+            {
+                "name": "Baltic Soul Weekender", 
+                "id": "143408265671880"
+            }, 
+            {
+                "name": "Sol Power All-Stars / Sol Power Sound", 
+                "id": "197627573581557"
+            }, 
+            {
+                "name": "WBAI 99.5 FM New York", 
+                "id": "117604351601307"
+            }, 
+            {
+                "name": "Liquid Sound Lounge ltd", 
+                "id": "118072008275731"
+            }, 
+            {
+                "name": "Chaka Khan", 
+                "id": "61619346750"
+            }, 
+            {
+                "name": "OneLuvFM", 
+                "id": "394046623984667"
+            }, 
+            {
+                "name": "RM2 Music", 
+                "id": "113423635422716"
+            }, 
+            {
+                "name": "Water Seed", 
+                "id": "39307795129"
+            }, 
+            {
+                "name": "Quantic Music", 
+                "id": "7809007187"
+            }, 
+            {
+                "name": "Tamsta Club", 
+                "id": "293075386496"
+            }, 
+            {
+                "name": "5 Magazine", 
+                "id": "111034862268299"
+            }, 
+            {
+                "name": "Quentin Harris", 
+                "id": "206373902754358"
+            }, 
+            {
+                "name": "Dimitri From Paris", 
+                "id": "208169992558562"
+            }, 
+            {
+                "name": "JASK", 
+                "id": "19383211058"
+            }, 
+            {
+                "name": "Razor-N-Tape", 
+                "id": "329527283769265"
+            }, 
+            {
+                "name": "Zongo Junction", 
+                "id": "251585150501"
+            }, 
+            {
+                "name": "SoulTracks.com", 
+                "id": "72791809138"
+            }, 
+            {
+                "name": "NDea Davenport", 
+                "id": "191409424043"
+            }, 
+            {
+                "name": "P.R", 
+                "id": "106639902413"
+            }, 
+            {
+                "name": "Ninjury", 
+                "id": "135127856537226"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "NzkwMzgyNjQ3NjYwMTM5", 
+                "before": "ODIxODI5NzExMjkwMDg4"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/15162349074/events?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=NzkwMzgyNjQ3NjYwMTM5"
+        }, 
+        "data": [
+            {
+                "description": "Friday, November 25th\n\n \n\nTORTURED SOUL (LIVE)\n\nHawthorn presents\n\n \n\nThe night after Thanksgiving, Brooklyn NY band Tortured Soul will play LIVE at Hawthorn!\n\nReservations@HawthornSF.com\n\n \n\nLenny Kravitz once described them as \u201csomething I\u2019d wake up to on a Saturday morning when the sun is coming through the window. There aren\u2019t enough people [like this] singing about love and honesty.\u201d\n\nInfluenced by the classic song craft of Prince, Heatwave and Kool & The Gang, the members of Tortured Soul are three distinctive guys with three different backgrounds, united under a groove-centered rhythm. The band\u2019s frontman and principal songwriter, John-Christian Urich, can be seen simultaneously drumming and singing with effortless mastery, while the rest of the collective, made up of keyboardist Isamu Mcgregor and bassist Jordan Scannella, virtuosically generate the pulsating accompaniment. Inside the group\u2019s mystique, the acid jazz is reminiscent of Jamiroquai funk, while deeply saturated in the contemporary freshness of house purveyors like Joey Negro, Kenny Dope, Soul Clap and Jamie Jones. Even the legendary tastemaker Gilles Peterson, dubbed them the future of house music.", 
+                "start_time": "2016-11-25T21:00:00-0800", 
+                "place": {
+                    "id": "1402064610047294", 
+                    "name": "Hawthorn", 
+                    "location": {
+                        "city": "San Francisco", 
+                        "zip": "94108", 
+                        "country": "United States", 
+                        "longitude": -122.40416756654, 
+                        "state": "CA", 
+                        "street": "46 Geary St", 
+                        "latitude": 37.787925135985
+                    }
+                }, 
+                "end_time": "2016-11-26T02:00:00-0800", 
+                "id": "821829711290088", 
+                "name": "Tortured Soul Friday Nov 25 in San Francisco at Hawthorn"
+            }, 
+            {
+                "id": "1039943129465761", 
+                "start_time": "2016-11-24T21:00:00-0700", 
+                "description": "RedMonkey has become an AZ tradition.\n\nEstablished in 1996 by local veteren house dj Pete Salaz, as a sporadic house music event...it is now celebrated only on Thanksgiving Night.\n\nIn it's 20th year, special guest Tortured Soul returns to RedMonkey for what is sure to a be a memorable performance. The 3 peice band's signature style of music has taken them all around the world. Seven years ago, they took RedMonkey to an all new level!\n\nSupporting Tortured Soul, the dj duo responsible for bringing AZ iconic house music events such as the current longest running weekly, Solstice Saturdays at Bar Smith and Batucada (which had a 7 Year run on a Wednesday), Senbad and Salaz.\n\nAlso, the DK and DrDrea...AZ's beloved husband/wife duo who brought you Retro HiFi Sunday's at Sidebar. As a duo or individually, DK and DrDrea have been rocking dancefloors all over AZ. For RedMonkey, they are planning a special hybrid set consisting of live performance and dj mixing.\n\nA limited amount of presale tickets are now available.\n\n#redmonkeyphx", 
+                "name": "Tortured Soul Perform in Phoenix at Monarch Theater", 
+                "end_time": "2016-11-25T03:00:00-0700"
+            }, 
+            {
+                "description": "GET TICKETS --> http://bit.ly/T-SoulBKBazaar\n\nSATURDAY, OCTOBER 8th, 2016\nTortured Soul\nFutureType\nNo Wahala DJs \n& Manchildblack\nBrooklyn Bazaar\n144 Greenpoint Ave\n7:30 DOORS / 8PM SHOW\n\nThe new Brooklyn Bazaar opened to the public in early September, the bar, venue, market, restaurant & funhouse is now located at 150 Greenpoint Avenue and will host globetrotting deep house trio Tortured Soul, Bushwick's electro-funk 7pc FutureType and Bedstuy DJs No Wahala Djs on Sat. October 8th, 2016 from 7pm to 2am.  Brooklyn Bazaar was ousted from its massive warehouse on Banker Street last year, however the new digs at the former Polish Banquet are quite impressive.  The 3 floor space's main floor has flea market style tables featuring local artisans, as well as the in-house branch of the Brooklyn Star restaurant; downstairs has ping pong, mini golf, arcade games and karaoke; and upstairs is a beautiful 400 person performance space for concerts and dance parties.\n\nTORTURED SOUL\nwww.torturedsoulmusic.com \n\nTortured Soul is 100% LIVE modern, deep, soulful, house music freed from the DJ Booth. Influenced by the classic songcraft of Prince, Heatwave and Kool & The Gang, the members of Tortured Soul are three distinctive guys with three different backgrounds, united under a groove-centered rhythm. The band\u2019s frontman and songwriter, John-Christian Urich, can be seen simultaneously drumming and singing with effortless mastery, while bassist Jordan Scannella, and keyboardist Isamu McGregor virtuosically generate the pulsating rhythm and melodic joy. \n\nFutureType (Brooklyn 7pc disco // funk // hip hop // electro)\nwww.futuretype.nyc\n\nFuture Type is a new 7-piece funk/hiphop electro crew, led by up-and-coming producer Miles Felix (Launch Point Records, co-producer of Game of Thrones Mixtape 2 - produced tracks ft. Snoop Dog,Common, Talib Kweli, Method Man) and featuring members of much-loved Brooklyn bands Kidding on the Square and Durians. Hot out of the studio and playing jam-packed Brooklyn shows, Future Type mixes retro and futurist funk sounds with hip-hop, jazz and electro, laid down by a live band.", 
+                "start_time": "2016-10-08T20:00:00-0400", 
+                "place": {
+                    "id": "113587642048628", 
+                    "name": "Brooklyn Bazaar", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11222", 
+                        "country": "United States", 
+                        "longitude": -73.95479, 
+                        "state": "NY", 
+                        "street": "150 Greenpoint Ave.", 
+                        "latitude": 40.73003
+                    }
+                }, 
+                "end_time": "2016-10-09T14:00:00-0400", 
+                "id": "550756908461462", 
+                "name": "TIME OUT NY Presents : Tortured Soul w/ Future Type & No Wahala"
+            }, 
+            {
+                "description": "Tortured Soul Returns to the Mid for some deep summer madness. Sweat Rock Roll Bounce!", 
+                "start_time": "2016-08-19T22:00:00-0500", 
+                "place": {
+                    "id": "137338369652922", 
+                    "name": "the MID", 
+                    "location": {
+                        "city": "Chicago", 
+                        "zip": "60661", 
+                        "country": "United States", 
+                        "longitude": -87.6478, 
+                        "state": "IL", 
+                        "street": "306 N Halsted St", 
+                        "latitude": 41.88707
+                    }
+                }, 
+                "end_time": "2016-08-20T04:00:00-0500", 
+                "id": "978863455545404", 
+                "name": "Tortured Soul in Chicago at the Mid!"
+            }, 
+            {
+                "description": "***ABSOLUTELY FREE***\nFriday July 22nd Tortured Soul & House of David Gang live @ 28th Beaches Jazz Festival Toronto, ON presented by NuFunk Concerts - Full info here: http://bit.ly/2aexHJ6\n\nThe long awaited return of soulful house trio Tortured Soul live in Toronto at the 28th annual  Beaches International Jazz Festival on Friday July 22nd at 9pm on the OLG Main Stage, Woodbine Park. Toronto reggae warriors House of David Gang play at 7pm with Discovery Through The Arts Band at 5pm.   Special guests, Beer Garden and more!  \n\nBefore DJs evolved into global superstars, musicians carried the baton. The Brooklyn-based dance trio Tortured Soul isn\u00edt trying to intently rewrite the logic of today\u00eds EDM with the sweat of their own musicianship, but they are living proof that the very same music can be freed from the DJ booth. Influenced by the classic songcraft of Prince, Heatwave and Kool & The Gang, the members of Tortured Soul are three distinctive guys with three different backgrounds, united under a groove-centered rhythm. The band\u2019s frontman and principal songwriter, John-Christian Urich, can be seen simultaneously drumming and singing with effortless mastery, while the rest of the collective, made up of keyboardist Ethan White and bassist Jordan Scannella, virtuosically generate the pulsating accompaniment. It\u2019s a striking visual that\u2019s feverishly winning converts with each and every tour stop, with them being likened to The Roots of house music. Inside the group\u00eds mystique, the acid jazz is reminiscent of Jamiroquai funk, while deeply saturated in the contemporary freshness of house purveyors like Joey Negro, Kenny Dope, Soul Clap and Jamie Jones.\n\nTortured Soul performs a free outdoor concert at the Beaches Jazz Festival with reggae openers House of David Gang,\n\nHosted by Chico Pacheco & Pradeep Drai Verghese\n\nSlammin Media", 
+                "start_time": "2016-07-22T19:00:00-0400", 
+                "place": {
+                    "id": "1605472596441891", 
+                    "name": "Woodbine Park", 
+                    "location": {
+                        "city": "Toronto", 
+                        "zip": "M4L 1G5", 
+                        "country": "Canada", 
+                        "longitude": -79.313391, 
+                        "state": "ON", 
+                        "street": "1695 Queen street East", 
+                        "latitude": 43.66452
+                    }
+                }, 
+                "end_time": "2016-07-22T23:00:00-0400", 
+                "id": "1559526834353647", 
+                "name": "FREE: Tortured Soul at Toronto Beaches Jazz Festival + House of David Gang"
+            }, 
+            {
+                "id": "1535298226783329", 
+                "start_time": "2016-02-13T22:30:00-0500", 
+                "place": {
+                    "id": "652898284843041", 
+                    "name": "The Hall at MP", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11211", 
+                        "country": "United States", 
+                        "longitude": -73.95457, 
+                        "state": "NY", 
+                        "street": "470 Driggs Ave", 
+                        "latitude": 40.71894
+                    }
+                }, 
+                "description": "Tortured Soul is 100% LIVE modern, deep, soulful, house music freed from the DJ Booth.\n\nInfluenced by the classic songcraft of Prince, Heatwave and Kool & The Gang, the members of Tortured Soul are three distinctive guys with three different backgrounds, united under a groove-centered rhythm. The band\u2019s frontman and songwriter, John-Christian Urich, can be seen simultaneously drumming and singing with effortless mastery, while bassist, Jordan Scannella, and keyboardist, Isamu McGregor, virtuosically generate the pulsating accompaniment. \n\nLikened to The Roots of house music, Tortured Soul\u2019s sound is reminiscent of neo-soul groups like Jamiroquai or Brand New Heavies, while also being deeply saturated in the contemporary freshness of house purveyors like Joey Negro, Kenny Dope, Soul Clap and Disclosure.\n\n$20/$25\n\n10:30 PM Doors, 11:00 PM Show", 
+                "name": "Tortured Soul at The Hall at MP"
+            }, 
+            {
+                "id": "980755958658560", 
+                "start_time": "2016-01-15T19:00:00+0000", 
+                "description": "Newcastle! We're playing at the Hoochie Coochie and would love if you could make it!\n\nwww.facebook.com/torturedsoul\nwww.twitter.com/tortured_soul\nwww.youtube.com/user/torturedsoulmusic\nwww.soundcloud.com/tortured_soul\nwww.torturedsoulmusic.com", 
+                "name": "Tortured Soul in Newcastle, UK @ Hoochie Coochie!"
+            }, 
+            {
+                "id": "710507435716112", 
+                "start_time": "2015-12-31T11:00:00+0200", 
+                "place": {
+                    "id": "139096926119334", 
+                    "name": "Plaza Mary Fitzgerald", 
+                    "location": {
+                        "city": "Johannesburg", 
+                        "zip": "2001", 
+                        "country": "South Africa", 
+                        "longitude": 28.03138889, 
+                        "street": "Henry Nxumalo St", 
+                        "latitude": -26.2025
+                    }
+                }, 
+                "description": "Joburg! We're playing at the Joburg's Annual New Year's Eve Party and would love if you could make it! New video for \"Don't Lead Me On\" ! Check it out on The TS Youtube channel! http://ow.ly/U0DJw   Tweet to us @tortured_soul with #COJCountdown\n\nAbout Tortured Soul\n\nTortured Soul is a Brooklyn, NY based trio who are one of the foremost exponents of live 'acid jazz soul house'. Their unique sound have had had them play at a variety of venues & festivals worldwide including Montreal Jazz Festival and Bonnaroo.  They have performed with many legendary live acts such as Chaka Kahn, The Wailers, The Brand New Heavies, and Pharcyde as well as sharing the stage with world-renowned DJ\u2019s like Carl Cox, Miguel Migs, Jazzanova, and Louie Vega.", 
+                "name": "Joburg's Annual New Year's Eve Party #COJCountdown"
+            }, 
+            {
+                "description": "Come have a drink and watch the video! \n\nCast members: First beer is on TS!\nAND we have a cd for everyone who was at the shoot. \n\nLooking forward to seeing you there! \n\nLove, JCU", 
+                "start_time": "2015-11-06T17:00:00-0800", 
+                "place": {
+                    "id": "156411964411951", 
+                    "name": "On The Thirty", 
+                    "location": {
+                        "city": "Sherman Oaks", 
+                        "zip": "91403", 
+                        "country": "United States", 
+                        "longitude": -118.45210224703, 
+                        "state": "CA", 
+                        "street": "14622 Ventura Blvd Ste 112", 
+                        "latitude": 34.151369553057
+                    }
+                }, 
+                "end_time": "2015-11-06T19:00:00-0800", 
+                "id": "1489464051355173", 
+                "name": "TORTURED SOUL VIDEO RELEASE PARTY!"
+            }, 
+            {
+                "id": "1627958614129795", 
+                "start_time": "2015-09-05T18:00:00-0400", 
+                "place": {
+                    "id": "100886442754", 
+                    "name": "Brooklyn Bowl", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11249", 
+                        "country": "United States", 
+                        "longitude": -73.95753997631, 
+                        "state": "NY", 
+                        "street": "61 Wythe Ave", 
+                        "latitude": 40.721963252961
+                    }
+                }, 
+                "description": "Stuck in the city for labor day week end? Lucky you! Come Join us  and our friends , DJ Jeannie Hopper, and Future Type as we return to Brooklyn and Brooklyn Bowl!  for our CD release party! Come get sweaty one more time before the summer is over. doors at 6 . Music starts at  8!  Good times, baby (TS plays @ 10pm)", 
+                "name": "TORTURED SOUL CD RELEASE PARTY SEPT 5TH @ BROOKLYN BOWL!"
+            }, 
+            {
+                "id": "907285752675172", 
+                "start_time": "2015-07-07T21:30:00-0700", 
+                "place": {
+                    "id": "339283802765105", 
+                    "name": "Focus OC (Tapas)", 
+                    "location": {
+                        "city": "Newport Beach", 
+                        "zip": "92660", 
+                        "country": "United States", 
+                        "longitude": -117.8653936, 
+                        "state": "CA", 
+                        "street": "4253 Martingale Way", 
+                        "latitude": 33.665929
+                    }
+                }, 
+                "description": "Tuesday July 7 at 930pm - 2:am", 
+                "name": "Focus Presents Tortured Soul + Josh Billing's B-Day"
+            }, 
+            {
+                "start_time": "2015-07-03T22:00:00-0700", 
+                "place": {
+                    "id": "52200703428", 
+                    "name": "King King Hollywood", 
+                    "location": {
+                        "city": "Los Angeles", 
+                        "zip": "90028", 
+                        "country": "United States", 
+                        "longitude": -118.33293537541, 
+                        "state": "CA", 
+                        "street": "6555 Hollywood Blvd", 
+                        "latitude": 34.101854458507
+                    }
+                }, 
+                "name": "Tortured Soul @ King king Ethan White Tribute and CD release party", 
+                "id": "1615822258702258"
+            }, 
+            {
+                "description": "NYC, it's been a minute!\n\nWe're super excited to announce we'll be back in our city real soon for the High Tides Boat Party along side Kenny Dope, Nickodemus, Mark de Clive-Lowe, and so much more.  It's the first time we've been back to the city this year and will be playing some new tracks from our brand new album \"Hot for your love Tonight\"\n\nWe're giving away a pair of tickets, but enter before Tuesday at 6pm, enter here: http://bit.ly/1dT6Hzw\n\nLove,\n\nTortured Soul\n\u2587 \u2587 \u2586 \u2585 \u2583 \u2582 \u2583 \u2585 \u2586", 
+                "start_time": "2015-06-13T17:00:00-0400", 
+                "place": {
+                    "id": "121996243070", 
+                    "name": "Circle Line Sightseeing Cruises", 
+                    "location": {
+                        "city": "New York", 
+                        "zip": "10036", 
+                        "country": "United States", 
+                        "longitude": -74.001709087062, 
+                        "state": "NY", 
+                        "street": "Pier 83 West 42nd Street and 12th Avenue", 
+                        "latitude": 40.762790225925
+                    }
+                }, 
+                "end_time": "2015-06-13T23:00:00-0400", 
+                "id": "404775903057512", 
+                "name": "NYC High Tides Summer Boat Party Sat June 13 w/ Kenny Dope, Nickodemus..."
+            }, 
+            {
+                "id": "737723952970053", 
+                "start_time": "2015-01-16T21:00:00-0500", 
+                "place": {
+                    "id": "130318697014109", 
+                    "name": "The Loft", 
+                    "location": {
+                        "city": "Atlanta", 
+                        "zip": "30309", 
+                        "country": "United States", 
+                        "longitude": -84.388003916869, 
+                        "state": "GA", 
+                        "street": "1374 W Peachtree St NW", 
+                        "latitude": 33.792196001724
+                    }
+                }, 
+                "description": "Yo ATL!\n\nTime to rock again!  This time we're joined by DJ Naturel, DJ Tabone & DJ Kemit!\n\nTickets and info over here: http://www.centerstage-atlanta.com/show/?id=1637&artist=TORTURED+SOUL\n\nSee you there!\n\nLove,\nTortured Soul", 
+                "name": "Tortured Soul in Atlanta at The Loft"
+            }, 
+            {
+                "id": "567646286670044", 
+                "start_time": "2014-12-26T22:00:00-0600", 
+                "place": {
+                    "id": "137338369652922", 
+                    "name": "the MID", 
+                    "location": {
+                        "city": "Chicago", 
+                        "zip": "60661", 
+                        "country": "United States", 
+                        "longitude": -87.6478, 
+                        "state": "IL", 
+                        "street": "306 N Halsted St", 
+                        "latitude": 41.88707
+                    }
+                }, 
+                "description": "Tickets: http://www.clubtix.com/themid/tortured-soul-terry-hunter-mayhem-tickets-353844\n\n-----------------------\n\nYo Chi!\n\nWe're excited to announce we'll be back in your city real soon, at The Mid on Friday, December 26th!\n\nThe line-up is super fresh too!   DJ TERRY HUNTER, Gene Hunt, Julius the Mad Thinker & Zebo join us on stage for a full night of good ass music.\n\nSounds like the perfect break from the holidays to us!\n\nAdvance tickets & RSBP (free b4 11:30) are available over here: http://www.clubtix.com/themid/tortured-soul-terry-hunter-mayhem-tickets-353844\n\nLove,\nTortured Soul", 
+                "name": "Tortured Soul in Chicago at The Mid"
+            }, 
+            {
+                "id": "320655868127050", 
+                "start_time": "2014-12-06T00:00:00+0200", 
+                "place": {
+                    "id": "168641289843527", 
+                    "name": "Monare Farm", 
+                    "location": {
+                        "latitude": -25.945549424216, 
+                        "street": "portion 84 Valleifontein, rooigrond", 
+                        "zip": "2745", 
+                        "longitude": 25.816890170747
+                    }
+                }, 
+                "description": "Online Tickets: http://online.computicket.com/web/event/60s_party/856124151\n\n-------------------------\nYo SA!\n\nWe are excited to announce that we will be at this year's Maftown 60s Party at Monare Farm!\n\nTickets available at Shoprite Checkers or online over here: http://online.computicket.com/web/event/60s_party/856124151\n\nMore information over here: http://maftown60s.com/\n\nWe'll see everyone on the farm!!\n\nLove,\nTortured Soul", 
+                "name": "Tortured Soul at Monare Farm for the Maftown 60s Party"
+            }, 
+            {
+                "id": "757335424322701", 
+                "start_time": "2014-11-29T10:00:00+0200", 
+                "place": {
+                    "id": "881782555181349", 
+                    "name": "Kome Caves, Pulane, Teyateyaneng!", 
+                    "location": {
+                        "latitude": -29.300884245922, 
+                        "city": "Maseru", 
+                        "longitude": 27.480815956395, 
+                        "country": "Lesotho"
+                    }
+                }, 
+                "description": "Tickets: http://tsogo.computicket.com/web/event/kome_caves_beer_festival_weekend_pass/839717315/0/61185436\n\n------------------------\n\nYo Lesotho & South Africa!\n\nWe're coming back for a weekend of fun in the Kingdom of Mountains at the Kome Caves Beer & Glamping Festival in Lesotho on November 29th!\n\nMore information will be up soon, but tickets are available now. \n\nPasses for the entire weekend (28/11-30/11) are here: http://tsogo.computicket.com/web/event/kome_caves_beer_festival_weekend_pass/839717315/0/61185436\n\nPasses for just the day of our show (29/11) are here: http://tsogo.computicket.com/web/event/kome_caves_beer_festival_day_pass/840223508/424638504\n\nSee you soon!\n\nLove,\nTortured Soul", 
+                "name": "Tortured Soul in Lesotho at the Kome Caves Beer Festival"
+            }, 
+            {
+                "description": "Tickets: http://www.ticketfly.com/purchase/event/701067\n\n---------------------------\n\nBROOKLYN!\n\nTime to ROCK OUT at Brooklyn Bowl in Williamsburg!  Come join us for a special home town show, alongside the No Wahala DJs.\n\nShow us that local love!\n\nYou can get tickets over here: www.ticketfly.com/purchase/event/701067\n\nVenue info is over here: www.brooklynbowl.com/event/701067\n\nWe also have a free ticket contest for a limited time over here: tinyurl.com/TSoul-11-14-14\n\nWe'll see you REAL SOON!\n\nLove,\nTortured Soul\n\nAdditional info:\nFriday, November 14th\nBrooklyn Bowl\nTortured Soul\nw/ No Wahala DJs \n \nTortured Soul Bio\nhttp://www.torturedsoulmusic.com/\nhttps://www.facebook.com/torturedsoul\nhttp://www.twitter.com/tortured_soul\nhttp://www.youtube.com/user/torturedsoul...\nhttp://soundcloud.com/tortured_soul\n \n\u201cTortured Soul is the future of house music.\u201d \u2013 Gilles Peterson\n \nBefore DJs evolved into global superstars, musicians carried the baton. The Brooklyn-based dance trio Tortured Soul isn\u2019t trying to intently rewrite the logic of today\u2019s EDM with the sweat of their own musicianship, but they are living proof that the very same music can be freed from the DJ booth. Influenced by the classic songcraft of Prince, Heatwave and Kool & The Gang, the members of Tortured Soul are three distinctive guys with three different backgrounds, united under a groove-centered rhythm. The band\u2019s frontman and principal songwriter, John-Christian Urich, can be seen simultaneously drumming and singing with effortless mastery, while the rest of the collective, made up of keyboardist Ethan White and bassist Jordan Scannella, virtuosically generate the pulsating accompaniment. It\u2019s a striking visual that\u2019s feverishly winning converts with each and every tour stop, with them being likened to The Roots of house music. Inside the group\u2019s mystique, the acid jazz is reminiscent of Jamiroquai funk, while deeply saturated in the contemporary freshness of house purveyors like Joey Negro, Kenny Dope, Soul Clap and Jamie Jones. Even the legendary tastemaker Gilles Peterson, dubbed them \u201cthe future of house music.\u201d\n\n------------------\n\nNo Wahala DJs (DJ Quesquecest? & DJ Chibuikem, NYC)\n \nhttps://www.facebook.com/NoWahalaDJs\nhttps://twitter.com/noWahalaDJs\n \nNYC's colorful DJ crew, No Wahala DJs are DJ Chibuikem & DJ Quesquecest? whose monthly #UNWIND dancefloor sessions are one of the hottest parties in Bed-Stuy, Brooklyn and are a marathon of reggae, dub, afrobeat, hiphop, breaks & deep bass.\n \nTaking their name from a West African English slang for \"No Problem\" or \"No Trouble,\" No Wahala DJ are keenly attuned to the needs of the dancefloor.  In NYC they have played at: The Studio at Wesbury, Brooklyn Bridge Park, Brooklyn Bowl, Bowery Electric, Webster Hall Studio, Spike Hill, Pine Box Rock Shop, Cantina Royal, The Bedford, Videology, Richlane, PaperBox & BedVyne Brew and have perform alongside Snoop Dogg, Capital Cities, Easy Star All-Stars, John Brown's Body, Zongo Junction, Souljazz Orchestra and beatbox trailblazer DubFX.", 
+                "start_time": "2014-11-14T20:00:00-0500", 
+                "place": {
+                    "id": "100886442754", 
+                    "name": "Brooklyn Bowl", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11249", 
+                        "country": "United States", 
+                        "longitude": -73.95753997631, 
+                        "state": "NY", 
+                        "street": "61 Wythe Ave", 
+                        "latitude": 40.721963252961
+                    }
+                }, 
+                "end_time": "2014-11-14T23:00:00-0500", 
+                "id": "523190754492466", 
+                "name": "Tortured Soul in NYC at Brooklyn Bowl"
+            }, 
+            {
+                "description": "Tickets: http://tktwb.tw/1orjJs3\n\n--------------------\n\nYo Toronto!!\n\nWe're excited to announce a return across the northern border for a night of music and partying!  The line-up is jam packed too.  Check it out!\n\nNuFunk Concerts in association with Soulwhat presents...\n\nTortured Soul (NYC) :: LIVE HOUSE MUSIC ::\nwww.torturedsoulmusic.com\nThursday November 13th, 2014\nwith special guests DJ Corey Dawkins & gaDJet\nHosted by Chico Pacheco, Sonit, Kat LoveBrigade & HXAJ\nRevival Bar - 783 College St. Toronto, ON\nwww.revivalbar.com\nDoors 8pm, Show 9pm\n\nSpecial $16.50 Early Bird Tickets: \nhttp://tktwb.tw/1orjJs3 available until Oct 31st\n\n$20 Advance / $25 at the door\nTickets available at Soundscapes & Play De Record\nand Online via Ticketweb.ca http://tktwb.tw/1orjJs3\n\nMore info: www.nufunk.ca\nFacebook Link: https://www.facebook.com/events/307333449459302/\n\nSponsored by Make it Funky, NuJazz Festival, Fusicology, HXAJ, 360 Degree Artists, Embrace Presents & Tribe.ca", 
+                "start_time": "2014-11-13T21:00:00-0500", 
+                "place": {
+                    "id": "55977654463", 
+                    "name": "Revival Bar", 
+                    "location": {
+                        "city": "Toronto", 
+                        "zip": "M6G 1C5", 
+                        "country": "Canada", 
+                        "longitude": -79.41995, 
+                        "state": "ON", 
+                        "street": "783 College Street", 
+                        "latitude": 43.65468
+                    }
+                }, 
+                "end_time": "2014-11-14T02:00:00-0500", 
+                "id": "307333449459302", 
+                "name": "Tortured Soul in Toronto at Revival Bar"
+            }, 
+            {
+                "description": "TICKETS: http://www.brownpapertickets.com/event/876163\n\n------------\n\nYo DC!!\n\nWe had an eerily good time last time we played to a packed out Tropicalia in DC, so we're back to celebrate with a Halloween show on Thursday, October 30th!\n\nThe Sol Power All-Stars rocked the place last time was some frighteningly good music, so they're back to keep things fresh all night!\n\nThis is an intimate venue, so get your tickets soon over here: http://www.brownpapertickets.com/event/876163\n\nSee you there!\n\nLove,\nTortured Soul", 
+                "start_time": "2014-10-30T21:00:00-0400", 
+                "place": {
+                    "id": "435350696503513", 
+                    "name": "Tropicalia", 
+                    "location": {
+                        "city": "Washington", 
+                        "zip": "20009", 
+                        "country": "United States", 
+                        "longitude": -77.03176, 
+                        "state": "DC", 
+                        "street": "2001 14th St, NW, Lower Level - Corner of U & 14th (Enter From U St, Down Stairs)", 
+                        "latitude": 38.917
+                    }
+                }, 
+                "end_time": "2014-10-31T02:00:00-0400", 
+                "id": "356487977843068", 
+                "name": "Tortured Soul in DC for Halloween at Tropicalia"
+            }, 
+            {
+                "description": "TICKETS: http://www.focus-oc.com/tickets.htm\n\n-------------------\n\nYo SoCal!\n\nWe're coming back to Tapas in Newport Beach for the Focus OC Party with Josh Billings!!\n\nGet ahead of the curve and grab tickets over here: http://www.focus-oc.com/tickets.htm\n\nSee you soon!\n\nLove,\nTortured Soul", 
+                "start_time": "2014-10-07T21:30:00-0700", 
+                "place": {
+                    "id": "339283802765105", 
+                    "name": "Focus OC (Tapas)", 
+                    "location": {
+                        "city": "Newport Beach", 
+                        "zip": "92660", 
+                        "country": "United States", 
+                        "longitude": -117.8653936, 
+                        "state": "CA", 
+                        "street": "4253 Martingale Way", 
+                        "latitude": 33.665929
+                    }
+                }, 
+                "end_time": "2014-10-08T02:00:00-0700", 
+                "id": "297560817102898", 
+                "name": "Tortured Soul in Orange County at the Focus Party"
+            }, 
+            {
+                "description": "TICKETS: http://www.flavorus.com/event/Tortured-Soul-at-Soul-and-Tonic/266823\n\n------------------\n\nBack to Hollywood!\n\nThis time it's the Soul & Tone party at King King with the always fresh DJ Adam Auburn, plus more to be announced soon!\n\nThese sell out, so get your tickets ASAP over here: http://www.flavorus.com/event/Tortured-Soul-at-Soul-and-Tonic/266823\n\nSee you soon Cali!\n\nLove,\nTortured Soul", 
+                "start_time": "2014-10-04T22:00:00-0700", 
+                "place": {
+                    "id": "52200703428", 
+                    "name": "King King Hollywood", 
+                    "location": {
+                        "city": "Los Angeles", 
+                        "zip": "90028", 
+                        "country": "United States", 
+                        "longitude": -118.33293537541, 
+                        "state": "CA", 
+                        "street": "6555 Hollywood Blvd", 
+                        "latitude": 34.101854458507
+                    }
+                }, 
+                "end_time": "2014-10-05T03:00:00-0700", 
+                "id": "1472171073067999", 
+                "name": "Tortured Soul in Los Angeles at King King"
+            }, 
+            {
+                "id": "252252564967324", 
+                "start_time": "2014-08-21T20:00:00-0400", 
+                "place": {
+                    "id": "476607145697852", 
+                    "name": "Stage 48", 
+                    "location": {
+                        "city": "New York", 
+                        "zip": "10036", 
+                        "country": "United States", 
+                        "longitude": -73.9959207534, 
+                        "state": "NY", 
+                        "street": "605 W 48th St", 
+                        "latitude": 40.764749877745
+                    }
+                }, 
+                "description": "TICKETS: http://tinyurl.com/TSoul-Stage48\n\n------------------------------\n\nThe Get Down Presents, CEG Presents, & T-Presents... \n\nHoly smokes, we're joined by Quantic on this bill.  His retro latin funk productions have reached legendary status, and it's an honor to share the stage with him!  \n\nIf you don't know him, check him out here: Quantic Music\n\nOpening the night we have New Orleans Future Funk band Water Seed.  hese guys are on the forefront of the new soul scene in New Orleans.  Make sure you come early and check them out!\n\nThe party keeps rockin after Tortured Soul, with the addition of NYC nightlife luminary Manchildblack DJing the afterparty set.  Yes!\n\nTortured Soul\nhttp://www.torturedsoulmusic.com\nhttp://www.twitter.com/tortured_soul\nhttp://soundcloud.com/tortured_soul\n\nInternational live touring act, Tortured Soul, is living proof that modern EDM can be freed from the DJ booth and fused with the classic styles of Prince, Heatwave and Kool & The Gang. \n\n\u201cTortured Soul is the future of house music.\u201d \u2013 Gilles Peterson\n\nLove,\nThe TS Boys", 
+                "name": "Tortured Soul in NYC with Special Guests Quantic, Water Seed & Manchildblack at Stage 48!!"
+            }, 
+            {
+                "id": "257611644432898", 
+                "start_time": "2014-07-12T22:00:00-0700", 
+                "place": {
+                    "id": "161319500581565", 
+                    "name": "Mighty", 
+                    "location": {
+                        "city": "San Francisco", 
+                        "zip": "94103", 
+                        "country": "United States", 
+                        "longitude": -122.4066103, 
+                        "state": "CA", 
+                        "street": "119 Utah St", 
+                        "latitude": 37.7681189
+                    }
+                }, 
+                "description": "Tickets: http://www.salted.eventbrite.com/\n\n-----------------\n\nWhat's up BAY AREA!\n\nWe're coming back to rock with Miguel Migs and Julius Papp at the Salted Party at Mighty!  This one's on Saturday, July 12.  Gonna be NICE!\n\nTickets are available over here: http://www.salted.eventbrite.com/\n\nSee you soon!\n\nLove,\nTortured Soul", 
+                "name": "Tortured Soul in San Francisco at the Salted Party at Mighty"
+            }, 
+            {
+                "id": "790382647660139", 
+                "start_time": "2014-06-29T20:00:00+0200", 
+                "place": {
+                    "id": "162089877148410", 
+                    "name": "Lac de G\u00e9ronde", 
+                    "location": {
+                        "latitude": 46.287043643603, 
+                        "longitude": 7.5415185756343
+                    }
+                }, 
+                "description": "Back to Sierre!\n\nWe're psyched to return to the Week-end au bord de l'eau Festival at the lovely Lac de G\u00e9ronde in Sierre, Switzerland on Sunday, 29 June!  \n\nLast time was a BLAST, and this time we honored to help close out the festival at 20:00 on Sunday.\n\nTickets and information over here: http://www.aubordeleau.ch/festival/\n\nLove,\nTortured Soul", 
+                "name": "Tortured Soul in Sierre at Week-end au bord de l'eau"
+            }
+        ]
+    }
+}

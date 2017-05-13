@@ -1,0 +1,317 @@
+{
+    "about": "'MOVEMENTS10' OUT NOW!\nAvailable here: https://bookashade.lnk.to/BSM10In \n\nOn tour in the US December and Australia January 2017.", 
+    "name": "Booka Shade", 
+    "fan_count": 333472, 
+    "id": "39633062089", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MTU3MzEzNzIxOTgZD", 
+                "before": "MTY0MDk5MDEzNjE1NTQ0OQZDZD"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/39633062089/likes?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=MTU3MzEzNzIxOTgZD"
+        }, 
+        "data": [
+            {
+                "name": "Blaufield Music", 
+                "id": "1640990136155449"
+            }, 
+            {
+                "name": "Riverside Studios Berlin", 
+                "id": "527773537264456"
+            }, 
+            {
+                "name": "CHI THANH", 
+                "id": "502291476503611"
+            }, 
+            {
+                "name": "NATIVE INSTRUMENTS", 
+                "id": "288365511299399"
+            }, 
+            {
+                "name": "Native Instruments", 
+                "id": "105485979485685"
+            }, 
+            {
+                "name": "Yello", 
+                "id": "33069607427"
+            }, 
+            {
+                "name": "Trent Reznor", 
+                "id": "108028195892735"
+            }, 
+            {
+                "name": "Conny Plank", 
+                "id": "21971244034"
+            }, 
+            {
+                "name": "Yeasayer", 
+                "id": "21417821731"
+            }, 
+            {
+                "name": "Burial", 
+                "id": "10341169793"
+            }, 
+            {
+                "name": "The Cure", 
+                "id": "14276376401"
+            }, 
+            {
+                "name": "Depeche Mode", 
+                "id": "26101560328"
+            }, 
+            {
+                "name": "The Smiths", 
+                "id": "30975687682"
+            }, 
+            {
+                "name": "New Order", 
+                "id": "8879963727"
+            }, 
+            {
+                "name": "David Bowie", 
+                "id": "30899502664"
+            }, 
+            {
+                "name": "Stanley Kubrick", 
+                "id": "297557997250246"
+            }, 
+            {
+                "name": "Fever Ray", 
+                "id": "38532258901"
+            }, 
+            {
+                "name": "The Chemical Brothers", 
+                "id": "19311247240"
+            }, 
+            {
+                "name": "Johnny Cash", 
+                "id": "8651510029"
+            }, 
+            {
+                "name": "Kraftwerk", 
+                "id": "170285733038250"
+            }, 
+            {
+                "name": "Paiste Cymbals", 
+                "id": "57292901652"
+            }, 
+            {
+                "name": "Jean-Michel Jarre", 
+                "id": "9760369095"
+            }, 
+            {
+                "name": "Trevor Horn (Official)", 
+                "id": "261504830548897"
+            }, 
+            {
+                "name": "Stewart Copeland", 
+                "id": "139841286160301"
+            }, 
+            {
+                "name": "Lykke Li", 
+                "id": "15731372198"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "OTQxNzI1NDEyNTgzOTU0", 
+                "before": "MTQ4NDI5MDEyMjk3NDk3"
+            }, 
+            "next": "https://graph.facebook.com/v2.8/39633062089/events?access_token=1772991622955373%7CbNOGbBZXk9zdiDO7oo8LS9bzCPY&limit=25&after=OTQxNzI1NDEyNTgzOTU0"
+        }, 
+        "data": [
+            {
+                "id": "148429012297497", 
+                "start_time": "2017-01-07T13:00:00+0000", 
+                "end_time": "2017-01-07T16:00:00+0000", 
+                "name": "Falls Festival, Perth, Australia"
+            }, 
+            {
+                "id": "547009922161732", 
+                "start_time": "2017-01-06T20:00:00+0000", 
+                "end_time": "2017-01-06T23:00:00+0000", 
+                "name": "Metro Theatre, Sydney, Australia"
+            }, 
+            {
+                "id": "883713828425236", 
+                "start_time": "2017-01-05T20:00:00+0000", 
+                "end_time": "2017-01-05T23:00:00+0000", 
+                "name": "Prince Bandroom, Melbourne, Australia"
+            }, 
+            {
+                "id": "1800475220217846", 
+                "start_time": "2017-01-02T13:00:00+0000", 
+                "end_time": "2017-01-02T16:00:00+0000", 
+                "name": "Falls Festival, Byron Bay, Australia"
+            }, 
+            {
+                "id": "1318787164821629", 
+                "start_time": "2017-01-01T13:00:00+0000", 
+                "end_time": "2017-01-01T16:00:00+0000", 
+                "name": "Field Day, Sydney, Australia"
+            }, 
+            {
+                "id": "1691837821127967", 
+                "start_time": "2016-12-31T13:00:00+0000", 
+                "end_time": "2016-12-31T16:00:00+0000", 
+                "name": "Falls Festival, Lorne, Australia"
+            }, 
+            {
+                "id": "1731446740511091", 
+                "start_time": "2016-12-30T13:00:00+0000", 
+                "end_time": "2016-12-30T16:00:00+0000", 
+                "name": "Falls Festival, Marion Bay, Australia"
+            }, 
+            {
+                "id": "190625891347290", 
+                "start_time": "2016-12-03T20:00:00+0000", 
+                "end_time": "2016-12-03T23:00:00+0000", 
+                "name": "Club Soda, Montreal, QC, Canada"
+            }, 
+            {
+                "description": "Booka Shade\nDOORLY\n\nGet ticks: ttp://ticketf.ly/2ddG5JY\n\n21+\nDoors at 9PM\nBuilt by MeanRed\n\nIn celebration of the 10 year anniversary of their album Movements, the Berlin-based minimal house duo Booka Shade play 8 special dates in the US.\n\nThis conceptual Movements show is only happening a few times with immersive lighting and visuals components to honor the album re-work.\n\nDoorly joins the lineup to bring an always eclectic take on dance, blending electronic, techno, house and dubstep.\n\nIf you\u2019ve never been to the Masonic Temple, it's a Brooklyn treasure.Through the years we\u2019ve seen some pretty amazing shows here and love nothing more than to bring exciting concerts to venues and neighborhoods that support independent promoters.", 
+                "start_time": "2016-12-02T21:00:00-0500", 
+                "place": {
+                    "id": "159291714085075", 
+                    "name": "Brooklyn Masonic Temple", 
+                    "location": {
+                        "city": "Brooklyn", 
+                        "zip": "11205", 
+                        "country": "United States", 
+                        "longitude": -73.969472450542, 
+                        "state": "NY", 
+                        "street": "317 Claremont St", 
+                        "latitude": 40.687872046315
+                    }
+                }, 
+                "end_time": "2016-12-03T02:00:00-0500", 
+                "id": "1695073524153187", 
+                "name": "Booka Shade, Doorly"
+            }, 
+            {
+                "id": "1042999449155878", 
+                "start_time": "2016-12-02T20:00:00+0000", 
+                "end_time": "2016-12-02T23:00:00+0000", 
+                "name": "Masonic Temple, Brooklyn, NY, USA"
+            }, 
+            {
+                "id": "886695634797290", 
+                "start_time": "2016-12-01T20:00:00+0000", 
+                "end_time": "2016-12-01T23:00:00+0000", 
+                "name": "Concord Music Hall, Chicago, IL, USA"
+            }, 
+            {
+                "id": "258299814567388", 
+                "start_time": "2016-11-30T20:00:00+0000", 
+                "end_time": "2016-11-30T23:00:00+0000", 
+                "name": "The Hoxton, Toronto, Ontario, Canada"
+            }, 
+            {
+                "id": "306025409769354", 
+                "start_time": "2016-11-28T20:00:00+0000", 
+                "end_time": "2016-11-28T23:00:00+0000", 
+                "name": "The Showbox, Seattle, WA, USA"
+            }, 
+            {
+                "id": "1171229682938495", 
+                "start_time": "2016-11-27T20:00:00+0000", 
+                "end_time": "2016-11-27T23:00:00+0000", 
+                "name": "Gothic Theatre, Englewood, CO, USA"
+            }, 
+            {
+                "description": "Booka Shade LIVE performing 10 Years of 'Movements'!\n\n>>>Booka Shade\nhttps://soundcloud.com/booka-shade\nhttps://www.facebook.com/bookashade/\n\nWith support by...\n\n>>>DOORLY\nhttps://soundcloud.com/doorly\nhttps://www.facebook.com/doorlydj/?fref=ts\n\nBIO:\n\nBerlin-based duo Booka Shade (Walter Merziger and Arno Kammermeier) have carved out a reputation as one of the most celebrated electronic acts to come out of Europe over the past two decades.\n\nWith their beginnings in Frankfurt and their sights originally on synth-pop, the duo Booka Shade quickly gained a strong following. In 2002 Booka Shade formed the now legendary dance label Get Physical Music (together with M.A.N.D.Y., Thomas \u2018DJ T.\u2019 Koch and Peter Hayo), where they would have a platform for their own music.\n\nThree years later, in 2005, their EP\u2019s \u2018Mandarine EP\u2019 and \u2018Body Language\u2019, (the latter co-produced with M.A.N.D.Y.) launched Booka Shade into the stratosphere with both EPs becoming an international success. The duo further solidified their position as electronic maestros with tracks like \u2018In White Rooms\u2019 and \u2018Night Falls\u2019, setting dancefloors into a frenzy the world over.\n\nSince their break-through performance at S\u00f3nar in 2005, Booka Shade have earned huge recognition with their innovative live shows, even being named one of Resident Advisor's Top 5 live acts in the world in 2010. They have opened for Depeche Mode, and headlined stages at Coachella, Glastonbury, Rock Werchter, and Red Rocks just to name a few.\n\nThe duo\u2019s fan base is in no way constricted to electronic music enthusiasts. They\u2019ve had great success playing slots in the Montreux Jazz Festival, Lollapalooza, and more by utilizing their massive crossover potential, which is as evident in their billings as it is in their remix credits, including acts like Depeche Mode, Moby, Hot Chip, Kings of Leon, Woodkid, The Knife and many  more.  They also have a passion for classical music, with the boys collaborating with China\u2019s near-legendary classical pianist, Lang Lang for a special performance in Berlin.\n\nBooka Shade were recently inducted into Pete Tong's BBC Radio 1 Hall of Fame, having found strong support at Radio 1 in recent years.  Playing both the \u201840 Years of Radio 1\u2019 celebration with Annie Nightingale and the \u201820 Years Essential Mix\u2019 party,  Booka Shade also mixed Pete Tong\u2019s \u2018All Gone Ibiza\u2019 compilation album.\n\ufffdTheir most recent hit \u2018Love Inc\u2019 comes from their fifth studio album \u2018Eve\u2019, released in 2013 on their freshly-formed Blaufield Music label, showing the world Booka Shade are at the top of their game and still hungry for more.\n\n20 years, dozens of EP\u2019s and 6 albums later, Booka Shade have become more than a household name, they have become synonymous with the spirit which drives electronic music and have set a precedent to which electronic music is still held to today. They continue to pioneer and redefine the boundaries of music in their Berlin studio while keeping an active tour calendar. The boys have recently just polished their new live show for 2015, and just released another potential hit, 'Line of Fire' featuring Karin Park.\n\n21+ / CASH ONLY / ATM's on site", 
+                "start_time": "2016-11-26T21:00:00-0800", 
+                "place": {
+                    "id": "923982834292134", 
+                    "name": "The Midway SF", 
+                    "location": {
+                        "city": "San Francisco", 
+                        "zip": "94124", 
+                        "country": "United States", 
+                        "longitude": -122.386006, 
+                        "state": "CA", 
+                        "street": "900 Marin St", 
+                        "latitude": 37.749454
+                    }
+                }, 
+                "end_time": "2016-11-27T02:00:00-0800", 
+                "id": "658560854307923", 
+                "name": "Booka Shade Movements 10 Tour at The Midway"
+            }, 
+            {
+                "id": "1263989126966531", 
+                "start_time": "2016-11-26T20:00:00+0000", 
+                "end_time": "2016-11-26T22:00:00+0000", 
+                "name": "The Midway Creative Complex, San Francisco, CA, USA"
+            }, 
+            {
+                "id": "523164387854055", 
+                "start_time": "2016-11-25T20:00:00+0000", 
+                "end_time": "2016-11-25T22:00:00+0000", 
+                "name": "Exchange, Los Angeles, CA. USA"
+            }, 
+            {
+                "id": "653100228199489", 
+                "start_time": "2016-11-22T20:00:00+0000", 
+                "place": {
+                    "name": "http://www.southbankcentre.co.uk/whatson/booka-shade-99065?dt=2016-11-22"
+                }, 
+                "end_time": "2016-11-22T22:00:00+0000", 
+                "name": "Movements10, Royal Festival Hall, London, England"
+            }, 
+            {
+                "id": "1149930861732143", 
+                "start_time": "2016-11-04T20:00:00+0000", 
+                "end_time": "2016-11-04T23:45:00+0000", 
+                "name": "Movements10 - Heimathafen, Berlin"
+            }, 
+            {
+                "description": "http://www.swg3.tv/programme/events/booka-shade-live", 
+                "start_time": "2016-09-25T20:00:00+0100", 
+                "place": {
+                    "name": "https://www.google.co.uk/maps/place/100+Eastvale+Pl,+Glasgow,+Glasgow+City+G3+8QG/@55.8645845,-4.3018764,17z/data=!3m1!4b1!4m2!3m1!1s0x48884"
+                }, 
+                "end_time": "2016-09-26T02:00:00+0100", 
+                "id": "1584156805219313", 
+                "name": "SWG3, Glasgow, Scotland"
+            }, 
+            {
+                "id": "1019556234831040", 
+                "start_time": "2016-09-24T13:00:00+0100", 
+                "place": {
+                    "name": "Princes St, Edinburgh EH2 2HG"
+                }, 
+                "end_time": "2016-09-25T02:00:00+0100", 
+                "name": "Ross Band Stand, Edinburgh, Scotland"
+            }, 
+            {
+                "start_time": "2016-09-18T11:00:00+0100", 
+                "name": "Oasis Festival, Marrakech, Morocco", 
+                "id": "191852234540221"
+            }, 
+            {
+                "id": "1071476509598211", 
+                "start_time": "2016-09-16T20:00:00+0200", 
+                "place": {
+                    "name": "Sentrum Scene Arbeidersamfunnets place 1 0181 OSLO"
+                }, 
+                "end_time": "2016-09-16T23:00:00+0200", 
+                "name": "Sentrum Scene, Oslo, Norway"
+            }, 
+            {
+                "id": "1654455841534562", 
+                "start_time": "2016-09-10T18:00:00+0100", 
+                "end_time": "2016-09-10T21:00:00+0100", 
+                "name": "Decadence House, Kiev, Ukraine"
+            }, 
+            {
+                "start_time": "2016-08-28T12:00:00+0100", 
+                "name": "South West Four 2016: Day Two, London, UK", 
+                "id": "941725412583954"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "about": "Amal Arafa Official Page\nAdmin: Wissam Naccache", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MTY4OTY3MjA2NDUxOTIz", 
+                "before": "MTkzMzc0OTgwNzIwODA2"
+            }
+        }, 
+        "data": [
+            {
+                "name": "Amal AraFa", 
+                "id": "193374980720806"
+            }, 
+            {
+                "name": "Almahbi and talented actress Amal Arafa", 
+                "id": "168967206451923"
+            }
+        ]
+    }, 
+    "id": "239682598219", 
+    "fan_count": 41332, 
+    "name": "Amal Arafa -  \u0623\u0645\u0644 \u0639\u0631\u0641\u0629"
+}

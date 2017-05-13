@@ -1,0 +1,235 @@
+{
+    "about": "Download our new album NIGHT SPORTS \nhttp://flyt.it/303NIGHTSPORTS", 
+    "name": "3OH!3", 
+    "fan_count": 4500500, 
+    "id": "31342311778", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MTMxODUxNzk2MTUx", 
+                "before": "Njk5NjAwMzkxMwZDZD"
+            }
+        }, 
+        "data": [
+            {
+                "name": "Fueled By Ramen", 
+                "id": "6996003913"
+            }, 
+            {
+                "name": "SILAS", 
+                "id": "131851796151"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "OTAwNTQxNzU5OTg4MzMw", 
+                "before": "MzM0Njg4MjkwMjA3MTY3"
+            }
+        }, 
+        "data": [
+            {
+                "id": "334688290207167", 
+                "start_time": "2016-12-02T19:00:00-0800", 
+                "place": {
+                    "id": "81705408870", 
+                    "name": "Chain Reaction", 
+                    "location": {
+                        "city": "Anaheim", 
+                        "zip": "92801", 
+                        "country": "United States", 
+                        "longitude": -117.93950661225, 
+                        "state": "CA", 
+                        "street": "1652 W Lincoln Ave", 
+                        "latitude": 33.832020294141
+                    }
+                }, 
+                "description": "3OH!3 at Chain Reaction", 
+                "name": "3OH!3 at Chain Reaction"
+            }, 
+            {
+                "id": "1727309964175626", 
+                "start_time": "2016-07-31T11:00:00-0600", 
+                "place": {
+                    "id": "111829892187838", 
+                    "name": "Pepsi Center", 
+                    "location": {
+                        "city": "Denver", 
+                        "zip": "80204", 
+                        "country": "United States", 
+                        "longitude": -105.00752447164, 
+                        "state": "CO", 
+                        "street": "1000 Chopper Cir", 
+                        "latitude": 39.748515056168
+                    }
+                }, 
+                "description": "Vans Warped Tour Presented By Journeys", 
+                "name": "Vans Warped Tour Presented By Journeys"
+            }, 
+            {
+                "id": "223310331343263", 
+                "start_time": "2016-07-28T11:00:00-0500", 
+                "place": {
+                    "id": "367185979970834", 
+                    "name": "Providence Amphitheater", 
+                    "location": {
+                        "city": "Bonner Springs", 
+                        "zip": "66012", 
+                        "country": "United States", 
+                        "longitude": -94.87709692149, 
+                        "state": "KS", 
+                        "street": "633 N 130th St", 
+                        "latitude": 39.113311870133
+                    }
+                }, 
+                "description": "*DELIVERY DELAY NOTIFICATION: Ticket delivery for the 3D Collector's Tickets may be delayed by approximately four (4) weeks from the on-sale date for custom printing.\t\t\t\r\n\r\nBand lineup subject to change\r\n\r\nGeneral Admission Festival\r\n\r\nDoors at 11am", 
+                "name": "Vans Warped Tour Presented By Journeys"
+            }, 
+            {
+                "id": "824015614387805", 
+                "start_time": "2016-07-27T11:00:00-0500", 
+                "place": {
+                    "id": "42876533145", 
+                    "name": "Hollywood Casino Amphitheatre St. Louis", 
+                    "location": {
+                        "city": "Maryland Heights", 
+                        "zip": "63043", 
+                        "country": "United States", 
+                        "longitude": -90.470139535174, 
+                        "state": "MO", 
+                        "street": "14141 Riverport Dr S", 
+                        "latitude": 38.745204509297
+                    }
+                }, 
+                "description": "*DELIVERY DELAY NOTIFICATION: Ticket delivery for the 3D Collector's Tickets may be delayed by approximately four (4) weeks from the on-sale date for custom printing.\t\t\t\r\n\r\nGeneral Parking is included in the ticket price, just drive and park! Elite Parking is also available for $30 per car.  Act today - You'll be able to arrive late and park close at the concert! You'll even have access to an efficient and dedicated exit at the end of the show! All patrons must have a ticket! Rain or shine event.", 
+                "name": "Vans Warped Tour Presented By Journeys"
+            }, 
+            {
+                "id": "516039605243510", 
+                "start_time": "2016-07-26T11:00:00-0500", 
+                "place": {
+                    "id": "869460669741634", 
+                    "name": "Henry Maier Festival Park (Summerfest Grounds)", 
+                    "location": {
+                        "city": "Milwaukee", 
+                        "zip": "53202", 
+                        "country": "United States", 
+                        "longitude": -87.89766, 
+                        "state": "WI", 
+                        "street": "200 N Harbor Dr", 
+                        "latitude": 43.027554
+                    }
+                }, 
+                "description": "Vans Warped Tour Presented By Journeys", 
+                "name": "Vans Warped Tour Presented By Journeys"
+            }, 
+            {
+                "id": "546701875489705", 
+                "start_time": "2016-07-23T11:00:00-0500", 
+                "place": {
+                    "id": "118909980300", 
+                    "name": "Hollywood Casino Amphitheatre Chicago", 
+                    "location": {
+                        "city": "Tinley Park", 
+                        "zip": "60477", 
+                        "country": "United States", 
+                        "longitude": -87.776044822629, 
+                        "state": "IL", 
+                        "street": "19100 Ridgeland Ave", 
+                        "latitude": 41.543894694105
+                    }
+                }, 
+                "description": "*DELIVERY DELAY NOTIFICATION: Ticket delivery for the 3D Collector's Tickets may be delayed by approximately four (4) weeks from the on-sale date for custom printing.", 
+                "name": "Vans Warped Tour Presented By Journeys"
+            }, 
+            {
+                "id": "333590843431777", 
+                "start_time": "2016-07-22T11:00:00-0400", 
+                "place": {
+                    "id": "17495790844", 
+                    "name": "The Palace of Auburn Hills", 
+                    "location": {
+                        "city": "Auburn Hills", 
+                        "zip": "48326", 
+                        "country": "United States", 
+                        "longitude": -83.245485217844, 
+                        "state": "MI", 
+                        "street": "6 Championship Dr", 
+                        "latitude": 42.696905206416
+                    }
+                }, 
+                "description": "Vans Warped Tour Presented By Journeys", 
+                "name": "Vans Warped Tour Presented By Journeys"
+            }, 
+            {
+                "id": "1713181855596587", 
+                "start_time": "2016-07-21T11:00:00-0400", 
+                "place": {
+                    "id": "44702357401", 
+                    "name": "Riverbend Music Center", 
+                    "location": {
+                        "city": "Cincinnati", 
+                        "zip": "45230", 
+                        "country": "United States", 
+                        "longitude": -84.418405627532, 
+                        "state": "OH", 
+                        "street": "6295 Kellogg Ave", 
+                        "latitude": 39.052929676101
+                    }
+                }, 
+                "description": "Vans Warped Tour Presented By Journeys", 
+                "name": "Vans Warped Tour Presented By Journeys"
+            }, 
+            {
+                "start_time": "2014-09-21T12:00:00-0600", 
+                "place": {
+                    "id": "664658836890463", 
+                    "name": "Sports Authority Field At Mile High", 
+                    "location": {
+                        "city": "Denver", 
+                        "zip": "80204", 
+                        "country": "United States", 
+                        "longitude": -105.01732, 
+                        "state": "CO", 
+                        "street": "1701 Bryant St", 
+                        "latitude": 39.743694
+                    }
+                }, 
+                "name": "Riot Fest", 
+                "id": "1445848009026836"
+            }, 
+            {
+                "description": "Journeys Noise Tour featuring 3OH!3\nw/ The Summer Set, Wallpaper., and New Beat Fund\n\nTickets are on sale NOW - tour dates and links are posted below.\nSee you guys on the road!\n\n*TOUR DATES*\n10/16 - Clifton Park, NY - Upstate Concert Hall - http://cncrt.ly/1ahl8tw\n10/17 - Boston, MA - House of Blues - http://hoblu.es/18yzajF\n10/18 - Asbury Park, NJ - The Stone Pony - http://cncrt.ly/17Lb6z0\n10/20 - Huntington, NY - The Paramount - http://cncrt.ly/19dw6vE\n10/21 - New York, NY - Gramercy Theatre - http://cncrt.ly/13923nN\n10/22 - Philadelphia, PA - TLA - http://cncrt.ly/19dw9HC\n10/23 - Toronto, ON - The Opera House - http://cncrt.ly/136WYws\n10/24 - Silver Spring, MD - The Fillmore - http://cncrt.ly/174biX3\n10/28 - Cleveland, OH - House of Blues - http://hoblu.es/1dJmy1e\n10/29 - Detroit, MI - St. Andrew's Hall - http://cncrt.ly/1e8LLQw\n10/31 - Minneapolis, MN - Varsity Theater - http://cncrt.ly/15BLaGi\n11/01 - Des Moines, IA - Wooly's - http://cncrt.ly/1cDnsIJ\n11/02 - Milwaukee, WI - The Rave - http://cncrt.ly/15wttrt\n11/03 - Chicago, IL - House of Blues - http://hoblu.es/17NYxmq\n11/05 - Nashville, TN - Cannery Ballroom - http://cncrt.ly/17Ld4iN\n11/07 - Orlando, FL - House of Blues - http://hoblu.es/136Woia\n11/08 - Ft. Lauderdale, FL - Revolution - http://cncrt.ly/17litHj\n11/10 - Atlanta, GA - Buckhead Theatre - http://cncrt.ly/1fxkd5k\n11/11 - New Orleans, LA - House of Blues - http://hoblu.es/18mMhFI\n11/12 - Houston, TX - House of Blues - http://hoblu.es/174aUYN\n11/13 - Dallas, TX - House of Blues - http://hoblu.es/17GqFb7\n11/15 - Albuquerque, NM - Sunshine Theatre - http://cncrt.ly/176lyOC\n11/16 - Denver, CO - Summit Music Hall - http://cncrt.ly/15wtN9B\n11/18 - Boise, ID - Knitting Factory - http://cncrt.ly/1cDnRuE\n11/19 - Spokane, WA - Knitting Factory - http://cncrt.ly/1fxjaCb\n11/20 - Seattle, WA - Showbox at the Market - http://cncrt.ly/15BA0dM\n11/21 - Portland, OR - Wonder Ballroom - http://cncrt.ly/17uP4dL\n11/23 - Reno, RV - Knitting Factory - http://cncrt.ly/19g8wyh\n11/24 - San Francisco, CA - The Fillmore - http://cncrt.ly/17GryAm\n11/25 - San Diego, CA - House of Blues - http://hoblu.es/19dvWV5\n11/26 - Los Angeles, CA - House of Blues - http://hoblu.es/1fvrHFS", 
+                "start_time": "2013-10-16T19:00:00-0500", 
+                "place": {
+                    "name": "Journeys Noise Tour"
+                }, 
+                "end_time": "2013-11-26T23:00:00-0600", 
+                "id": "211194325711320", 
+                "name": "ON SALE NOW: Journeys Noise Tour featuring 3OH!3 [Oct 16 - Nov 26]"
+            }, 
+            {
+                "id": "697719687004197", 
+                "start_time": "2012-03-03T10:00:00-0800", 
+                "description": "How are you celebrating 3OH!3 day? All day long, you'll have a chance to buy exclusive merch on 3oh3music.com + we want to see how you're celebrating! Upload your pictures/videos of  how you plan on celebrating 3OH!3 Day- for info, head here: http://pfr.ec/3OH3Day12", 
+                "name": "3OH!3 DAY", 
+                "end_time": "2012-03-03T22:00:00-0800"
+            }, 
+            {
+                "id": "814533625290668", 
+                "start_time": "2011-12-13T00:00:00-0800", 
+                "description": "3OH!3 is reaching back into the vault this December to bring you three unreleased tracks. The new songs will be released on iTunes once each week - beginning with the song \"Bang Bang\" available December 13th! \n\n\"Bang Bang\" - Available Now! - http://PFR.ec/vD2r3H\n\"Dirty Mind\" - Available Now! - http://PFR.ec/tdDJyJ\n\"Set You Free\" - Available 12/27\n\nRSVP and invite your friends to this event!", 
+                "name": "3OH!3 - 3 Weeks - 3 Songs", 
+                "end_time": "2011-12-27T23:30:00-0800"
+            }, 
+            {
+                "id": "900541759988330", 
+                "start_time": "2011-06-21T22:00:00-0700", 
+                "description": "3OH!3 will be on Loveline on Tuesday, June 21st - answering your sex and relationship questions with Dr. Drew and Mike Catherwood. \n\nYou can listen to the show live at http://lovelineshow.com next Tuesday at 10pm Pacific.  Give the band a call during the show at 1-800-LOVE-191.", 
+                "name": "3OH!3 on Loveline w/ Mike & Dr. Drew!", 
+                "end_time": "2011-06-22T01:00:00-0700"
+            }
+        ]
+    }
+}

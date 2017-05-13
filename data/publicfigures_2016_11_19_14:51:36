@@ -1,0 +1,128 @@
+{
+    "about": "Blazers Garage Rock Band \nhttps://soundcloud.com/blazersband", 
+    "name": "Blazers", 
+    "fan_count": 667, 
+    "id": "168327289890443", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MTA5NDQyNTc1NzQyMjA5", 
+                "before": "MTIzNTQ4ODA3ODU2MzM4"
+            }
+        }, 
+        "data": [
+            {
+                "name": "The Night Thieves", 
+                "id": "123548807856338"
+            }, 
+            {
+                "name": "Alianza Francesa Guadalajara", 
+                "id": "408485015839392"
+            }, 
+            {
+                "name": "RMX radio", 
+                "id": "159872204031684"
+            }, 
+            {
+                "name": "Los Chicos del P\u00f3rtico", 
+                "id": "367985396557479"
+            }, 
+            {
+                "name": "The Harpers.", 
+                "id": "186283284740933"
+            }, 
+            {
+                "name": "The Kooks", 
+                "id": "109442575742209"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "ODI5NjU0MTM3MTMyMTEz", 
+                "before": "MjQ3MDgyOTI4ODI4Njk0"
+            }
+        }, 
+        "data": [
+            {
+                "id": "247082928828694", 
+                "start_time": "2014-05-09T21:00:00-0500", 
+                "description": "Este pr\u00f3ximo viernes 9 de mayo a las 9 pm, estaremos tocando en Vintage Pub. Entrada libre \u00a1No faltes!\nDirecci\u00f3n:\nLopez Cotilla #2275 entre Arcos y Aurelio Aceves a una cuadra y media de la Minerva. \nhttps://www.google.com.mx/maps/place/L%C3%B3pez+Cotilla+2275/@20.6732948,-103.3854038,17z/data=!4m2!3m1!1s0x8428ae72660630e3:0xd00c11cb4f96b62f", 
+                "name": "Blazers en Vintage Pub"
+            }, 
+            {
+                "id": "272883106206040", 
+                "start_time": "2014-04-10T20:00:00-0500", 
+                "description": "Blazers se estar\u00e1 presentando este 10 de abril en punto de las 9pm en La Faustina Bar\nMUJERES BARRA LIBRE\nGuadalupe Zuno #1961 entre Chapultepec y Progreso\nhttps://www.google.com.mx/maps/place/Jose+Guadalupe+Zuno+Hernandez+1961/@20.6704583,-103.3678168,17z/data=!3m1!4b1!4m2!3m1!1s0x8428ae05d171153b:0xef77a73dd60487b", 
+                "name": "Blazers en La Faustina Bar", 
+                "end_time": "2014-04-10T23:00:00-0500"
+            }, 
+            {
+                "id": "401664386544237", 
+                "start_time": "2012-06-09T19:00:00-0500", 
+                "description": "Los Vatos este sabado en el cafe restaurant luna morada presentando su EP \"Steve?\" \nNo cover\nSolo ese dia, ven y llevate tu copia firmada por \"El Dani\"", 
+                "name": "Blazers \"En Transito\""
+            }, 
+            {
+                "id": "988190677859427", 
+                "start_time": "2012-04-21T20:00:00-0700", 
+                "description": "No te pierdas el evento de esta gran banda de nueva york que se presenta en uno de los mejores escenarios de guadalajara, un exelente espectaculo garantizado o te devolvemos tu dinero\nENTRADA LIBRE", 
+                "name": "Otra Vez Los Blazers", 
+                "end_time": "2012-04-21T22:00:00-0700"
+            }, 
+            {
+                "id": "674063826031537", 
+                "start_time": "2012-02-11T18:00:00-0800", 
+                "description": "Oye tu que desmadre traes?\nMejor vente a cotorrear con la tribu este sabado 11 en el cafe luna morada, escucha un rato el desmadre de los clips, cassius y blazers, cagate de la risa con el hiram y su tripeo y ademas.... uuuuuaaaaa!\nNO COVER", 
+                "name": "Tripeo Intenso Con La Tribu", 
+                "end_time": "2012-02-11T21:00:00-0800"
+            }, 
+            {
+                "id": "601670159935508", 
+                "start_time": "2011-12-11T14:30:00-0800", 
+                "description": "Hagan paro!! este es un concurso para la grabacion de un EP pero ocupamos que nos ayuden a llevar mucha gente c:\n\nEl boleto cuesta 50 varos D: pero para que se animen a los que vayan les regalamos calcamonias con el logo, pins, una chela y una copia del demo para que valga la pena su dinero :D (ademas de que clou hara privados)\n\nAYUDANOS INVITANDO A TUS COMPAS O A TU RUCA O A TU BATO O A QUIEN PUEDAS!!", 
+                "name": "los Blazers en el ZAPATA CONTEST", 
+                "end_time": "2011-12-11T22:00:00-0800"
+            }, 
+            {
+                "id": "600772583358462", 
+                "start_time": "2011-12-09T15:00:00-0800", 
+                "description": "si no tienen nada que hacer este viernes caiganle desde las 3 al cuaad, no cover y las caguas a 25!!! :O\ncon la mala \"musica\" de los Blazers y los Clips\nlleguen tempra para que se armen las carreritas de caguamas XD", 
+                "name": "pistiembre con los Blazers y los Clips", 
+                "end_time": "2011-12-09T18:30:00-0800"
+            }, 
+            {
+                "id": "815206715182695", 
+                "start_time": "2011-11-10T19:00:00-0800", 
+                "description": "Entrada gratis para que se den una vuelta y se hechen un palomazo los que gusten, empieza a las 7!!\n\nPALOMAZO!! Y KARAOKE HASTA LAS 3AM\n\nNO COVER!!\n\nCOCTELERIA INTERNACIONAL 2 X 1 Y MARTINIS!!\n\nBANDAS INVITADAS\n\n\"CLIPS\"\nhttp://www.facebook.com/pages/CLIPS/225657954113186\n\n\"BLAZERS\"\nhttp://www.facebook.com/pages/Blazers/168327289890443\n\n\"THE LOSERS\"\nhttp://www.facebook.com/LosersBand\n\nLOGISTICA:\n\nJUEVES 10/NOVIEMBRE/2011\nPUERTAS 6PM\nCOMIENZA LA MUSICA EN VIVO 7PM\nCOMIENZA EL KARAOKE 9:50PM HASTA LAS 3AM\n\nESTACIONAMIENTO GRATIS!\nCONTAMOS CON AREA PARA FUMADORES!\nENTRADA A TODAS LAS EDADES!\n\n\nINVITA KARAOKE ROCK N LIVE & LINKINN ROCK SHOW!\nOrganizacion de eventos. \nNEXTEL 16659265 \nID 72*12*19308 \nCEL 044 - 3339545204", 
+                "name": "Juebebes de palomazo con los blazers y the losers", 
+                "end_time": "2011-11-10T21:30:00-0800"
+            }, 
+            {
+                "id": "886249818103259", 
+                "start_time": "2011-10-21T16:00:00-0700", 
+                "end_time": "2011-10-21T19:00:00-0700", 
+                "name": "The Cassius, Blazers y Clips en el cuadchela"
+            }, 
+            {
+                "id": "878604378849149", 
+                "start_time": "2011-10-21T16:00:00-0700", 
+                "end_time": "2011-10-21T19:00:00-0700", 
+                "name": "The Cassius, Blazers y Clips en el cuadchela"
+            }, 
+            {
+                "id": "904694112971879", 
+                "start_time": "2011-10-08T08:00:00-0700", 
+                "end_time": "2011-10-08T11:00:00-0700", 
+                "name": "blablablablabla con los Clips y los Blazers"
+            }, 
+            {
+                "id": "829654137132113", 
+                "start_time": "2011-09-23T16:30:00-0700", 
+                "end_time": "2011-09-23T19:30:00-0700", 
+                "name": "Toquin con Los Clips y los blazers"
+            }
+        ]
+    }
+}

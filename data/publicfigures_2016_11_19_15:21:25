@@ -1,0 +1,196 @@
+{
+    "about": "Live Bookings: scumeck@mct-agentur.com \nNorth/SouthAmerica: Adam.Ogushwitz@unitedtalent.com+ Jake Bernstein\nManagement & Contact: management@gusgus.com\n", 
+    "name": "GusGus", 
+    "fan_count": 146574, 
+    "id": "27595561729", 
+    "likes": {
+        "paging": {
+            "cursors": {
+                "after": "MTYwOTM3NTM3MjY0NzEz", 
+                "before": "MTAzNzc4MzQyOTk0MDIw"
+            }
+        }, 
+        "data": [
+            {
+                "name": "United Talent Agency", 
+                "id": "103778342994020"
+            }, 
+            {
+                "name": "The GreenHouse MGMT & PR", 
+                "id": "1062846400422207"
+            }, 
+            {
+                "name": "Music Reach", 
+                "id": "572064742890030"
+            }, 
+            {
+                "name": "OZ, Inc.", 
+                "id": "231185263673729"
+            }, 
+            {
+                "name": "Das Lokal", 
+                "id": "105257909525899"
+            }, 
+            {
+                "name": "workaholic", 
+                "id": "200303770766"
+            }, 
+            {
+                "name": "Systematic Recordings", 
+                "id": "146640112040428"
+            }, 
+            {
+                "name": "H\u00f6nnunarMars // DesignMarch", 
+                "id": "310802995640745"
+            }, 
+            {
+                "name": "Helicopter", 
+                "id": "127660807294900"
+            }, 
+            {
+                "name": "Ben Frost", 
+                "id": "29690358334"
+            }, 
+            {
+                "name": "John Grant", 
+                "id": "114228731932428"
+            }, 
+            {
+                "name": "Gluteus Maximus", 
+                "id": "275447429215518"
+            }, 
+            {
+                "name": "MCT Agentur", 
+                "id": "150159355011875"
+            }, 
+            {
+                "name": "Disk\u00f3kv\u00f6ld Margeirs", 
+                "id": "312742922086717"
+            }, 
+            {
+                "name": "BandPage", 
+                "id": "291767130861178"
+            }, 
+            {
+                "name": "Kolombo - Official Fan page", 
+                "id": "350187437493"
+            }, 
+            {
+                "name": "J\u00f3n J\u00f3nsson", 
+                "id": "20546073094"
+            }, 
+            {
+                "name": "Dan\u00edel \u00c1g\u00fast", 
+                "id": "101542849912182"
+            }, 
+            {
+                "name": "UR\u00d0UR", 
+                "id": "149231965138128"
+            }, 
+            {
+                "name": "DJ Margeir", 
+                "id": "370825689684539"
+            }, 
+            {
+                "name": "Human Woman", 
+                "id": "160937537264713"
+            }
+        ]
+    }, 
+    "events": {
+        "paging": {
+            "cursors": {
+                "after": "NTQ3ODE2OTgyMDExNjIz", 
+                "before": "MTc1OTQ5NDkyMDk5NzQ0MQZDZD"
+            }
+        }, 
+        "data": [
+            {
+                "description": "Tuesday, November 15th at El Rey Theatre.\n\nDoors are at 8 PM.\n\nAll ages.\n\nOn sale 9/16 at 10 AM.\n\nPresale happening 9/15\nPassword = CROSSFADE\n\nBuy your tickets here: http://axs.com/events/324870/gusgus-tickets\t\n\nMore info: http://www.goldenvoice.com/#/event/324870\n\nWant to save some cash? All El Rey and Fonda tickets are available at Amoeba Music in Hollywood and for reduced service fees.", 
+                "start_time": "2016-11-15T20:00:00-0800", 
+                "place": {
+                    "id": "7764573022", 
+                    "name": "El Rey", 
+                    "location": {
+                        "city": "Los Angeles", 
+                        "zip": "90036", 
+                        "country": "United States", 
+                        "longitude": -118.34889, 
+                        "state": "CA", 
+                        "street": "5515 Wilshire Blvd", 
+                        "latitude": 34.0627
+                    }
+                }, 
+                "end_time": "2016-11-15T23:59:00-0800", 
+                "id": "1759494920997441", 
+                "name": "GusGus"
+            }, 
+            {
+                "description": "GusGus blev dannet i Reykjavik i 1995. Oprindeligt som et film- og skuespillerkollektiv, men da nogle musikere og DJs sluttede sig til f\u00e6llesskabet, blev \u2019holdet\u2019 f\u00f8rst og fremmest kendt for sin musik. Lyden er elektronisk men i et sk\u00e6vt sp\u00e6ndingsfelt mellem techno, dance, trip hop og house blandet med syre-infuserede synths og \u2013 til tider \u2013 et instrumentalt tvist af nordisk folkemusik.\n\nSiden dannelsen har GusGus udgivet hele ti albums, senest \u2019Mexico\u2019 fra 2014, og bandet barsler nyt album i 2016.\n \n\u2716: Forsalg: 170,- DKK + gebyr\n\u2716: Koncertstart: kl.20.00 / D\u00f8ren \u00e5bner 19.00 (kan k\u00f8bes via train.dk)", 
+                "start_time": "2016-09-15T20:00:00+0200", 
+                "place": {
+                    "id": "350670763153", 
+                    "name": "Train Live", 
+                    "location": {
+                        "city": "Aarhus", 
+                        "zip": "8000", 
+                        "country": "Denmark", 
+                        "longitude": 10.211723018, 
+                        "street": "Toldbodgade 6", 
+                        "latitude": 56.152481027965
+                    }
+                }, 
+                "end_time": "2016-09-15T23:00:00+0200", 
+                "id": "941047359342310", 
+                "name": "GusGus + support Lui // Train Live"
+            }, 
+            {
+                "id": "1624552931198256", 
+                "start_time": "2016-06-25T14:00:00+0000", 
+                "place": {
+                    "id": "213464315335262", 
+                    "name": "Esja", 
+                    "location": {
+                        "latitude": 64.209174320494, 
+                        "city": "Reykjav\u00edk, Iceland", 
+                        "longitude": -21.714466172039
+                    }
+                }, 
+                "description": "Fylgdu okkur \u00e1 Esjuna \u00ed bo\u00f0i Nova. \n\nAllar n\u00e1nari uppl\u00fdsingar: http://bit.ly/28QyFe6\n\nTaktu daginn fr\u00e1.\n\nHelo - Helicopter Service of Iceland \u00feyrlu\u00fej\u00f3nusta mun bj\u00f3\u00f0a upp \u00e1 flug \u00e1 toppinn! \n\n\u00deyrlufer\u00f0in kostar 6.500 kr. \u00e1 mann en ef \u00fe\u00fa borgar me\u00f0 AUR appinu kostar h\u00fan 5.500 kr. www.aur.is \n\n\u00deyrlan mun taka \u00e1 loft vi\u00f0 r\u00e6tur Esjunnar\n\n\u00cd g\u00f3\u00f0u samstarfi vi\u00f0 Sk\u00f3gr\u00e6ktarf\u00e9lag Reykjav\u00edkur.\n\nAllir velkomnir.\n\n---\n\nJoin us at the top of Esja - Reykjav\u00edk's landmark mountain.\n\nIt's a free event and everybody's welcome!\n\nHelo - Helicopter Service of Iceland will offer flights to the top. The ride costs 6.500 kr. but if you pay with the Aur app it costs 5.500.\n\nThe helicopter takes off at the mountains parking lot and will be very visible when you arrive.", 
+                "name": "GusGus og DJ Margeir \u00e1 toppi Esju me\u00f0 Nova!"
+            }, 
+            {
+                "id": "778484142241842", 
+                "start_time": "2015-01-24T22:00:00+0000", 
+                "place": {
+                    "id": "708859675818130", 
+                    "name": "Gamla B\u00ed\u00f3", 
+                    "location": {
+                        "city": "Reykjav\u00edk", 
+                        "zip": "101", 
+                        "country": "Iceland", 
+                        "longitude": -21.93366, 
+                        "street": "Ing\u00f3lfsstr\u00e6ti 2 a", 
+                        "latitude": 64.14699
+                    }
+                }, 
+                "description": "Gus Gus me\u00f0 T\u00f3nleika \u00ed Gamla b\u00ed\u00f3 24 jan\u00faar\n\nGus Gus \u00e6tla a\u00f0 fagna n\u00fdju \u00e1ri me\u00f0 t\u00f3nleikum \u00ed gl\u00e6silegum sal Gamla b\u00ed\u00f3 \u00feann 24 jan\u00faar.\nHlj\u00f3msveitin hefur n\u00fdlega loki\u00f0 l\u00f6ngu t\u00f3nleikafer\u00f0alagi um Evr\u00f3pu og Bandar\u00edkin og er \u00ed fr\u00e1b\u00e6ru formi. \u00datg\u00e1fut\u00f3nleikar hlj\u00f3msveitarinnar \u00ed Listasafni Reykjav\u00edkur t\u00f3kust einstaklega vel en \u00fev\u00ed mi\u00f0ur komust f\u00e6rri a\u00f0 en vildu. \nA\u00f0d\u00e1endur f\u00e1 n\u00fa anna\u00f0 t\u00e6kif\u00e6ri til a\u00f0 sj\u00e1 Gus Gus. \nMi\u00f0asala fer fram \u00e1 midi.is og hefst h\u00fan f\u00f6studaginn 9. Jan\u00faar.\nDj Yamaho mun hita mannskapinn upp og spila fyrir gesti eftir a\u00f0 t\u00f3nleikunum l\u00edkur. \n\nH\u00fasi\u00f0 opnar kl 22.00 Gus Gus st\u00edga \u00e1 svi\u00f0 kl 23.00\n\nMi\u00f0aver\u00f0 er 5900. Aldurstakmark er 18 \u00e1r", 
+                "name": "Gus Gus t\u00f3nleikar"
+            }, 
+            {
+                "id": "547816982011623", 
+                "start_time": "2014-09-16T00:00:00+0200", 
+                "place": {
+                    "id": "106085842755444", 
+                    "name": "Polonia", 
+                    "location": {
+                        "latitude": 52, 
+                        "longitude": 19
+                    }
+                }, 
+                "description": "Gusgus vs Poland\n16.09:  Warsaw  - Basen\n17:09:  Cracow   - Klub Studio\n19:09:  Gdansk   - Klub B90\n20:09:  Poznan   - Klub Eskulap\n21:09:  Wroclaw  - Klub Eter", 
+                "name": "Gusgus vs Poland now in September"
+            }
+        ]
+    }
+}
