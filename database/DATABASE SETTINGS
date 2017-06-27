@@ -1,0 +1,59 @@
+Startup:
+
+connect to host at digital ocean servers:
+ssh root@45.55.251.74
+ssh amacedo@45.55.251.74
+Agaporni92
+
+vncserver:
+secure password = myguest123
+ssh -L 5901:127.0.0.1:5901 -N -f -l amacedo 45.55.251.74
+ssh -f -N -L 5901:localhost:5901 amacedo@45.55.251.74
+
+root pass:Ar-920601
+sergio/S1ngler345
+helio/S1ngler345
+
+mysql:
+root password: S1ngler345
+
+CREATE DATABASE globaldb;
+--armando
+CREATE USER 'amacedo'@'localhost' IDENTIFIED BY 'Agaporni92';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'amacedo'@'localhost';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'amacedo'@'189.163.226.23';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'amacedo'@'%';
+GRANT SUPER ON *.* TO 'amacedo'@'%';
+CREATE USER 'amacedo'@'45.55.251.74' IDENTIFIED BY 'Agaporni92';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'amacedo'@'45.55.251.74';
+GRANT SUPER ON *.* TO 'amacedo'@'45.55.251.74';
+FLUSH PRIVILEGES;
+
+--helio
+CREATE USER 'helio'@'localhost' IDENTIFIED BY 'S1ngler345';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'helio'@'localhost';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'helio'@'%';
+GRANT SUPER ON *.* TO 'helio'@'%';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'helio'@'189.163.226.23' IDENTIFIED BY 'S1ngler345'
+GRANT ALL PRIVILEGES ON globaldb.* TO 'helio'@'%' IDENTIFIED BY 'S1ngler345'
+CREATE USER 'helio'@'45.55.251.74' IDENTIFIED BY 'S1ngler345';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'helio'@'45.55.251.74';
+GRANT SUPER ON *.* TO 'helio'@'45.55.251.74';
+FLUSH PRIVILEGES;
+
+--serio
+CREATE USER 'sergio'@'localhost' IDENTIFIED BY 'S1ngler345';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'sergio'@'localhost';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'sergio'@'%';
+GRANT SUPER ON *.* TO 'sergio'@'%';
+CREATE USER 'sergio'@'45.55.251.74' IDENTIFIED BY 'S1ngler345';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'sergio'@'45.55.251.74';
+GRANT SUPER ON *.* TO 'sergio'@'45.55.251.74';
+FLUSH PRIVILEGES;
+
+--root
+GRANT ALL PRIVILEGES ON globaldb.* TO 'root'@'localhost';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'root'@'%';
+GRANT ALL PRIVILEGES ON globaldb.* TO 'root'@'45.55.251.74';
+GRANT ALL PRIVILEGES ON sg_dev.* TO 'root'@'%'
+FLUSH PRIVILEGES;
